@@ -7,7 +7,7 @@ public class ShieldSoldier : MonoBehaviour
     public float deathAnimationDuration = 2f; 
     private Animator animator;
     public Transform player;
-    public float moveSpeed = 0.5f;
+    public float moveSpeed = 0.1f;
     private float distance = 2f;
     private SpriteRenderer spriteRenderer;
     private bool wait = false;
@@ -68,7 +68,7 @@ public class ShieldSoldier : MonoBehaviour
 
     private IEnumerator HandleDeath()
     {
-        yield return new WaitForSeconds(deathAnimationDuration);
+        yield return new WaitForSeconds(1f);
         Destroy(gameObject);
     }
 

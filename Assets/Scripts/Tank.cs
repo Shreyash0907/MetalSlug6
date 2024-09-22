@@ -54,6 +54,9 @@ public class Tank : MonoBehaviour
     }
 
     private void OnCollisionEnter2D(Collision2D collision){
+        if( !collision.gameObject.CompareTag("PlayerBullet")){
+            return;
+        }
         if(health > 0){
             health -= 10f;
         }

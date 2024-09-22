@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 using UnityEngine;
 
 public class Rocket : MonoBehaviour
@@ -9,12 +10,15 @@ public class Rocket : MonoBehaviour
     public float speed = 0.001f; // Speed of the rocket
     private Rigidbody2D rb;
     private Animator animator;
+    private bool isDestroyed = false;
     void Start()
     {
+        StartCoroutine(Delay());
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         rb.velocity = new Vector2(0, 1f);
         InvokeRepeating("Fire", 0f, 0.5f);
+        Invoke("DestroyRocket", 2.5f);
     }
 
     // Update is called once per frame
@@ -34,17 +38,25 @@ public class Rocket : MonoBehaviour
         // Move the rocket towards the player
         rb.velocity = direction * speed;
     }
+
+    private IEnumerator Delay()
+    {
+        yield return new WaitForSeconds(1f);
+    }
+    private void DestroyRocket(){
+        if(!isDestroyed)
+        {
+            rb.isKinematic = true;
+            isDestroyed = true;
+            animator.SetTrigger("Explode");
+            Destroy(gameObject,0.5f);
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D collision){
+        if(collision.gameObject.CompareTag("Player")){
+            DestroyRocket();
+        }
+    }
     
 
-    // private void UpdateAnimation(Vector3 direction)
-    // {
-    //     // Check the speed of the rocket to determine the animation state
-    //     bool isMoving = direction.magnitude > 0.1f; // Threshold to determine if the rocket is moving
-
-    //     animator.SetBool("RocketLaunched", isMoving); // Set the "IsMoving" parameter in the Animator
-        
-    //     // Optionally, set the direction for more complex animations
-    //     // animator.SetFloat("DirectionX", direction.x);
-    //     // animator.SetFloat("DirectionY", direction.y);
-    // }
 }

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography;
 using Unity.AI.Navigation;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class GunSoldier : MonoBehaviour
@@ -14,12 +15,14 @@ public class GunSoldier : MonoBehaviour
     [SerializeField] private Transform firingPoint;
     private bool hasFired = false;
     private SpriteRenderer spriteRenderer;
+    // private Rigidbody2D body;
+    private Collider2D colliderBody;
 
     void Start()
     {
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
-        
+        colliderBody = GetComponent<BoxCollider2D>();
         
     }
 
@@ -63,8 +66,16 @@ public class GunSoldier : MonoBehaviour
     }
 
     
-    private void OnCollisionEnter2D(Collision2D collision){
-        if(collision.gameObject.tag == "PlayerBullet"){
+    // private void OnCollisionEnter2D(Collision2D collision){
+    //     if(collision.gameObject.CompareTag("PlayerBullet") || collision.gameObject.CompareTag("Grenade")){
+    //         animator.SetBool("BulletHit", true);
+    //         Destroy(collision.gameObject);
+    //         StartCoroutine(HandleDeath());
+    //     }
+    // }
+    private void OnTriggerEnter2D(Collider2D collision){
+        if(collision.gameObject.CompareTag("PlayerBullet") || collision.gameObject.CompareTag("Grenade")){
+            colliderBody.enabled = false;
             animator.SetBool("BulletHit", true);
             Destroy(collision.gameObject);
             StartCoroutine(HandleDeath());
@@ -73,7 +84,7 @@ public class GunSoldier : MonoBehaviour
 
     private IEnumerator HandleDeath()
     {
-        yield return new WaitForSeconds(deathAnimationDuration);
+        yield return new WaitForSeconds(0.5f);
         Destroy(gameObject);
     }
 

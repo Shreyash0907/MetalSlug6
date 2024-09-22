@@ -11,10 +11,12 @@ public class PillBox : MonoBehaviour
     private Animator animator;
     private float health;
     private bool hasFired1 = false, hasFired2 = false;
+    private Collider2D colliderbody;
     
     void Start()
     {
         animator = GetComponent<Animator>();
+        colliderbody = GetComponent<PolygonCollider2D>();
         health = 100f;
     }
     void Update(){
@@ -50,12 +52,17 @@ public class PillBox : MonoBehaviour
     }
 
     private void OnCollisionEnter2D(Collision2D collision){
-        if(health > 0){
-            health -= 10f;
+        if(health > 0 ){
+            if(collision.gameObject.CompareTag("PlayerBullet")){
+                health -= 10f;
+            }else if(collision.gameObject.CompareTag("Grenade")){
+                health -= 50f;
+            }
         }
         if(health <= 0){
-            animator.SetTrigger("TankDestroyed");
-            Destroy(gameObject, 4f);
+            colliderbody.enabled = false;
+            animator.SetTrigger("Destroyed");
+            Destroy(gameObject, 1f);
         }
     }
     private bool IsInCameraView()

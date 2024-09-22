@@ -33,9 +33,9 @@ public class bullet : MonoBehaviour
     {
         // Check if the bullet collided with a soldier
         
-        if(collision.gameObject.CompareTag("Slope") || collision.gameObject.CompareTag("Bullet")){
-            return;
-        }
+        // if(collision.gameObject.CompareTag("Slope") || collision.gameObject.CompareTag("Bullet")){
+        //     return;
+        // }
         Destroy(gameObject);
         
     }

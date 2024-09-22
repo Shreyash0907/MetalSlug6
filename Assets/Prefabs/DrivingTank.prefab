@@ -10,6 +10,8 @@ GameObject:
   m_Component:
   - component: {fileID: 3305586393118644958}
   - component: {fileID: 6665216761366054244}
+  - component: {fileID: 3012847136625744124}
+  - component: {fileID: 984292696026322713}
   m_Layer: 0
   m_Name: DrivingTank
   m_TagString: Untagged
@@ -27,10 +29,12 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 24.173, y: -1.75, z: 0}
-  m_LocalScale: {x: 0.6, y: 0.6, z: 1}
+  m_LocalScale: {x: 0.7, y: 0.7, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6610722810017161320}
+  - {fileID: 3197148469755270869}
+  - {fileID: 2927530551703704249}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &6665216761366054244
@@ -85,6 +89,121 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!60 &3012847136625744124
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1141780289778347673}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5753143, y: 0.6684361}
+    oldSize: {x: 1.48, y: 0.75}
+    newSize: {x: 1.48, y: 0.75}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.6085348, y: 0.038672905}
+      - {x: 0.62853485, y: 0.0786729}
+      - {x: 0.62853485, y: 0.2486729}
+      - {x: 0.6085348, y: 0.2486729}
+      - {x: 0.45853484, y: 0.1386729}
+      - {x: 0.28853485, y: 0.1986729}
+      - {x: 0.310893, y: 0.19674233}
+      - {x: 0.19393983, y: 0.4228504}
+      - {x: 0.07130781, y: 0.39435655}
+      - {x: -0.13982613, y: 0.311824}
+      - {x: -0.45680204, y: 0.3302126}
+      - {x: -0.45060012, y: 0.23822223}
+      - {x: -0.26487827, y: 0.2199905}
+      - {x: -0.22146514, y: 0.2286729}
+      - {x: -0.40146515, y: 0.088672906}
+      - {x: -0.527532, y: 0.071705714}
+      - {x: -0.61146516, y: -0.011327094}
+      - {x: -0.7905638, y: -0.15132709}
+      - {x: -0.81146514, y: -0.27132708}
+      - {x: -0.7814651, y: -0.2913271}
+      - {x: 0.51853484, y: -0.2913271}
+      - {x: 0.62853485, y: -0.21132709}
+      - {x: 0.62853485, y: -0.031327095}
+  m_UseDelaunayMesh: 0
+--- !u!114 &984292696026322713
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1141780289778347673}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a01c17cbd8c56c4f968849a99395df7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rocket: {fileID: 4866793705477935518, guid: 334e42c48df048b48894a745e8ca706c, type: 3}
+  bombPrefab: {fileID: 8348380056918888767, guid: 387037bc88ecfc64c9cd80c373e9a7a8, type: 3}
+  player: {fileID: 0}
+  mainCamera: {fileID: 0}
+--- !u!1 &5582763080674892874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2927530551703704249}
+  m_Layer: 0
+  m_Name: BombFiringPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2927530551703704249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5582763080674892874}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.518, y: 0.263, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3305586393118644958}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8597953435456475206
 GameObject:
   m_ObjectHideFlags: 0
@@ -169,3 +288,34 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &8711252971561381546
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3197148469755270869}
+  m_Layer: 0
+  m_Name: RocketFiringPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3197148469755270869
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8711252971561381546}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.318, y: 0.142, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3305586393118644958}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

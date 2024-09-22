@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4761087277223937898}
   - component: {fileID: 5538893431715501396}
   - component: {fileID: 206707948621013806}
+  - component: {fileID: 7517406802715324120}
   m_Layer: 0
   m_Name: Rocket
   m_TagString: Untagged
@@ -149,3 +150,57 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   speed: 1
+--- !u!60 &7517406802715324120
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4866793705477935518}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.7080713, y: 0.7020712}
+    oldSize: {x: 0.25, y: 0.57}
+    newSize: {x: 0.25, y: 0.57}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.003111571, y: 0.18651754}
+      - {x: -0.05696182, y: 0.076405056}
+      - {x: -0.05362396, y: -0.18344553}
+      - {x: -0.023602754, y: -0.17003116}
+      - {x: -0.007017822, y: -0.15322128}
+      - {x: 0.006229244, y: -0.14656082}
+      - {x: 0.032908782, y: -0.1633521}
+      - {x: 0.059883118, y: -0.16629791}
+      - {x: 0.056281433, y: 0.08967}
+  m_UseDelaunayMesh: 0

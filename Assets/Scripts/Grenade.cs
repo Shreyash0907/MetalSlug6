@@ -12,7 +12,7 @@ public class Grenade : MonoBehaviour
         body = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         circleCollider = GetComponent<CircleCollider2D>();
-        // StartCoroutine(Sleep());
+        StartCoroutine(Sleep());
         
     }
     IEnumerator Sleep()

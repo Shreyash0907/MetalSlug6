@@ -10,11 +10,15 @@ public class Soldier : MonoBehaviour
     public float moveSpeed = 0.2f;
     private float distance = 2f;
     private SpriteRenderer spriteRenderer;
+    private Collider2D colliderbody;
+    private Rigidbody2D body;
 
     void Start()
     {
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        colliderbody = GetComponent<BoxCollider2D>();
+        body = GetComponent<Rigidbody2D>();
     }
     void Update(){
         float xDistance = Mathf.Abs(player.position.x - transform.position.x);
@@ -54,12 +58,22 @@ public class Soldier : MonoBehaviour
         Destroy(gameObject);
     }
 
+    public void Die(){
+        animator.SetBool("bulletHit", true);
+        StartCoroutine(HandleDeath());
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.gameObject.CompareTag("PlayerBullet"))
+        Debug.Log(collision.gameObject.tag);
+        if(collision.gameObject.CompareTag("Meele")){
+            Die();
+        }
+        if(collision.gameObject.CompareTag("PlayerBullet") || collision.gameObject.CompareTag("Grenade"))
         {
-            animator.SetBool("bulletHit", true);
-            StartCoroutine(HandleDeath());
+            colliderbody.enabled = false;
+            moveSpeed = 0f;
+            Die();
             Destroy(collision.gameObject);
         }
         
@@ -69,4 +83,5 @@ public class Soldier : MonoBehaviour
             
         }
     }
+
 }

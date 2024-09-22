@@ -1,9 +1,11 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices.WindowsRuntime;
 using Unity.VisualScripting;
 
 // using System.Numerics;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class player : MonoBehaviour
 {
@@ -12,7 +14,7 @@ public class player : MonoBehaviour
     private float moveForce = 0.8f;
 
     [SerializeField]
-    private float jumpForce = 3f;
+    private float jumpForce = 2.5f;
 
     private float moveX, moveY;
 
@@ -47,19 +49,29 @@ public class player : MonoBehaviour
     private bool isLookingUp = false;
     private bool isCrouched = false;
     private bool isLookingLeft = false;
-
+    private float leftConstraint;
+    private Camera cam; 
+    private Collider2D meeleCollider;
 
     private void Awake(){
         playerBody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         boxCollider2D = GetComponent<BoxCollider2D>();
+        cam = Camera.main;
+        float height = 2f * cam.orthographicSize;
+        leftConstraint = height * cam.aspect;
+        leftConstraint /= 2;
     }
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        Transform childTransform = transform.Find("Meele");
+        if (childTransform != null)
+        {
+            meeleCollider = childTransform.GetComponent<EdgeCollider2D>();
+        }
     }
 
 
@@ -71,14 +83,20 @@ public class player : MonoBehaviour
         jumpPlayer();
         Crouch();
         LookUpward();
-        
+
         if(Input.GetMouseButtonDown(1)){
+            MeeleAttack();
+
+        }
+        
+        if(Input.GetKeyDown(KeyCode.C)){
             ThrowGrenade();
         }
 
         if(Input.GetMouseButtonDown(0)){
             Shoot();
         }
+
     }
 
     private void Shoot(){
@@ -135,8 +153,7 @@ public class player : MonoBehaviour
             movement.y = slopeMove;
         }
         Vector2 clampedPosition = transform.position;
-        clampedPosition.x = Mathf.Clamp(clampedPosition.x + movement.x * Time.deltaTime, minX, maxX);
-
+        clampedPosition.x = Mathf.Clamp(clampedPosition.x + movement.x * Time.deltaTime, cam.transform.localPosition.x - leftConstraint, maxX);
         // Set the new position while keeping Y position unchanged
         transform.position = new Vector2(clampedPosition.x, transform.position.y);
 
@@ -152,7 +169,6 @@ public class player : MonoBehaviour
         if (collision.gameObject.CompareTag("Slope"))
         {
             isOnSlope = true;
-            isGrounded = true;
             
         }
 
@@ -160,7 +176,7 @@ public class player : MonoBehaviour
             isGrounded = true;
         }
         if(collision.gameObject.CompareTag("Soldier")){
-            Debug.Log("Attacked");
+            
         }
 
     }
@@ -174,6 +190,20 @@ public class player : MonoBehaviour
         if(collision.gameObject.CompareTag("Ground")){
             isGrounded = false;
         }
+    }
+
+    // private IEnumerator Delay(float duration)
+    // {
+    //     yield return new WaitForSeconds(duration);
+    // }
+
+    private void MeeleAttack(){
+        if(isWalking){
+            animator.SetTrigger("MeeleWalking");
+        }else{
+            animator.SetTrigger("Meele");
+        }
+        
     }
 
     private void playerAnimation(){
@@ -265,6 +295,9 @@ public class player : MonoBehaviour
     }
 
     private void ThrowGrenade(){
+        if(isWalking){
+            return;
+        }
         animator.SetTrigger("ThrowGrenade");
         GameObject grenade = Instantiate(grenadePrefab,firingPoint.position, firingPoint.rotation);
         Rigidbody2D body = grenade.GetComponent<Rigidbody2D>();

@@ -6,11 +6,21 @@ public class Van : MonoBehaviour
     public Transform player;
     public Camera mainCamera;
     public Transform swapningPosition;
+    private bool isSwapning = false;
+    private float health;
     // Start is called before the first frame update
-    void Start()
+
+    void Start(){
+        health = 200f;
+    }
+    void Update()
     {
-        InvokeRepeating("SwapnSoldier", 1f, 4f);
-        InvokeRepeating("SwapnGunSoldier", 2f, 5f);
+        if(!isSwapning && IsInCameraView() ){
+            isSwapning = true;
+            InvokeRepeating(nameof(SwapnSoldier), 1f, 4f);
+            InvokeRepeating(nameof(SwapnGunSoldier), 2f, 5f);
+        }   
+        
     }
 
     // Update is called once per frame
@@ -35,4 +45,13 @@ public class Van : MonoBehaviour
 
         gunSoldierAnimator.SetTrigger("Swapn");
     }
+
+
+    private bool IsInCameraView()
+    {
+        Vector3 cameraView = mainCamera.WorldToViewportPoint(transform.position);
+        return cameraView.x >= 0 && cameraView.x <= 1 && cameraView.y >= 0 && cameraView.y <= 1 && cameraView.z > 0;
+    }
+
+    
 }
