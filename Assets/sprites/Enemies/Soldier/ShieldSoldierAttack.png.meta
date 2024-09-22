@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: c1ad967c716131543ac33eaa024fa901
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 36
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5477707, y: 0.50716573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d79df25ee17fd49b30fb6e787cc616
+      internalID: 1099599175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 63
+        height: 32
+      alignment: 9
+      pivot: {x: 0.6137397, y: 0.4820858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e26eff0f72457c458ef824f7b676925
+      internalID: -310552566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 40
+        width: 42
+        height: 51
+      alignment: 9
+      pivot: {x: 0.47270256, y: 0.5899214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5993024f5f566141abd8aed07af7303
+      internalID: -1931690780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 62
+        height: 33
+      alignment: 9
+      pivot: {x: 0.62482035, y: 0.49131492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75f48888d732344c81ad7387839ef71
+      internalID: 2008573423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 46
+        width: 41
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.43746394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e354871546cb344a634a53c56e79b7
+      internalID: -1778055403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 51
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.4779522, y: 0.40254793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdae0e04993a034abc6acd6a6875a8d
+      internalID: -1541803713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 49
+        height: 42
+      alignment: 9
+      pivot: {x: 0.57604265, y: 0.4385807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062f9cbbbd6a3a7428dbe7e2b6860c78
+      internalID: -14182862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 51
+        width: 49
+        height: 44
+      alignment: 9
+      pivot: {x: 0.42395705, y: 0.44137228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77170dcc0b2399b4d978806cd6f157ea
+      internalID: -1507359721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 0
+        width: 44
+        height: 44
+      alignment: 9
+      pivot: {x: 0.4348585, y: 0.4413729}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eeb47e24851d446ba22a1b9a005d0e
+      internalID: -704695690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 51
+        width: 54
+        height: 46
+      alignment: 9
+      pivot: {x: 0.399151, y: 0.43145967}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc2aef64ca45914d82c5bebfe696f49
+      internalID: 257713381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_10
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 45
+        height: 49
+      alignment: 9
+      pivot: {x: 0.46815288, y: 0.4181075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dabed95318e0ab4ca361caf3f77d4f4
+      internalID: 578179799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 0
+        width: 41
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4930085, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0f3c3d168acca4ca5e4b6c0ca8dd63
+      internalID: 1645032853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 51
+        width: 50
+        height: 49
+      alignment: 9
+      pivot: {x: 0.4254773, y: 0.4005591}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f630be7dac3dc4788b7f0919f67136
+      internalID: -1721415684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 34
+        height: 39
+      alignment: 9
+      pivot: {x: 0.51686007, y: 0.50734943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d71119e4e92f9449930a54bc71fa1c0
+      internalID: 1321746926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_14
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 41
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5000008, y: 0.53372055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b57c805a0730b47b54c038e1285d04
+      internalID: 365208338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShieldSoldierAttack_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 44
+        width: 60
+        height: 49
+      alignment: 9
+      pivot: {x: 0.60328317, y: 0.4813709}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2ba596f5a7c04e903b1aae15f34f5
+      internalID: -630983244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ShieldSoldierAttack_0: 1099599175
+      ShieldSoldierAttack_1: -310552566
+      ShieldSoldierAttack_10: 578179799
+      ShieldSoldierAttack_11: 1645032853
+      ShieldSoldierAttack_12: -1721415684
+      ShieldSoldierAttack_13: 1321746926
+      ShieldSoldierAttack_14: 365208338
+      ShieldSoldierAttack_15: -630983244
+      ShieldSoldierAttack_2: -1931690780
+      ShieldSoldierAttack_3: 2008573423
+      ShieldSoldierAttack_4: -1778055403
+      ShieldSoldierAttack_5: -1541803713
+      ShieldSoldierAttack_6: -14182862
+      ShieldSoldierAttack_7: -1507359721
+      ShieldSoldierAttack_8: -704695690
+      ShieldSoldierAttack_9: 257713381
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

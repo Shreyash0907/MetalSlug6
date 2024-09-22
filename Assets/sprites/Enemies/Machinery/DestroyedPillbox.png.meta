@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 85f03222cee949246a2ffeae67c2ae67
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DestroyedPillbox_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df4fd6eeb698874bb30321bc8e9d2eb
+      internalID: 1104955583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 85
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.3739807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f9853e896868f49a8abbba0fb27ce4
+      internalID: 219825016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3
+        width: 99
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5201356, y: 0.42617026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d8b5f02f96b95448b5439e3e0da054
+      internalID: -1715715170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_3
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2
+        width: 99
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5604063, y: 0.41980606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ce07afb2e206b40a837fda8c8ecb23
+      internalID: 641374312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5296054, y: 0.4179188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00aeadc8b17f27843b16fcb773531223
+      internalID: -1523027125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_5
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 2
+        width: 101
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5690785, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd0478198945574ab475196345cc02c
+      internalID: 89282294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_6
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 2
+        width: 102
+        height: 83
+      alignment: 9
+      pivot: {x: 0.53908646, y: 0.48799175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51022fc1edc0a9049879824cea2e5997
+      internalID: -1755038164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_7
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2
+        width: 101
+        height: 88
+      alignment: 9
+      pivot: {x: 0.53947467, y: 0.47734764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4c6f608578193498e9252509b76633
+      internalID: -183663633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_8
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 0
+        width: 100
+        height: 95
+      alignment: 9
+      pivot: {x: 0.5199353, y: 0.45803398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8849aecd292e04581c9f21bd57b314
+      internalID: -1493769843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_9
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 0
+        width: 100
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969e9d25be6ea4c418cd30a6505373c0
+      internalID: -57189634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_10
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 0
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17bbf6cfbdd874ba565789a26f5724
+      internalID: 1407584395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_11
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a367da9060e19e745a3fcd7b04ca6b92
+      internalID: -891782387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_12
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 2
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399baa5ed1a25f44c92cd2be54f920c9
+      internalID: -1416417757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_13
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08c98ea67c088d4a99698445f276523
+      internalID: 2027088704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_14
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 0
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31facfaf2ad9ed47a34e4855911d98a
+      internalID: -2029072176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_15
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 0
+        width: 80
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e0a570cd60f8b49823ffaa481ce4bc
+      internalID: 1328984884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_16
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 4
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e70d8c0d7a83e41a9f6c1c9ee61975
+      internalID: 1813503440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyedPillbox_19
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 2
+        width: 49
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62d43648dd0b84793f6330ab4e494e
+      internalID: -1637622753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DestroyedPillbox_0: 1104955583
+      DestroyedPillbox_1: 219825016
+      DestroyedPillbox_10: 1407584395
+      DestroyedPillbox_11: -891782387
+      DestroyedPillbox_12: -1416417757
+      DestroyedPillbox_13: 2027088704
+      DestroyedPillbox_14: -2029072176
+      DestroyedPillbox_15: 1328984884
+      DestroyedPillbox_16: 1813503440
+      DestroyedPillbox_17: 800481878
+      DestroyedPillbox_18: 1896058840
+      DestroyedPillbox_19: -1637622753
+      DestroyedPillbox_2: -1715715170
+      DestroyedPillbox_20: 37766361
+      DestroyedPillbox_21: -1806334191
+      DestroyedPillbox_22: -2026113946
+      DestroyedPillbox_23: 522713073
+      DestroyedPillbox_24: -1750803472
+      DestroyedPillbox_25: -1120266224
+      DestroyedPillbox_26: -1844746971
+      DestroyedPillbox_27: 275602841
+      DestroyedPillbox_28: 1517898354
+      DestroyedPillbox_29: 1983288643
+      DestroyedPillbox_3: 641374312
+      DestroyedPillbox_30: -546484590
+      DestroyedPillbox_31: -674693499
+      DestroyedPillbox_32: 1931580609
+      DestroyedPillbox_33: 2038766123
+      DestroyedPillbox_34: 1519636734
+      DestroyedPillbox_4: -1523027125
+      DestroyedPillbox_5: 89282294
+      DestroyedPillbox_6: -1755038164
+      DestroyedPillbox_7: -183663633
+      DestroyedPillbox_8: -1493769843
+      DestroyedPillbox_9: -57189634
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

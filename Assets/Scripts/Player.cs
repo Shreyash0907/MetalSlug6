@@ -1,0 +1,278 @@
+using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
+
+// using System.Numerics;
+using UnityEngine;
+
+public class player : MonoBehaviour
+{
+
+    [SerializeField]
+    private float moveForce = 0.8f;
+
+    [SerializeField]
+    private float jumpForce = 3f;
+
+    private float moveX, moveY;
+
+    private float horizontalMovement;
+    private Rigidbody2D playerBody;
+    private Animator animator;
+    private SpriteRenderer spriteRenderer;
+    private string WALK_ANIMATION = "walk";
+    private bool isOnSlope = false;
+    public LayerMask groundLayer;  
+    private float slopeAngle; 
+    private BoxCollider2D boxCollider2D;
+
+    [SerializeField] private GameObject bulletPrefab;
+    [SerializeField] private GameObject grenadePrefab;
+    [SerializeField] private Transform firingPoint;
+    // [Range(0.1f,1f)]
+    // [SerializeField] private float firingRate = 0.5f;
+    // public Transform capsule;
+
+    public Vector2 standingSize = new Vector2(0.22933f,0.54f); // Size of the collider when standing
+    public Vector2 crouchingSize = new Vector2(0.2293333f, 0.2349862f); // Size of the collider when crouching
+    public Vector2 standingOffset = new Vector2(-0.08033f, 0); // Offset of the collider when standing
+    public Vector2 crouchingOffset = new Vector2(-0.08033f, -0.15250f);
+    public Vector3 crouchFiring = new Vector3(0.15f, -0.1f,0);
+    public Vector3 standingFiring = new Vector3(0.15f, 0.06f);
+    private bool isWalking = false;
+    
+    private bool isGrounded = true;
+    private float minX = -7.806f;
+    private float maxX = 24.781f;
+    private bool isLookingUp = false;
+    private bool isCrouched = false;
+    private bool isLookingLeft = false;
+
+
+    private void Awake(){
+        playerBody = GetComponent<Rigidbody2D>();
+        animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        boxCollider2D = GetComponent<BoxCollider2D>();
+    }
+
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+
+    // Update is called once per frame
+    void Update()
+    {
+        playerMovementKeyboard();
+        playerAnimation();
+        jumpPlayer();
+        Crouch();
+        LookUpward();
+        
+        if(Input.GetMouseButtonDown(1)){
+            ThrowGrenade();
+        }
+
+        if(Input.GetMouseButtonDown(0)){
+            Shoot();
+        }
+    }
+
+    private void Shoot(){
+        animator.SetTrigger("shoot");
+        if(!isWalking){
+            animator.SetTrigger("steadyShoot");
+        }
+        
+        if(isLookingUp && isWalking){
+            animator.SetTrigger("walkingShootUpward");
+        }
+        else if(isWalking){
+            animator.SetTrigger("walkingShoot");
+        }else if(isLookingUp){
+            animator.SetTrigger("shootUpward");
+        }
+        GameObject bullet = Instantiate(bulletPrefab,firingPoint.position, firingPoint.rotation);
+        bullet.tag = "PlayerBullet";
+        // Get the Bullet component and set the SpriteRenderer reference
+        bullet bulletScript = bullet.GetComponent<bullet>();
+        SpriteRenderer bulletSpriteRenderer = bullet.GetComponent<SpriteRenderer>();
+        Vector2 currentOffset = boxCollider2D.offset;
+        Transform capsule = bullet.transform;
+        Transform bulletTransform = bullet.transform;
+
+        Transform capsulePosition = capsule.GetChild(0);
+
+        if(!isLookingUp && currentOffset.x > 0){
+            bulletSpriteRenderer.flipX = true;
+            Vector3 currentRotation = capsulePosition.eulerAngles;
+            currentRotation.z *= -1;
+            capsulePosition.eulerAngles = currentRotation;
+        }
+        else if(isLookingUp){
+            Vector3 bulletSprite =bulletTransform.rotation.eulerAngles;
+            bulletSprite.z = 90;
+            bulletTransform.rotation =Quaternion.Euler(bulletSprite);
+        }
+        if (bulletScript != null)
+        {
+            bulletScript.player = spriteRenderer;
+        }
+    }
+
+    private void playerMovementKeyboard(){
+
+        moveX = Input.GetAxisRaw("Horizontal");
+        Vector2 movement = new Vector2(moveX * moveForce, playerBody.velocity.y);
+
+        if (isOnSlope && moveX != 0)
+        {
+            // Calculate movement along the slope
+           float slopeMove = Mathf.Sin(slopeAngle * Mathf.Deg2Rad) * moveForce;
+            movement.y = slopeMove;
+        }
+        Vector2 clampedPosition = transform.position;
+        clampedPosition.x = Mathf.Clamp(clampedPosition.x + movement.x * Time.deltaTime, minX, maxX);
+
+        // Set the new position while keeping Y position unchanged
+        transform.position = new Vector2(clampedPosition.x, transform.position.y);
+
+        playerBody.velocity = new Vector2(movement.x, movement.y);
+    }
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.CompareTag("SoldierBullet")){
+            Debug.Log("soldierbullet");
+            Destroy(collision.gameObject);
+        }
+        
+        if (collision.gameObject.CompareTag("Slope"))
+        {
+            isOnSlope = true;
+            isGrounded = true;
+            
+        }
+
+        if(collision.gameObject.CompareTag("Ground")){
+            isGrounded = true;
+        }
+        if(collision.gameObject.CompareTag("Soldier")){
+            Debug.Log("Attacked");
+        }
+
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Slope"))
+        {
+            isOnSlope = false;
+        }
+        if(collision.gameObject.CompareTag("Ground")){
+            isGrounded = false;
+        }
+    }
+
+    private void playerAnimation(){
+        
+        if(moveX > 0 ){
+            isWalking = true;
+            animator.SetBool(WALK_ANIMATION, true);
+            spriteRenderer.flipX = false;
+            isLookingLeft = false;
+            Vector2 currentOffset = boxCollider2D.offset;
+            if(currentOffset.x > 0)
+                currentOffset.x *= -1;
+            boxCollider2D.offset = currentOffset;
+            if(firingPoint.localPosition.x < 0){
+            Vector2 firingPosition = firingPoint.localPosition;
+            firingPosition.x *= -1;
+            firingPoint.localPosition = firingPosition;
+            }
+        }else if ( moveX < 0){
+            isWalking = true;
+            animator.SetBool(WALK_ANIMATION, true);
+            spriteRenderer.flipX = true;
+            isLookingLeft = true;
+            Vector2 currentOffset = boxCollider2D.offset;
+            if(currentOffset.x < 0)
+                currentOffset.x *= -1;
+            boxCollider2D.offset = currentOffset;
+            if(firingPoint.localPosition.x > 0){
+            Vector2 firingPosition = firingPoint.localPosition;
+            firingPosition.x *= -1;
+            firingPoint.localPosition = firingPosition;
+            }
+        }else{
+            animator.SetBool(WALK_ANIMATION, false);
+            isWalking = false;
+        }
+        
+    }
+
+    private void jumpPlayer(){
+
+        if(Input.GetButtonDown("Jump") && (isGrounded || isOnSlope) && !isCrouched){
+            playerBody.AddForce(new UnityEngine.Vector2(0f, jumpForce), ForceMode2D.Impulse);
+        }
+    }
+
+    private void Crouch(){
+        if (Input.GetKeyDown(KeyCode.S))
+        {
+            isCrouched = true;
+            moveForce = 0.5f;
+            animator.SetBool("crouch", true);
+            SetColliderSize(crouchingSize, crouchingOffset);
+            // SetFiringPosition(crouchFiring);
+        }
+        if (Input.GetKeyUp(KeyCode.S))
+        {
+            isCrouched = false;
+            moveForce = 0.8f;
+            animator.SetBool("crouch", false);
+            SetColliderSize(standingSize, standingOffset);
+            // SetFiringPosition(standingFiring);
+        }
+    }
+
+
+    private void SetColliderSize(Vector2 size, Vector2 offset)
+    {
+        boxCollider2D.size = size;
+        boxCollider2D.offset = offset;
+    }
+
+    private void LookUpward(){
+        if(Input.GetKeyDown(KeyCode.W)){
+            isLookingUp = true;
+            animator.SetBool("lookUpward",true);
+            Vector2 firingPosition = firingPoint.localPosition;
+            firingPosition.x = 0;
+            firingPosition.y = 0.4f;
+            firingPoint.localPosition = firingPosition;
+        }
+        if(Input.GetKeyUp(KeyCode.W)){
+            isLookingUp = false;
+            animator.SetBool("lookUpward", false);
+            Vector2 firingPostion = firingPoint.localPosition;
+            firingPostion = standingFiring;
+            firingPoint.localPosition = firingPostion;
+        }
+    }
+
+    private void ThrowGrenade(){
+        animator.SetTrigger("ThrowGrenade");
+        GameObject grenade = Instantiate(grenadePrefab,firingPoint.position, firingPoint.rotation);
+        Rigidbody2D body = grenade.GetComponent<Rigidbody2D>();
+        Vector2 vec = new Vector2(3f,0.5f);
+        if(isLookingLeft){
+            vec.x *= -1;
+        }
+        body.AddForce(vec, ForceMode2D.Impulse);
+    }
+
+}

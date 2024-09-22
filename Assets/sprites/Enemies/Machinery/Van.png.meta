@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: fcb9fac30a32e7a4aae2964a68a42bd8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Van_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 74
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4740027, y: 0.4633564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b28c20bb5d2b2642ace5ca0b11eec81
+      internalID: -117881809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 74
+        width: 72
+        height: 61
+      alignment: 9
+      pivot: {x: 0.46564654, y: 0.48197836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0c9625019ecca4c88890c4e03c5568
+      internalID: -2117116064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 75
+        width: 73
+        height: 60
+      alignment: 9
+      pivot: {x: 0.45858786, y: 0.46335614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8db241165c8ea4e8148ec2689770ac
+      internalID: -1371024221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_3
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 75
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: 0.47709826, y: 0.46793684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78b671d401453d4ca5d0546e0947c04
+      internalID: -479247627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_4
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 75
+        width: 74
+        height: 60
+      alignment: 9
+      pivot: {x: 0.4814313, y: 0.4633564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30eccc34c1c17542bd3296170dd2f63
+      internalID: 1095255138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 74
+        width: 72
+        height: 61
+      alignment: 9
+      pivot: {x: 0.47328144, y: 0.46395674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fe40539f7439941b8591889e33b134
+      internalID: 1335782530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: 0.45801225, y: 0.4679367}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ab865353c285943919fd44565e8363
+      internalID: 1330157260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 72
+        height: 60
+      alignment: 9
+      pivot: {x: 0.46946368, y: 0.48167828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ba151e2f6795f409fffc3769a474a1
+      internalID: 1327892370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_8
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 9
+        width: 72
+        height: 61
+      alignment: 9
+      pivot: {x: 0.46564674, y: 0.48648366}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7a4c61188234e4f985b327ca6f3c13
+      internalID: 36225401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_9
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 72
+        height: 73
+      alignment: 9
+      pivot: {x: 0.44274437, y: 0.50376475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521df6e57d5361742b8e938430e7e4e7
+      internalID: 784756767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 7
+        width: 75
+        height: 63
+      alignment: 9
+      pivot: {x: 0.46335694, y: 0.49127513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1bf43badec0746a71edbb3f2abff7
+      internalID: 1019645178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Van_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 6
+        width: 72
+        height: 64
+      alignment: 9
+      pivot: {x: 0.45037884, y: 0.49570578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099957488d1499e4c988626fcd9d8d0d
+      internalID: 1240869688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Van_0: -117881809
+      Van_1: -2117116064
+      Van_10: 1019645178
+      Van_11: 1240869688
+      Van_2: -1371024221
+      Van_3: -479247627
+      Van_4: 1095255138
+      Van_5: 1335782530
+      Van_6: 1330157260
+      Van_7: 1327892370
+      Van_8: 36225401
+      Van_9: 784756767
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,479 @@
+fileFormatVersion: 2
+guid: 8be157e6c7e67ff4b8c2e604b0616051
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 35
+        height: 40
+      alignment: 9
+      pivot: {x: 0.4859301, y: 0.58617896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73764d8865913514aa85dc4eb6b87ece
+      internalID: 1067953884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 8
+        width: 40
+        height: 34
+      alignment: 9
+      pivot: {x: 0.52462256, y: 0.4275804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af813f0084247f2439ee9d888f04c9e1
+      internalID: -100367915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 49
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47989982, y: 0.72980976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2683309b6131c4a896cbee730f6572
+      internalID: -923570634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45abce0c59b6abe41a239dce029f7f6f
+      internalID: -1123566164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 49
+        height: 33
+      alignment: 9
+      pivot: {x: 0.46984956, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfc017b97b851f41a4108472c104d3b
+      internalID: 1526160220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 50
+        height: 38
+      alignment: 9
+      pivot: {x: 0.39166138, y: 0.4999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a885e20f125629b4a8047b5366e50c16
+      internalID: 195903631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3
+        width: 55
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4104631, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4166fb426988dc409c1bef1894b3580
+      internalID: 1212048193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2
+        width: 51
+        height: 41
+      alignment: 9
+      pivot: {x: 0.4034412, y: 0.47597775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e0f0f53600ada4aac74aaecf877b63
+      internalID: 1194061810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2
+        width: 54
+        height: 41
+      alignment: 9
+      pivot: {x: 0.3814471, y: 0.49999985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b1cb144b72e0d40aa721ce6847eb2c
+      internalID: 324392830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 50
+        height: 39
+      alignment: 9
+      pivot: {x: 0.450755, y: 0.48737288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a0810816b34a54098e3c58cf9af3c6
+      internalID: 1076554114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 4
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d04bd865cd8a884a9324ce51d00de10
+      internalID: 1882748715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcdd7aadd432d74e87f23d293a104a1
+      internalID: -1264928515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 3
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d449f2df977cf84429c145e1785049ed
+      internalID: -2147009571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b8805a0a794cd40b9aa418b96a2af5
+      internalID: -1742871464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 10
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb68d27f930a4764bbfbebc657e024fc
+      internalID: 1690502084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillboxBulletExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 5
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fe310b26a5ce84b97ffd5af8277d0e
+      internalID: 636765523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PillboxBulletExplosion_0: 1067953884
+      PillboxBulletExplosion_1: -100367915
+      PillboxBulletExplosion_10: 1882748715
+      PillboxBulletExplosion_11: -1264928515
+      PillboxBulletExplosion_12: -2147009571
+      PillboxBulletExplosion_13: -1742871464
+      PillboxBulletExplosion_14: 1690502084
+      PillboxBulletExplosion_15: 636765523
+      PillboxBulletExplosion_2: -923570634
+      PillboxBulletExplosion_3: -1123566164
+      PillboxBulletExplosion_4: 1526160220
+      PillboxBulletExplosion_5: 195903631
+      PillboxBulletExplosion_6: 1212048193
+      PillboxBulletExplosion_7: 1194061810
+      PillboxBulletExplosion_8: 324392830
+      PillboxBulletExplosion_9: 1076554114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
