@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: 67069dc21db070c4f844496f4a61b50b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TurningCar_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 59
+        width: 81
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6175855, y: 0.1687106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cd827047449e945993d3c722cf2279
+      internalID: -1305303256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 58
+        height: 57
+      alignment: 9
+      pivot: {x: 0.6123803, y: 0.30941394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc43f5d5ba746e4d8dd4efc3506d557
+      internalID: 833408787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 62
+        width: 70
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5891403, y: 0.14209019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a86378523d518d42be652a096d7f135
+      internalID: -612186351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.54464406, y: 0.32900122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b998fcd40fcd044ad1a154bed77cc4
+      internalID: 1044094491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 59
+        width: 72
+        height: 57
+      alignment: 9
+      pivot: {x: 0.585641, y: 0.18813859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514a440aac7f14443b4904cec409f981
+      internalID: -1997325584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_5
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1
+        width: 67
+        height: 55
+      alignment: 9
+      pivot: {x: 0.49189347, y: 0.33211055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61d5812a17a6ad44aac38f5410ec442
+      internalID: -1436129501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 62
+        width: 73
+        height: 53
+      alignment: 9
+      pivot: {x: 0.6302507, y: 0.13559191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed1ff490ab023c4f9766ea64d7fce66
+      internalID: 1902712376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_7
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 11
+        width: 72
+        height: 48
+      alignment: 9
+      pivot: {x: 0.4321039, y: 0.1492027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d26ee583f49e94b9282c55db29025d
+      internalID: -1091788646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_8
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 62
+        width: 71
+        height: 45
+      alignment: 9
+      pivot: {x: 0.604625, y: 0.1236318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd1ef3c882dd9f438e2cdd19aa7974f
+      internalID: -1857114944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 12
+        width: 77
+        height: 46
+      alignment: 9
+      pivot: {x: 0.3871341, y: 0.1575664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22b5bcd6bec8464e9a906c7b74fd612
+      internalID: 565972082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_10
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 62
+        width: 71
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5920711, y: 0.120681435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f657497f65bdcef46891293d35171788
+      internalID: -468983720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 12
+        width: 70
+        height: 46
+      alignment: 9
+      pivot: {x: 0.43016446, y: 0.19299093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459be672f99f67b4485d63d6849ac65b
+      internalID: -1029378921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 12
+        width: 71
+        height: 47
+      alignment: 9
+      pivot: {x: 0.38524616, y: 0.16485181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3e1f91f2176b6428705470465a3924
+      internalID: 2018490920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_13
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 63
+        width: 65
+        height: 53
+      alignment: 9
+      pivot: {x: 0.46343148, y: 0.14119822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba4fbc3d51936429d7c297ca86f352
+      internalID: 2082155935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_14
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 63
+        width: 67
+        height: 55
+      alignment: 9
+      pivot: {x: 0.47567976, y: 0.18397328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87164a4b501c6744d80049186af9d919
+      internalID: -1474667966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_15
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 54
+        width: 67
+        height: 57
+      alignment: 9
+      pivot: {x: 0.50810766, y: 0.29988405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b478ea340a4bad745ac2ae4776b8e52d
+      internalID: -656766679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_16
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 63
+        width: 64
+        height: 46
+      alignment: 9
+      pivot: {x: 0.38118267, y: 0.20479865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267088bf0a8e7a1418bda36e9d3b3044
+      internalID: 1002920110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurningCar_17
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 55
+        width: 64
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5937729, y: 0.2579625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3196e5215dca7499ac79e898fe9f46
+      internalID: 1937057197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TurningCar_0: -1305303256
+      TurningCar_1: 833408787
+      TurningCar_10: -468983720
+      TurningCar_11: -1029378921
+      TurningCar_12: 2018490920
+      TurningCar_13: 2082155935
+      TurningCar_14: -1474667966
+      TurningCar_15: -656766679
+      TurningCar_16: 1002920110
+      TurningCar_17: 1937057197
+      TurningCar_2: -612186351
+      TurningCar_3: 1044094491
+      TurningCar_4: -1997325584
+      TurningCar_5: -1436129501
+      TurningCar_6: 1902712376
+      TurningCar_7: -1091788646
+      TurningCar_8: -1857114944
+      TurningCar_9: 565972082
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -10,6 +10,7 @@ public class SpitBall : MonoBehaviour
     private Transform capsule;
     private Animator animator;
     private Collider2D colliderBody;
+    private bool isUpper = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,10 +19,12 @@ public class SpitBall : MonoBehaviour
         colliderBody = GetComponent<CircleCollider2D>();
         capsule = capsuleObject.transform;
     }
-
+    public void makeUpper(){
+        isUpper = true;
+    }
     void Update()
     {
-        if(capsule)
+        if(capsule && !isUpper)
         {   
             Vector2 direction = capsule.up; 
             body.velocity = direction * speed;
@@ -29,8 +32,12 @@ public class SpitBall : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        animator.SetTrigger("test");
+        animator.SetTrigger("explode");
         body.velocity = Vector2.zero;
+        body.isKinematic = true;
+        if(isUpper){
+            body.AddForce(new Vector2(0,0), ForceMode2D.Impulse);
+        }
         colliderBody.enabled = false;
         Destroy(capsuleObject);
         Destroy(gameObject,1f);

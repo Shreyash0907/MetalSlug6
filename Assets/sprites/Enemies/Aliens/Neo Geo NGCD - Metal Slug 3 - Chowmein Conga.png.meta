@@ -1,0 +1,6333 @@
+fileFormatVersion: 2
+guid: e70d81b4ea53aa745aa559295470fd4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1921
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae5e18e48798ea48a518bf99fe15e0b
+      internalID: -1877194187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1921
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78daa10b28b39444a54f0c8887c4fda
+      internalID: -122190437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1921
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003d92afd8f0a2b4fa0cb96b5ba4ddcf
+      internalID: -1048864261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1921
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05bfc770e5458d49bb25bc89d25a1ca
+      internalID: 1828492258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1871
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49d7c138b86e346b66cd4796f67ee0
+      internalID: 1672946111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1871
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a27642d49e6be47b9af229c1583198
+      internalID: 1812262942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1871
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd1f6cb57221644a88597bb2bd0d5fe
+      internalID: 162501312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1871
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e1365ba9a70541b905ecdceaef104
+      internalID: -1488181353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1871
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cded791673188149b94e8fbd0208189
+      internalID: -2039528445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1871
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132f9f9b85fa8ea409248111ac415005
+      internalID: 2130793207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1872
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b3fdbed87593409727d8afd8c6ff2
+      internalID: -220125330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1855
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17bd657f818d74793fbb5649efd1d9
+      internalID: -1218706504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1855
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e515dfa554154498947a350de06549
+      internalID: 1970071405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_13
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1855
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf264bf9de637844a5dabc7a247acca
+      internalID: -1282616344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1855
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcec3e03a5cd422499ae7dda20b4e980
+      internalID: -2047669014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1855
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b48d46966db7343ae92910067ae4f7
+      internalID: -766036977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1809
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae23968251cac44f85790bf4bb0211b
+      internalID: 1303949959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_17
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1808
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f925e5ded4608c42a91e3d493b4c8f0
+      internalID: -1624948928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1808
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c341dc70ecc41448cb779d2a1435f1
+      internalID: 2096954168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1808
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee69cd49d3b3354fb27136e400feb68
+      internalID: 1972420897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_20
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1808
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d8286faa3454642822a2fb1bd28f92
+      internalID: -123176884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_21
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1808
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35dac8e4a39cf9041afe24ed6b675c3c
+      internalID: 1174555614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_22
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1808
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960b431b65dc37b43b4a3e453aa4bc48
+      internalID: -2128274137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_23
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1790
+        width: 49
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04660e9c186337246a8f35349f3949ab
+      internalID: -1549065834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1735
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c3678ced7ef5f4ba475804c1654784
+      internalID: -741787856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_25
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1735
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e7fc86c2d269d43bffc245deb446f3
+      internalID: -1885273065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_26
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1717
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840cba454020b7a4ab890d56b0368aca
+      internalID: 1940667205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1717
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfdef74fad04eb43a3dfd1d69ca36e1
+      internalID: -1387056075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_28
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1717
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691413b15d5f38942a07c8caba033c67
+      internalID: -476163294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1717
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ce33fd068ab054c82d366036749d71
+      internalID: -712368187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_30
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1668
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef33fd387cd34439a684d0bee4a27f
+      internalID: -73309116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_31
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1668
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5396edd3fb269a745904a82bf355674e
+      internalID: 1331110136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1652
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a316497582057e4eab50fe47286c5cc
+      internalID: -709780395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_33
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1652
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b14c524d4ab6f4bab24ce1aa222f29
+      internalID: 1543857447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1652
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c7bc22d11bb5844872fda786433cad
+      internalID: 1811312463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1604
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eede9606bde4c8449525f6df3557755
+      internalID: -1140654461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1604
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0adb1ed1c8fa7d4985f018297e8a4d8
+      internalID: -1176311965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_37
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1604
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf7f58819da1f1408684271a21e07a5
+      internalID: 50254107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_38
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1604
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d9514303c791547b3a948f14356146
+      internalID: 1567412277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_39
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1604
+        width: 54
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5240648, y: 0.51412565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3378b712c85f746858de83e0070867
+      internalID: -1907725222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_40
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1604
+        width: 62
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5890793, y: 0.50738525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d40041dfafd5d40b474ec1955d2081
+      internalID: 1198813726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1604
+        width: 75
+        height: 44
+      alignment: 9
+      pivot: {x: 0.66460365, y: 0.55907094}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1a248da73cd54392e1e178269d790
+      internalID: 827077864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_42
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1604
+        width: 75
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6559408, y: 0.5216607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ec68b93e4be454c89e827b2007e9e4
+      internalID: -421998152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_43
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1604
+        width: 64
+        height: 44
+      alignment: 9
+      pivot: {x: 0.6065998, y: 0.52215296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd93cd1664d865429b85d4f90c5138c
+      internalID: -1227757419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1545
+        width: 59
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5803771, y: 0.529394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a88e52a5c7cb64b861be7dba0ecb89
+      internalID: -1762009173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1545
+        width: 54
+        height: 45
+      alignment: 9
+      pivot: {x: 0.539918, y: 0.5191623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98085050e24b2a4a8cd9888cbc783d4
+      internalID: 92621829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1545
+        width: 54
+        height: 45
+      alignment: 9
+      pivot: {x: 0.56386876, y: 0.5191596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5c3be27ad8ca44cb7fba7a0607ed28
+      internalID: 2020570023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_47
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1545
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1387542ca33f04c9a1bd285a9cf9ef
+      internalID: 528371161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1485
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afd0e3de7650864e8d05f0e3bd9e67a
+      internalID: -682449316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_49
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1485
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9196a3efe480114ca536d880c562057
+      internalID: -544209760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_50
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1485
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700b54384b8427242b813ca7beda85d5
+      internalID: 803085110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_51
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1485
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc9d588e3674fd42b78abd33be10cbb
+      internalID: 1452013260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1484
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081bac0eb229799428dd37169adf6851
+      internalID: -930826528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_53
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1485
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03921b059d14ad14ca5f92095fcc5c0c
+      internalID: -1821798640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_54
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1485
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150321d353314cf439f5b088f3fd955e
+      internalID: -1815345696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_55
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1485
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e86fa8a95871dd41834e7afdb803f82
+      internalID: 552073052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_56
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1485
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbec119b0925eb4db1a7d48ba158fba
+      internalID: -450718318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1420
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aeae337f1ad1d4faf437df11a8d393
+      internalID: -344307768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1420
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a9dda90af4b4840b19b8763c8d24b5
+      internalID: -1350860509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_59
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1420
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9364effb1a8734caf9bc3bb6390181
+      internalID: 1989322172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1420
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426ba26bd139ea04697cda59de2029da
+      internalID: -71503190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1402
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5414521598b6a724d838573f0cf6b1d8
+      internalID: 1412657505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1402
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5192824d73756348abba7d26e002641
+      internalID: 610005993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1402
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68779e9c92ac2b40a208dcc54d137af
+      internalID: -616587009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_64
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1402
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf9030d690ce7f4990d5fe71d69348f
+      internalID: -610437371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_65
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1353
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560edee09cf829e448407cd8e7efe15f
+      internalID: 1896740386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_66
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1353
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d454be2210bd4b40a3029ae0686a047
+      internalID: -500472430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_67
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1353
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15ec012c78939349b895a4dd42d037b
+      internalID: 1090259413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1353
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0445f449198444db238db376d288f9
+      internalID: -1697248197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1300
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2fcf96d4e699146ab2d796c3f3d2ed
+      internalID: -741681199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_70
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1300
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffd298bdb16b8948ad72e60d99fe97e
+      internalID: -1410678305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_71
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1300
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83286c96d8d07ef45ac6e43f3ce67ae8
+      internalID: -1561801433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_72
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1250
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5783ef26161dc428a3dfe687449609
+      internalID: 154867172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_73
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1250
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704f708d626a91c44902bbc82bf0e417
+      internalID: -1926856101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_74
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1250
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f543999be8de30e4b9d737f5514a09d5
+      internalID: -279223889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_75
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1249
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903adc965350bb246aeba3f3df567458
+      internalID: 356078547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_76
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1249
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7018a1eb4088ca74a88a81f5418c4b60
+      internalID: -192530927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_77
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1249
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecee5fcacf9aaf42bc5cd50fb4170a5
+      internalID: 240026514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_78
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1199
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0af6601b505b0488a118ebc7de7e02
+      internalID: 1057436659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_79
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1200
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c14cd60ebb78d47a903e793dc66b04
+      internalID: 1061678120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1200
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2911c103f78474795f91bd0c30c611
+      internalID: 1534063038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1201
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2090b5ede7dec8546aa52dcbdbd21af0
+      internalID: 151928759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_82
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1201
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e4d2219c8b4f141aca9ee2edb7cd95
+      internalID: 759201631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_83
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1201
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50422f4d176fa2428ab3eea8af65549
+      internalID: -958282651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_84
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340325e0ca38502408e1e9154782ccba
+      internalID: -1998354569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_85
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5156e32711d6614c862c112393238a8
+      internalID: 860506375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_86
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f291da12810cf488b0ecdc9a7f93cd
+      internalID: -233453829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caebcaa0c33af774c8e24f8cabc69069
+      internalID: -1073027802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_88
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1139
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74195d1934b863a45974868580a1538d
+      internalID: -2132563839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_89
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1139
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d7500891cd36342855f981b2e67f70
+      internalID: 176157596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_90
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1081
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5e1435f19f47f4c8eaf1c74b96bfa4
+      internalID: -1244511063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_91
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1081
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4568fbb39850e4c954f418f630a59d
+      internalID: -1330976278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_92
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1059
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b792dabc0991b643a2cf92952ee35e0
+      internalID: -913899689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_93
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1059
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec1ed8298944d540a9ff32824c0db67
+      internalID: 156843358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_94
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1059
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecdfef61c9ca7a48b4564bc21714bc9
+      internalID: -204524993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_95
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1059
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31f3eddea369041a262b4d199ef444
+      internalID: 586465286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_96
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1059
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adbedd46cd3d144ebe64f122cba1168
+      internalID: -132752201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_97
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1007
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ee07a5e37a7049afb2440f0d20ea8
+      internalID: 1728733890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_98
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1007
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa425d09e734ac34797e3232f2a90907
+      internalID: -1924840519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_99
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1007
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3275d238ec18a46a4e793e5e6f17f9
+      internalID: 613160133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_100
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1007
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45be624d22909c42910850ff4538d54
+      internalID: -534962937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_101
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1007
+        width: 66
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c14f19f80d282498a4f98c1ae4e025
+      internalID: 1718634712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_102
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1007
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619b253a3c15f2f4fb343b2c89012736
+      internalID: 1663567062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_106
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1007
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3018400b67f3d5648b7701fdd08b086c
+      internalID: -468635412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_107
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 937
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe25dc85e14e73948a0b724a1f171cfa
+      internalID: 8964748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_110
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 937
+        width: 73
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd57a05ec04b98499d4fb815ca67926
+      internalID: -498720542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_111
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 936
+        width: 79
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a527fac24d09e694b8b3f66b865e9643
+      internalID: -57802583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_112
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 936
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49b385bb2cd1c64a8662652c6c90999
+      internalID: -717332740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_113
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 936
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790e42074669bbc4da62be88b348d9ce
+      internalID: -107723923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_115
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 937
+        width: 64
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3643cb59da294a24daa658235b4e126c
+      internalID: -216221834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_121
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 872
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be71d359536ede64d91f9f37af53d837
+      internalID: 779078073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_124
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 872
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca8ff77e1f1aaf4bb33e804387446ca
+      internalID: -1299767571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_125
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 871
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac4723d1f01ff04eab6b92d0faeb406
+      internalID: -1326068936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_126
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 872
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2b84184b7f81f41804c6b17ba3cbe8
+      internalID: 1143973513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_128
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 872
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0f6c041356d5e4c83b979c202abbaf
+      internalID: 1074810286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_135
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 872
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a255b3211b95ad745bd2d622f3b750db
+      internalID: -530709915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_140
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 872
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33457c4f2cf18f64eba21c1dbba30ead
+      internalID: 1334408216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_141
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 805
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f190afa4aa599449e418a79bfd297c
+      internalID: 1343696203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_142
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 805
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96927bd862e2b3943801266b1d55164f
+      internalID: -409395563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_143
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 805
+        width: 49
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc55d0e3c4bec064195eaf5e2773b967
+      internalID: -1814226494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_144
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 805
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4726da849b5754da9b26deba005811
+      internalID: 1838398028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_145
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 805
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99afc09c87727bc4884824e6af187603
+      internalID: 1504191911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_146
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 726
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e5ee96ae05aac4eabadcef16b412ce
+      internalID: 80258813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_147
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 726
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fa375bb95aa464ab118cab8ae57f75
+      internalID: -792633029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_148
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 726
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddeff38d93a73004a8ea40de441b4817
+      internalID: 1243181254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_149
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 726
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f34310b3764c59458efd31f32b6b462
+      internalID: 752793150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_150
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 726
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeed426805cf2b4eac969534e5717b3
+      internalID: -1494592549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_151
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 675
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d0c1ec66ce3840ba18c308071174c
+      internalID: -223741097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_152
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 675
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf4e247feee201429b929995a483539
+      internalID: -1498201119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_153
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 675
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f474022eacd283046bc0261338de487f
+      internalID: 2056495524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_154
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 675
+        width: 35
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ef8e1f7020114bb318488cdf6896e
+      internalID: 118545580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_155
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 675
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca5e8499d98c0a428d02ad84ff9dad8
+      internalID: -49086138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_156
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 607
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7f4ab9b30321f4db77c4f5fcabbbfd
+      internalID: -1711957559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_157
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 607
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2ef39aa3b511e4aa70a47fb2c34868
+      internalID: 818933022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_158
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 607
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b5a9bbd07669b4c82eb02fe31099ea
+      internalID: 1854811123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_159
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 607
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b891b7af6fd346b4e9f1e10495034
+      internalID: 1301460740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_160
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 607
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055f7193c0a3b5549930a2839c3f3696
+      internalID: -1473970376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_161
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 607
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc236477c9acf0840abfd06e40e2165c
+      internalID: -1649833191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_162
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 607
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d15b19f0c99faf44a73a36afbf1719e
+      internalID: -1587120909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_163
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 608
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fcb3d86d81b5245aab2d8b8c04248f
+      internalID: -571724277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_164
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 562
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a178e447e6007849aaa7120acedd0f2
+      internalID: -2086974740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_165
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 562
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaccc976b0c2f584f8e1f05b8ac3123a
+      internalID: -456645254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_166
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 562
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173f2dd0f1ffeb14f90f4e80490e7489
+      internalID: -7852299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_167
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 562
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f778eae6fdb0c74a9bc221bfc16c312
+      internalID: -1667581538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_168
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 520
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ef635d2d9b2444f96cf7c6847270da
+      internalID: 1148914420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_169
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 520
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22681e6f41190374abc77fa868b6babd
+      internalID: -17509126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_170
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 520
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8cb8481b52821b4781c1ffebf662db0
+      internalID: 880877153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_171
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 520
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c8eaa8953e424b849236a1960c28c
+      internalID: 529452341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_172
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 520
+        width: 42
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0fb638df24c224c89e966006c4562a
+      internalID: 876613000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_173
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 520
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c9ca877686867428d70c1731caa876
+      internalID: -1508499765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_174
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 520
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023a7354b916bb248b2a7c1cf462b03a
+      internalID: -345937708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_175
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 519
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5dd218b12e1d44a25b84e1a2e94be
+      internalID: 1708701911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_176
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 519
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e5d8e1f06461b49a0e5bec2e4af2a4
+      internalID: -1613190937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_177
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 519
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d1bd13bcbef7b498a2226c0ad50e07
+      internalID: 345470694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_178
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 519
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3adf4783b5ccbd42853880597de2bcf
+      internalID: 996441689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_179
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 519
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623be2cce9fe94a41ad64ac42f095444
+      internalID: 1183404207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_180
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 493
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d8fe4532749d4291c4e04d1e1a5cb
+      internalID: 654292990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_181
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 493
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e0bcd320d10a04db2e8c1ec8d767f2
+      internalID: 1358158723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_182
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 493
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4ce155a92c57049a022acc9dc4731e
+      internalID: 841452140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_183
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 493
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4585467f376f7cf45a916340302aa889
+      internalID: 583965461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_184
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 493
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f553b0671e2bdaa45800ede0785ece1c
+      internalID: 1756504644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_185
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 493
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15c3bcdcb4adee43838df5dd220c288
+      internalID: 1461459984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_186
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 453
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02121724035a9d9448b15dc0a085b27a
+      internalID: 1624527310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_187
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 453
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae0d4b3a4b1b704bb9c679c95d35478
+      internalID: 805027800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_188
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 453
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8390c21a70cb894fbf3d9fe560c2f34
+      internalID: -1111407369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_189
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 453
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e02e45e315bf19478a1147ec5285a6c
+      internalID: -1277491799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_190
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 453
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4b104fcd01814c8eaa2313cc18301
+      internalID: -79741027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_191
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 453
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50df84ead9377404293fd30ff2338b61
+      internalID: 2025450761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_192
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 453
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acfbf43127a3ed439af252e58b37cb3
+      internalID: 27855900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_193
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 453
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e64a1ad55ed644daad9cfd678cf5fa
+      internalID: 748354448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_194
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 453
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6a7aaad69c0b4886c79c8bfd80645
+      internalID: -1803926329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_195
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 453
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcc679fb38da4646a8f0eed009549ed
+      internalID: -400078379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_196
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 420
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f9e01f835193a49b91921bbf1e67ac
+      internalID: 1919318042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_197
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 420
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120aa7c98fc57334cbae93f6b29a7308
+      internalID: 1201570722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_198
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 420
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0f7eef1a2e285499c24521b2beae7f
+      internalID: -54679970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_199
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 420
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea5df6ac131074d8abea74121bbea1
+      internalID: 171648557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_200
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 420
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1c43de356b7a14aad3a919d658ff34
+      internalID: -1440939200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_201
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 383
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f4b4cdd9805734c82f6a8c31f07061
+      internalID: -1749064983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_202
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 383
+        width: 54
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61daedbdafc8aee498e28cb438634a4e
+      internalID: -2143616902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_203
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0283bfa46f722fb40835aa3a74ed6ae5
+      internalID: -1539858943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_204
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bf3852f160ebd4e8cb1ba8f475d468
+      internalID: -2027020779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_205
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf24376d52a81344a13b52126481dba
+      internalID: 1421686477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_206
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad0670b0f928a840b274b88034d9f32
+      internalID: -1397648403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_207
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d994b690ba9cd549bda866c1031854d
+      internalID: -791696517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_208
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb9793c951abe048ba37036bfae9c35
+      internalID: -1672047294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_209
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d7f99cec20b2a4e82dd17439b84dcf
+      internalID: 213022970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_210
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 356
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45811de5524cea4ca293220f3a21d9c
+      internalID: -1675034379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_211
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a4a96663f82924c87e886796926bb9
+      internalID: 1957483341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_212
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 356
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9efb3dbc9faa6942a0db26bbd199f2c
+      internalID: -1792387477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_213
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 356
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beb276c1aba43043967d25bf0e8f82e
+      internalID: -705055512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_214
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 356
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3868e87dfbca13840a096523ac26d4f1
+      internalID: -313777166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_215
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 351
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a205da0c74b7a7b43acb2bf8ad382592
+      internalID: -431776064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_216
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 304
+        width: 52
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a29c83c8590f374aa1e351fdf91b10e
+      internalID: 552460269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_217
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 347
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec74f28c8d62c34cb3f98ff069e8950
+      internalID: -101295550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_218
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 368
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab832520d624cb41b5b29c41108b2ac
+      internalID: -709533493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_219
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 347
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9259255d8bb46c04db9a55ad79fc2f30
+      internalID: 1500091251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_220
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08240e9e3afdcd145925a49d1fdabab3
+      internalID: 193800539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_221
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 345
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393eece98ae554e44a92ab586caa1909
+      internalID: -796184627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_222
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 358
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8acc29708bf3a45b861507c023eff3
+      internalID: 41989806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_223
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 344
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36351d9590d3542a9af67a95699a55
+      internalID: 180884507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_224
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 360
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f96b84805f75f428acfabf339c6e13
+      internalID: 1061431560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_225
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 341
+        width: 141
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2521ea4ef5d61f49aac9c7ae676bd8f
+      internalID: -514410695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_226
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 362
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf167d1665853a42815453527266ebf
+      internalID: -1744922020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_227
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 360
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4029f96c4f866404d9475e592b342b89
+      internalID: 1219191435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_228
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 350
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a932cbd4ba9cfba4e853c741bdbba535
+      internalID: -64096396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_229
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 355
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7790a0165fb99f94f90bcc1022fe44b6
+      internalID: -550858745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_230
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 352
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1060039858c5de3409f8d4cdd7e47b8e
+      internalID: -1616424219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_231
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 351
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dcf306fc70930479ca9d239b7eab3c
+      internalID: 391354475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_232
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 349
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2890c536f9dd5f442bbe981c8627757c
+      internalID: -1409736385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_233
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 308
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669e271e17ddd7a4582ee70547940b27
+      internalID: 1263080362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_234
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 307
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4920640626b123e4fa68c216e95abc56
+      internalID: -934297069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_235
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 304
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005c6ae20417ef545a07ec5b0b6bf575
+      internalID: -65282927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_236
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 307
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2c190f7dba444b994228adb02a831
+      internalID: 1372815452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_237
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 301
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7e893e1df14fb42946180096f8f56f
+      internalID: 860254018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_238
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 301
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb28611e580e3a4479c5cc470b182ee9
+      internalID: -548289248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_239
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 300
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b8f89f5d437fc41b7ef91f227f45cc
+      internalID: -1449878890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_240
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 301
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8792d7cfd1778db4586a79d043a97479
+      internalID: 1764201536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_241
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 302
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362f0c65615adc44bba28987294d985f
+      internalID: -1756576068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_242
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 233
+        width: 58
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7c5b7fa40fd4e4da103afc203af2eb
+      internalID: -203986386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_243
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 234
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b616e5cebf54b419f945325a37e258
+      internalID: -1515920027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_244
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 231
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df9e08080f62ac4dad7d620e307d909
+      internalID: 1082778890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_245
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 235
+        width: 78
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4268fa7db519748b4238aa19caff58
+      internalID: -2098211443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_246
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 278
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04348c3a064f99a46858167d9acc1af5
+      internalID: -1190090681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_247
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 275
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937138fe8ffe61d4db76094da7a1d089
+      internalID: 1779568014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_248
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 274
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a467ab8b542c1d4c9818520d4ea6ca2
+      internalID: 1951727856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_249
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 278
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb0d7667ffeb2242be1aac51d1fa029
+      internalID: -1975979646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_250
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 276
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af13337f10a960541963f55712eb0b50
+      internalID: 58267759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_251
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 280
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2569ba77c4ad830489f90426bbff7027
+      internalID: -1491830907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_252
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 284
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa653467a9ff24d44a8fde293563f87e
+      internalID: 1128397406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_253
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 278
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314edcd0780fa2048acd732f81f8b4fd
+      internalID: 209382304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_254
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 273
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac36c6705482738479649a6d8be84725
+      internalID: -502630556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_255
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 273
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc18eadb43cf584b9f208bfae188655
+      internalID: -1226842914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_256
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 231
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91bacfb569bb64408a14447d3aef2f7
+      internalID: -1376091941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_257
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 256
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80dc475ea518d44d8387d99704fdfce
+      internalID: -1453973671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_258
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 241
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb581247a0cbdd946bb72805e6dc6d7b
+      internalID: -1461633959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_259
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 258
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712c88c67f4fa6747b782ab75d941791
+      internalID: -980085750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_260
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 235
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0861d3a2503421a4cafffeaa1f56463c
+      internalID: 1157908600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_261
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 267
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd95a23227a28544a02497335d99fec
+      internalID: -893383071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_262
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 236
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc1bea409587a48a64805693e9fad2
+      internalID: -654964378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_263
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 244
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dcc6fd526f42a479c6abf2a85233db
+      internalID: -1308373689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_264
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 234
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d66cac62eac714489329572af359a29
+      internalID: 629080958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_265
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 234
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ffc81e5675bdc40b9094f192258029
+      internalID: 1736396184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_266
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 233
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15076518a531fa4693314c9b313aac9
+      internalID: 1294448066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_267
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 196
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b296a1db7d054e439dde53e096af7db
+      internalID: -876619891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_268
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 196
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f47bcc099f251439b4d9e90672ea38
+      internalID: 838756743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_269
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 196
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c01f43918f24684883e315cf7d65c3a
+      internalID: -722711760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_270
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 196
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e04168e9a4d0e4789dc15125df9dc1
+      internalID: -609719174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_271
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 142
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183d19649086dd045afefdc2e5644f8b
+      internalID: -1373806461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_272
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 163
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492f269e2aadba94e9eccec765a23c32
+      internalID: 1311761638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_273
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 142
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8349566d1ec7d4b8e71fa6c3a10185
+      internalID: 1792051030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_274
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 163
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050733edc4923dc4c9e0a9ad09f5415f
+      internalID: 166021344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_275
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 55
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2ca3469814d3f4da1fc2e58279e312
+      internalID: -1909696219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_276
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1a197500467a49941fa24b611de94
+      internalID: -489034076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_277
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b42732b0818a74ebdb8dffdeb7341d
+      internalID: -951962205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_278
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5be26f35e5bb84d9aee3a809d69917
+      internalID: 467035007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_279
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 100
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ed767239b47b54fb01f57b0aa35822
+      internalID: -1055605357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_280
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd47b38352f0ba43832611023f2129e
+      internalID: 225449707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_281
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2af2a69d8d0a34ebe6f57f4e750dfe
+      internalID: 1254106555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_282
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189e2b303d441b4cba192a00d74792b
+      internalID: -1187202328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_283
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 100
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6df7f9d5d91db449c9cb463692d095
+      internalID: -1980414232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_284
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbf854b6b7c6ef4f94ade95e8598fb9
+      internalID: -833606149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_285
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84362364a8ff66a469735fd1c7b4fe01
+      internalID: -1760591552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_286
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509749060f9900a45abfd2ec5ede67ed
+      internalID: -256962915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_287
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f3e74a0a87ee14fab3ddd85476e679
+      internalID: -362112810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_288
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fee064e6fca8e2498bea5eeeb83ea28
+      internalID: -886035483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_289
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656976cee37341a43bebdabda253e103
+      internalID: -1351918691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_290
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 100
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e17f22bdaa9624c8fa0c1fa23bb48f
+      internalID: 452986978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_291
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abc225c600b9ef479732fa7b46c9434
+      internalID: -1170342637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_292
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b289cd8e4c1b7d84da486df594bde3bd
+      internalID: 286706963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_293
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9057f5dce3c50c64d85a727e766ce207
+      internalID: -1751202499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_294
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 100
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca29a21d8b066947b08c825d6675323
+      internalID: -626384959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_295
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6deccd06c240d4646aae8c8374f68351
+      internalID: 57686203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_296
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 64
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0869a77c098173746b0819fcc80f9f8c
+      internalID: -1550663006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_297
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae7fa748ac9cb048b2d6811ef22a614
+      internalID: 2100493580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_298
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 64
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84608aa1cf205374389fff7475bad664
+      internalID: -319570996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_299
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d306fbd0ccc7a41858ef6aa454e49a
+      internalID: 862926783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_300
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 64
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ba306e526b1bd4f814ea14fc180086
+      internalID: -311923283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_301
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 64
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a643b277e726b9742b069914f938b6af
+      internalID: -691559719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_302
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 64
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6a0258d40d4d14a9200eaed077f88c
+      internalID: -1806082847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_303
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 64
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55334324f2c26dd42a7bbb19ba1bea0b
+      internalID: 2045225183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_304
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 64
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73bd4e1acbb1a54c934c263f46031a2
+      internalID: 1185947936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_0: -1877194187
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_1: -122190437
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_10: -220125330
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_100: -534962937
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_101: 1718634712
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_102: 1663567062
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_103: 1207384171
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_104: -1285212831
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_105: 887880113
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_106: -468635412
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_107: 8964748
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_108: 1266214165
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_109: -1160311199
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_11: -1218706504
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_110: -498720542
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_111: -57802583
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_112: -717332740
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_113: -107723923
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_114: 2078948151
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_115: -216221834
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_116: 328779025
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_117: 1160241306
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_118: -237194083
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_119: -666002701
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_12: 1970071405
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_120: 1619604144
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_121: 779078073
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_122: 858388055
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_123: -1827122043
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_124: -1299767571
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_125: -1326068936
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_126: 1143973513
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_127: 734192035
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_128: 1074810286
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_129: 445283231
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_13: -1282616344
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_130: 2110683672
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_131: -896071559
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_132: 694883807
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_133: -1004460625
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_134: 738555868
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_135: -530709915
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_136: -365085959
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_137: -1224633594
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_138: 344605912
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_139: 578817710
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_14: -2047669014
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_140: 1334408216
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_141: 1343696203
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_142: -409395563
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_143: -1814226494
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_144: 1838398028
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_145: 1504191911
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_146: 80258813
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_147: -792633029
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_148: 1243181254
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_149: 752793150
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_15: -766036977
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_150: -1494592549
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_151: -223741097
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_152: -1498201119
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_153: 2056495524
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_154: 118545580
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_155: -49086138
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_156: -1711957559
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_157: 818933022
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_158: 1854811123
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_159: 1301460740
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_16: 1303949959
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_160: -1473970376
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_161: -1649833191
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_162: -1587120909
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_163: -571724277
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_164: -2086974740
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_165: -456645254
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_166: -7852299
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_167: -1667581538
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_168: 1148914420
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_169: -17509126
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_17: -1624948928
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_170: 880877153
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_171: 529452341
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_172: 876613000
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_173: -1508499765
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_174: -345937708
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_175: 1708701911
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_176: -1613190937
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_177: 345470694
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_178: 996441689
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_179: 1183404207
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_18: 2096954168
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_180: 654292990
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_181: 1358158723
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_182: 841452140
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_183: 583965461
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_184: 1756504644
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_185: 1461459984
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_186: 1624527310
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_187: 805027800
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_188: -1111407369
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_189: -1277491799
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_19: 1972420897
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_190: -79741027
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_191: 2025450761
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_192: 27855900
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_193: 748354448
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_194: -1803926329
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_195: -400078379
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_196: 1919318042
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_197: 1201570722
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_198: -54679970
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_199: 171648557
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_2: -1048864261
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_20: -123176884
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_200: -1440939200
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_201: -1749064983
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_202: -2143616902
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_203: -1539858943
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_204: -2027020779
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_205: 1421686477
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_206: -1397648403
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_207: -791696517
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_208: -1672047294
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_209: 213022970
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_21: 1174555614
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_210: -1675034379
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_211: 1957483341
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_212: -1792387477
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_213: -705055512
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_214: -313777166
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_215: -431776064
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_216: 552460269
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_217: -101295550
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_218: -709533493
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_219: 1500091251
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_22: -2128274137
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_220: 193800539
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_221: -796184627
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_222: 41989806
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_223: 180884507
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_224: 1061431560
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_225: -514410695
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_226: -1744922020
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_227: 1219191435
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_228: -64096396
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_229: -550858745
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_23: -1549065834
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_230: -1616424219
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_231: 391354475
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_232: -1409736385
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_233: 1263080362
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_234: -934297069
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_235: -65282927
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_236: 1372815452
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_237: 860254018
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_238: -548289248
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_239: -1449878890
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_24: -741787856
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_240: 1764201536
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_241: -1756576068
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_242: -203986386
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_243: -1515920027
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_244: 1082778890
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_245: -2098211443
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_246: -1190090681
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_247: 1779568014
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_248: 1951727856
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_249: -1975979646
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_25: -1885273065
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_250: 58267759
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_251: -1491830907
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_252: 1128397406
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_253: 209382304
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_254: -502630556
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_255: -1226842914
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_256: -1376091941
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_257: -1453973671
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_258: -1461633959
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_259: -980085750
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_26: 1940667205
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_260: 1157908600
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_261: -893383071
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_262: -654964378
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_263: -1308373689
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_264: 629080958
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_265: 1736396184
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_266: 1294448066
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_267: -876619891
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_268: 838756743
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_269: -722711760
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_27: -1387056075
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_270: -609719174
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_271: -1373806461
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_272: 1311761638
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_273: 1792051030
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_274: 166021344
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_275: -1909696219
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_276: -489034076
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_277: -951962205
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_278: 467035007
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_279: -1055605357
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_28: -476163294
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_280: 225449707
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_281: 1254106555
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_282: -1187202328
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_283: -1980414232
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_284: -833606149
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_285: -1760591552
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_286: -256962915
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_287: -362112810
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_288: -886035483
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_289: -1351918691
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_29: -712368187
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_290: 452986978
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_291: -1170342637
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_292: 286706963
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_293: -1751202499
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_294: -626384959
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_295: 57686203
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_296: -1550663006
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_297: 2100493580
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_298: -319570996
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_299: 862926783
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_3: 1828492258
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_30: -73309116
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_300: -311923283
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_301: -691559719
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_302: -1806082847
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_303: 2045225183
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_304: 1185947936
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_31: 1331110136
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_32: -709780395
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_33: 1543857447
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_34: 1811312463
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_35: -1140654461
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_36: -1176311965
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_37: 50254107
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_38: 1567412277
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_39: -1907725222
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_4: 1672946111
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_40: 1198813726
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_41: 827077864
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_42: -421998152
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_43: -1227757419
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_44: -1762009173
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_45: 92621829
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_46: 2020570023
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_47: 528371161
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_48: -682449316
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_49: -544209760
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_5: 1812262942
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_50: 803085110
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_51: 1452013260
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_52: -930826528
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_53: -1821798640
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_54: -1815345696
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_55: 552073052
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_56: -450718318
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_57: -344307768
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_58: -1350860509
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_59: 1989322172
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_6: 162501312
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_60: -71503190
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_61: 1412657505
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_62: 610005993
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_63: -616587009
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_64: -610437371
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_65: 1896740386
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_66: -500472430
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_67: 1090259413
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_68: -1697248197
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_69: -741681199
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_7: -1488181353
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_70: -1410678305
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_71: -1561801433
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_72: 154867172
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_73: -1926856101
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_74: -279223889
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_75: 356078547
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_76: -192530927
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_77: 240026514
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_78: 1057436659
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_79: 1061678120
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_8: -2039528445
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_80: 1534063038
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_81: 151928759
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_82: 759201631
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_83: -958282651
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_84: -1998354569
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_85: 860506375
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_86: -233453829
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_87: -1073027802
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_88: -2132563839
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_89: 176157596
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_9: 2130793207
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_90: -1244511063
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_91: -1330976278
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_92: -913899689
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_93: 156843358
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_94: -204524993
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_95: 586465286
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_96: -132752201
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_97: 1728733890
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_98: -1924840519
+      Neo Geo NGCD - Metal Slug 3 - Chowmein Conga_99: 613160133
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
