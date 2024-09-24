@@ -1,0 +1,6994 @@
+fileFormatVersion: 2
+guid: 5bd2833549cb68a4d97885f379685a38
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3561
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f0385f58d46064fac626043bb4cd6e
+      internalID: 383000470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3469
+        width: 163
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49466828, y: 0.08080193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ed1bc99aee1347952bb7694f83923
+      internalID: -526542649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3377
+        width: 167
+        height: 80
+      alignment: 9
+      pivot: {x: 0.49660122, y: 0.078042604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d0ace4cb5b134ca9136a2678d8ebc
+      internalID: 2039113195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3349
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5e88cc209bca94ebec8a31e11419cf
+      internalID: 1991132324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3258
+        width: 162
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49488702, y: 0.10230354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e16b2477966cb348bf9152bb1f662a5
+      internalID: -934466605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3259
+        width: 164
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5026595, y: 0.08164062}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9795adbe69c5f4e9f51d97cfd539d4
+      internalID: -167153865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3259
+        width: 164
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49483174, y: 0.07956112}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dd1d3e29309724d8875c85446ce0bf
+      internalID: -913873241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3260
+        width: 168
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5019564, y: 0.07691004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d616c47455f0934486df69afcecb832
+      internalID: -2097639286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3165
+        width: 170
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49674153, y: 0.09486187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00a4566ead157547a7fca3e741b43f3
+      internalID: 876501189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3166
+        width: 171
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49486822, y: 0.09486187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d112b9e93361a498795aed8df43c2c
+      internalID: 1693631226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3166
+        width: 168
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5007846, y: 0.0886407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd410530f514c43a90445483e65fb0
+      internalID: -927306628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_11
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3165
+        width: 161
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49856928, y: 0.098450445}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b42b7f32228c494998b526cfb0da666
+      internalID: -1189314651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3136
+        width: 85
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b346cd7c46e1834439bdac64f04c12f8
+      internalID: 1774996179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3014
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba994e77a1d8bd44bb2167c50cc933a7
+      internalID: 1111005634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3012
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d4ea4e16d5234c8003a8d5edabc02
+      internalID: 90208054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3010
+        width: 21
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5374378, y: 0.4213501}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e4bae8c87d7954d942e25e6a462a77
+      internalID: 1256383518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3007
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc729dcf04a15104fa96d572ee631d38
+      internalID: 2013203090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3007
+        width: 29
+        height: 23
+      alignment: 9
+      pivot: {x: 0.7304435, y: 0.51707923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b93f6676decec046b4252c7fce3fe13
+      internalID: -1824976502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3007
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.81997323, y: 0.27946955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2007ddd2d6fd9fa4d8a278366b63dcef
+      internalID: -344475144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 3007
+        width: 46
+        height: 60
+      alignment: 9
+      pivot: {x: 0.80765104, y: 0.18550618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58df9aef224660488d42307eaaa82a0
+      internalID: 1300165581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_20
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 3007
+        width: 44
+        height: 79
+      alignment: 9
+      pivot: {x: 0.77696365, y: 0.13176486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4502fa9f25b55474db929409be77277d
+      internalID: 1375626540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3007
+        width: 46
+        height: 106
+      alignment: 9
+      pivot: {x: 0.80765104, y: 0.09946888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2302c857991752e45b71ee90b984df3f
+      internalID: -401671615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3007
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.7966861, y: 0.09378255}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5723d4c2e0e954a46aaf68c72b47fc9f
+      internalID: -478321053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_23
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3007
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.8337719, y: 0.090507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f11b1077cd5f874985af25d36e1e71f
+      internalID: 146312817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 3007
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: 0.81152, y: 0.090507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934f2dcd5a9f55a41963dc8924231b55
+      internalID: -493954081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_25
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3007
+        width: 55
+        height: 120
+      alignment: 9
+      pivot: {x: 0.82878196, y: 0.08068034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90660a7fd45e1194cb4f0b2a59be179e
+      internalID: 720791297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_26
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3007
+        width: 51
+        height: 116
+      alignment: 9
+      pivot: {x: 0.8083209, y: 0.08316566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6739640c0205c14a9859b2a396ca50e
+      internalID: 308276790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_27
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3007
+        width: 67
+        height: 120
+      alignment: 9
+      pivot: {x: 0.72882354, y: 0.08067831}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970dcbb77bea67c43873b8de73dafafd
+      internalID: 467082466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_28
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3007
+        width: 58
+        height: 99
+      alignment: 9
+      pivot: {x: 0.6558859, y: 0.102911435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518dbe223692afe4cb23af003281c311
+      internalID: -1865346211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2885
+        width: 56
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6552323, y: 0.101927504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ec5f15c34e9894080db7d1d1196500
+      internalID: 1045162699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_30
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2885
+        width: 53
+        height: 101
+      alignment: 9
+      pivot: {x: 0.62301403, y: 0.09654674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da033d29536f10408a893cf2e5154c1
+      internalID: 2027323947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2885
+        width: 51
+        height: 101
+      alignment: 9
+      pivot: {x: 0.65979815, y: 0.09654674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e67e41714399f49baf9622336db35e
+      internalID: -1597583126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_32
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2885
+        width: 50
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6629938, y: 0.09654674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a52da33195753e4c9bb1bf3fb93479f
+      internalID: 569859767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2885
+        width: 48
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6697852, y: 0.09654674}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2b4403be87ef54087a614fec4e7446
+      internalID: -1399363306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2753
+        width: 58
+        height: 101
+      alignment: 9
+      pivot: {x: 0.63450676, y: 0.100919515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96e3abe57eb99341a89b56ec1ac362b
+      internalID: -1141588603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2753
+        width: 58
+        height: 101
+      alignment: 9
+      pivot: {x: 0.64197934, y: 0.1095007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53414220f252694691f64f3902982a1
+      internalID: -1392091135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2753
+        width: 53
+        height: 101
+      alignment: 9
+      pivot: {x: 0.679906, y: 0.1095007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d9c478701a85642bcb579690a5e718
+      internalID: -556000087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2753
+        width: 53
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6880844, y: 0.1137937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a281b5bc50a9a243b5f6a8b2161f59a
+      internalID: 1052089070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 2753
+        width: 53
+        height: 101
+      alignment: 9
+      pivot: {x: 0.73714924, y: 0.1095007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f6c8e67fcf4b84dbb76622316688b2
+      internalID: -36389971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_39
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2753
+        width: 52
+        height: 101
+      alignment: 9
+      pivot: {x: 0.74170977, y: 0.100919515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec4343b3715fcc4c97488f4e2a27234
+      internalID: -1005734065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_40
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2753
+        width: 55
+        height: 101
+      alignment: 9
+      pivot: {x: 0.69700485, y: 0.1052101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b2e23b5e8e59f4a84dc7e698082dae
+      internalID: 1586461802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2753
+        width: 55
+        height: 101
+      alignment: 9
+      pivot: {x: 0.76004636, y: 0.1095007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a745bed88c0920042a0d00a19b5a984f
+      internalID: 1014148457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_42
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2751
+        width: 61
+        height: 103
+      alignment: 9
+      pivot: {x: 0.6705222, y: 0.100254096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010f094ee7580c449f65e36bdb82f5a
+      internalID: 641412587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_43
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 2751
+        width: 66
+        height: 103
+      alignment: 9
+      pivot: {x: 0.6641707, y: 0.10025173}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc3d4151400cac49a656bf6b17b2fa4
+      internalID: -1725286607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_44
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2751
+        width: 65
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7000357, y: 0.1052101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5a0729342f19449980e30265dab107
+      internalID: 1449170689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_45
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 2751
+        width: 65
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7133714, y: 0.100919515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4db78a7c62c754ebcd517adf768b3e
+      internalID: 1360965323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_46
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 2751
+        width: 64
+        height: 103
+      alignment: 9
+      pivot: {x: 0.7505655, y: 0.104459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39013abad8db1df4f9066bc0621e7a48
+      internalID: -10984849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2751
+        width: 65
+        height: 101
+      alignment: 9
+      pivot: {x: 0.80005354, y: 0.1052101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668f1889057b0c24dbd3185c52163383
+      internalID: -66011718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_48
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2751
+        width: 68
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7485738, y: 0.100919515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987e2257c06e530418dff54712d6f03d
+      internalID: -480006667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_49
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2628
+        width: 73
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7374853, y: 0.100919515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adca1a7362b53f4b8afbd292c265e1b
+      internalID: 38842897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2628
+        width: 77
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7420345, y: 0.09233592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d685e384b08713c4c9067cdd17bc6f49
+      internalID: 1065082047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2628
+        width: 81
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7354329, y: 0.09662893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1620068ae5afdc49afa6a99c4557cf2
+      internalID: -1746364428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_52
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2628
+        width: 72
+        height: 101
+      alignment: 9
+      pivot: {x: 0.70466655, y: 0.1052101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b450109b8f5c7a94b99596bdfac7393a
+      internalID: -383182145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_53
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2628
+        width: 67
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7393462, y: 0.09233592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c5602784e2f96458c27d0626c553a4
+      internalID: -249054449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_54
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2628
+        width: 67
+        height: 101
+      alignment: 9
+      pivot: {x: 0.71347046, y: 0.09233592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add85c7b442e074d81ad19c7ec7bffc
+      internalID: 1256549800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_56
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2625
+        width: 69
+        height: 100
+      alignment: 9
+      pivot: {x: 0.7889404, y: 0.092592776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cecad4ceb169804da37734526ef772a
+      internalID: -440798640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_57
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2625
+        width: 51
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6444702, y: 0.08825928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32aeac4c8d77e448f9997f30de40a0
+      internalID: -13434747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_58
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2625
+        width: 53
+        height: 100
+      alignment: 9
+      pivot: {x: 0.6063083, y: 0.09692627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f018d1c4d9964086780e9394b6850
+      internalID: -1210904229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_59
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 2625
+        width: 53
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5817756, y: 0.101262204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90f77a26a368bb4e9ddefb37d233d3b
+      internalID: 235985342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_60
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2512
+        width: 56
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6480506, y: 0.09728286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c1d85b9d40fa04aad43628f3905826
+      internalID: 722791689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_61
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2512
+        width: 53
+        height: 102
+      alignment: 9
+      pivot: {x: 0.67065173, y: 0.10097609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d9a70ffe01f59449ab3c6f8c1850fa
+      internalID: 237820654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_62
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2512
+        width: 51
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6699548, y: 0.09728286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05c732d2be595a4b8d23306611af675
+      internalID: -1120506331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2512
+        width: 51
+        height: 102
+      alignment: 9
+      pivot: {x: 0.7069014, y: 0.09728286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711e98a73ede7114a921bd7f6dfcfdc9
+      internalID: -1742499748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_64
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2512
+        width: 49
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6999642, y: 0.09358724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f89f5fb5bbe14489ac6f2aa6d95060
+      internalID: -1164086918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2512
+        width: 50
+        height: 102
+      alignment: 9
+      pivot: {x: 0.68842775, y: 0.09728286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e8136027160b849add52b4420bcc2d
+      internalID: -321249852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_66
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2512
+        width: 51
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6773448, y: 0.09728286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ce48bcb99edbd4788776aa7d3b99a2
+      internalID: 1964256728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_67
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2512
+        width: 55
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6438909, y: 0.09358724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ca66244d3acdc4d96505c6406a7881
+      internalID: 1837918853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 2512
+        width: 57
+        height: 102
+      alignment: 9
+      pivot: {x: 0.6454532, y: 0.08989162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954803d291fadb140849366c8eb2ac60
+      internalID: -859344364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_69
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2508
+        width: 55
+        height: 102
+      alignment: 9
+      pivot: {x: 0.657595, y: 0.11575617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e9f1a17365bad4087d9eec82b814dc
+      internalID: 1726253229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_70
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2508
+        width: 55
+        height: 102
+      alignment: 9
+      pivot: {x: 0.67815053, y: 0.108364925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3294b10787dcd3644ac81203414e5d5c
+      internalID: 1958932159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_71
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2508
+        width: 56
+        height: 102
+      alignment: 9
+      pivot: {x: 0.74226487, y: 0.10097609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0392d16026517c640b4ffcaf7367c7ee
+      internalID: -2081302875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_72
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 2508
+        width: 56
+        height: 101
+      alignment: 9
+      pivot: {x: 0.74226487, y: 0.108219564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5e50bcc273f2541b1054b124ad1c2b
+      internalID: 1656224623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_73
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2508
+        width: 58
+        height: 101
+      alignment: 9
+      pivot: {x: 0.75340325, y: 0.108219564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826e51ec0cef455429391ff336c17e16
+      internalID: 695380753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_74
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2508
+        width: 60
+        height: 101
+      alignment: 9
+      pivot: {x: 0.7135518, y: 0.108219564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470156554c956c84da6b1b6388c37151
+      internalID: 1531460001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_75
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 2508
+        width: 63
+        height: 101
+      alignment: 9
+      pivot: {x: 0.73329186, y: 0.10075756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5fb90d552e0f64bb5293c59db4d744
+      internalID: -721523301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_76
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 2508
+        width: 66
+        height: 101
+      alignment: 9
+      pivot: {x: 0.69413805, y: 0.10448735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25138fd9089a8f46a19c348720d6118
+      internalID: -432471031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_77
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2397
+        width: 69
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6923449, y: 0.09436156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0776887c3d0a004fae31f6e5f3d7f9b
+      internalID: -1948392704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_78
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2397
+        width: 68
+        height: 101
+      alignment: 9
+      pivot: {x: 0.74608856, y: 0.10007349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4542b2e32f750b468b5b93d9c3cd9ce
+      internalID: 1640069026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_79
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2397
+        width: 70
+        height: 101
+      alignment: 9
+      pivot: {x: 0.74730074, y: 0.10578783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e536086c2ebf741b212cfe6e0a59fc
+      internalID: -973517560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_81
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2397
+        width: 73
+        height: 100
+      alignment: 9
+      pivot: {x: 0.7371379, y: 0.10761475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a22419ebcf84174f878752004e3b20e
+      internalID: -492241683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_82
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2397
+        width: 49
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6177623, y: 0.11149975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce93ba60c5be8a24baecdf51ee34e1d7
+      internalID: 252087649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_83
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2397
+        width: 52
+        height: 101
+      alignment: 9
+      pivot: {x: 0.6553556, y: 0.10578783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c24c48c3a947fd439a2161b45a54ef7
+      internalID: 2053075768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_84
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2397
+        width: 52
+        height: 101
+      alignment: 9
+      pivot: {x: 0.61096835, y: 0.10007349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242da728c7c626c488a0322648762aec
+      internalID: 24436138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_85
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2349
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f149632379c235f43bc21488d03d4953
+      internalID: -1767292458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2351
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b17e9e58126674abce9c9a7eae971e
+      internalID: -11691415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_87
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2351
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ca497f73a75e459fe4fa42d2b35b2
+      internalID: 773118328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_88
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2351
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a223618bc862841409ce7740d220e36c
+      internalID: -230450013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_89
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2351
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0464315bd6593240ac69bf61e882d10
+      internalID: 512782083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_90
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2351
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1b6bdff9e1064085165e59262c5b5
+      internalID: 1509837277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_91
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 2351
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7534a7ee00c8c4048a7040b303bca705
+      internalID: 437268907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_92
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2327
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f4086058b4544c8bce72fc18a0d98
+      internalID: -1966842195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_93
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2325
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acac4eebcd30e894eab2c2f912cbd3be
+      internalID: 1536904873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_94
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2325
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013e3196895098b4cb2a55bdd755fa68
+      internalID: 708309881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_95
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2327
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b54e70bf7ff36499c9edf278801c30
+      internalID: -287482275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_96
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2327
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e498ca54d59a747858234e913ab94c
+      internalID: 2036127569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_97
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2327
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071870a2ab9fb2b4b8b21faa5cc771dc
+      internalID: -1679050192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_98
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2327
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685b061b0dd0b5f4a9cdad5b2bd8f018
+      internalID: 1049147358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_99
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2327
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9735cfb63109a1644830fd016576e202
+      internalID: -1882051548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_100
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2323
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115fbf1f153e57b488eb0f0e32f8d4cd
+      internalID: 841595943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_101
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2323
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa9a079b3270d14cb9df4579b5ec038
+      internalID: 690320430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_102
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2327
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7764061640d7beb469326789249b105c
+      internalID: 1062260627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_103
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2284
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ade13b7de3e5247b1a09b84232db7b
+      internalID: -1009231165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2282
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4624a9f07b9f1143bad045d9d9a28d5
+      internalID: 1816109568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_105
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2281
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5bf336a3707974593be383b297cbc4
+      internalID: 502727803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_106
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2277
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716ffd48fdd124349bf138e86155e185
+      internalID: 1036346671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_107
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2284
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fba1f98cb85ac479ec04d63ad119aa
+      internalID: 1925237858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_108
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2284
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3f4c34a0c54db4cbf1f13f86d407f7
+      internalID: -982049159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_109
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2284
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9d95824527a7a4c950a66416423a7e
+      internalID: 1814152764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_110
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2290
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be9f324d4ffb034b9743b5a415a83be
+      internalID: 1948629910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_111
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2291
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056aa9ad8b5c37245bb1720a34164391
+      internalID: 1950960602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_112
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2291
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e704cac50d3b843b6dba376b06ec02
+      internalID: -1552118661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_113
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2293
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ad1417d9ff444d8c27695acebb071
+      internalID: 702101735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_114
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2298
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4fa2519d88c2b43b9e1366d5ba8dbd
+      internalID: 1139034802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_115
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2298
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feb7c1d2cc54f040825580f875425dc
+      internalID: -1379507910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_116
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2226
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ec5bf4a6cfa2848a8f0f5c7602ce42
+      internalID: 628134728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_117
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2226
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a25c2cb474d45f44b80756ca5c49a35
+      internalID: 1606652010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_118
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2224
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0370c5947e0f5d4ca44f6a550563f7a
+      internalID: 861420820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_119
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2219
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b3cb1eda446cc479806432fe58265e
+      internalID: -949897395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_120
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2219
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb91e7193eb6ad64884731bb2d6a96b6
+      internalID: 1498988967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_121
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2233
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1d6d815aa7da74b8afbc68bf3d89e8
+      internalID: 1011395499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_122
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2241
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a2313134fc0894a9472942f257e4dc
+      internalID: 187067290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_123
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2244
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c13c6da4bd8b4e42b431e87e31c5868
+      internalID: 2122456227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_124
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2244
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc495b588738024a93e9d5cab207618
+      internalID: -1133118990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_125
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 2249
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7565a81adb37dc4e9a69588f35f3f6b
+      internalID: -745960863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_126
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2249
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ffca037b325ef448a9a64cf4e905ed
+      internalID: -1002095223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_127
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2261
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e462b62bb383e9d42998549264d9dd41
+      internalID: 1778212345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_128
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2254
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2befc3c519cd544590a1a01732af288
+      internalID: 1963935857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_129
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2252
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cc1b52131b4d745a51fe50f7a98b7b
+      internalID: 904591208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_130
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2226
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70254158c35e617439196fbadd56a21b
+      internalID: -1860793515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_131
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2092
+        width: 51
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9280089cd152643a3f8db02b79b059
+      internalID: 1421371573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_132
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2092
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36c0d5ff13b6824294d0244369a7219
+      internalID: -2075056689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_133
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2092
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c01bfe9c06ea44480a558e7c56f23c
+      internalID: -1616724371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_134
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2088
+        width: 56
+        height: 99
+      alignment: 9
+      pivot: {x: 0.6632791, y: 0.10537257}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503198e587735fc4f938b97917a7a695
+      internalID: 703280963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_135
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2088
+        width: 55
+        height: 97
+      alignment: 9
+      pivot: {x: 0.63602185, y: 0.1100898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a39fd12ec947e4192944831bfe0c3c
+      internalID: -1309976947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_136
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2088
+        width: 53
+        height: 96
+      alignment: 9
+      pivot: {x: 0.64899606, y: 0.10169983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b384b5825b61f54588ed20cbdd6b65c
+      internalID: 433294436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_137
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2088
+        width: 50
+        height: 96
+      alignment: 9
+      pivot: {x: 0.68287295, y: 0.11035665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170ad24fb9cf9814b90f6402f11c963c
+      internalID: -848919826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_138
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 2088
+        width: 51
+        height: 96
+      alignment: 9
+      pivot: {x: 0.6385402, y: 0.11035665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7491cec0dcd6f4ba24ec3816f5f391
+      internalID: -1994998104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_139
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2088
+        width: 50
+        height: 92
+      alignment: 9
+      pivot: {x: 0.6579358, y: 0.10697074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be654442d0e63cf4593367f353a17500
+      internalID: -1917338090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_140
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2089
+        width: 51
+        height: 89
+      alignment: 9
+      pivot: {x: 0.7363341, y: 0.09839141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63210f5d7eed504293350991ca1158d
+      internalID: 730831193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_141
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2089
+        width: 55
+        height: 90
+      alignment: 9
+      pivot: {x: 0.65869254, y: 0.11209039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4041883ee9f4f643a7c726bb4256944
+      internalID: 1146120408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_142
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2089
+        width: 47
+        height: 90
+      alignment: 9
+      pivot: {x: 0.7387617, y: 0.11209039}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea03dfcad303bee42816fe02bf463356
+      internalID: 691009394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_167
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2053
+        width: 89
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d6495b7d35564394e704c6afe71fb
+      internalID: 127703703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_168
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2055
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6486ebf64b001c4ea82cc6dcecdfc5b
+      internalID: -1065614390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_169
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2055
+        width: 78
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab0396c8117c140b7289b09f5a32a1
+      internalID: 2073667876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_170
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1958
+        width: 654
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bc0eddfc990e24da1fb3d3958e4dd2
+      internalID: 1907623713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_171
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1866
+        width: 493
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abc55aeb5502bd47a3a2d92a354b878
+      internalID: 1898055854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_172
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1866
+        width: 164
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb0b01d58046f44ca2c12f772bd5f05
+      internalID: -1243701445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_173
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1769
+        width: 162
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419314457eb706a449c16df14fde1bc2
+      internalID: 651234051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_174
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1769
+        width: 162
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c39ed9c31c1d74db6d33d7805b6933
+      internalID: 341788865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_175
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1769
+        width: 162
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a97788e7baca489b3b21945cccf77
+      internalID: 647657696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_176
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1769
+        width: 163
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a190477a194e14a9fdca7ed955be41
+      internalID: -1733087652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_177
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1677
+        width: 162
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c515f7c250b94454b97a44f6b526d226
+      internalID: -203351187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_178
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1677
+        width: 162
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c935aac2dcbaf4f44a2ff72721895aa2
+      internalID: 1427391591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_179
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1676
+        width: 162
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88170f5cc0485642bda63e44db91b8e
+      internalID: 1695679749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_180
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1677
+        width: 164
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d16317e3f1f8148a4950a0f072084a
+      internalID: 639011129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_181
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1579
+        width: 492
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a858de95d558ebf4982aca963e81d55d
+      internalID: 1459469809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_182
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1579
+        width: 164
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85386898dfc8b184daddc2e440763187
+      internalID: 1837363960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_183
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1486
+        width: 163
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2aed9849c5ee343acfa63c2ed14ab4
+      internalID: -1765529965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_184
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1486
+        width: 162
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f004f9d1fcc234042b3fe3dbaaba7c16
+      internalID: -1487186052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_185
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1486
+        width: 162
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a08628a90913f4fb57b21010544864
+      internalID: -1047615146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_186
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1486
+        width: 162
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d83dac3a291d54eb7b54ce6bee1c5b
+      internalID: -130304877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_187
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1459
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d493428041ad84286d4403da2b0bf5
+      internalID: -605655832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_188
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1459
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e921f1fc0649957458d794de748690e6
+      internalID: 878063976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_189
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1371
+        width: 162
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8213c900b2fe4b814065d8d2e1122
+      internalID: 640348395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_190
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1371
+        width: 493
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200f384ea232b0946acc47a6d187ef58
+      internalID: 834163139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_191
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1277
+        width: 163
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f4ea7ae7ceb3a4ca2e736815c410f9
+      internalID: -1384895545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_192
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1277
+        width: 493
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c66181d6c370e4faf0b66e4a6c3133
+      internalID: -1434680136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_193
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1255
+        width: 125
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85f5eb391d477d468d1d8a7c44caba8
+      internalID: 1530891337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_194
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1143
+        width: 656
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770b2450e47092f43bd4e75fb963006a
+      internalID: 760538129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_195
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1050
+        width: 657
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bca33b5645db874796947f694e74aea
+      internalID: 1291804033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_196
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1020
+        width: 64
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f27041a2cdc2247894a97d0ca3395b
+      internalID: -1940913443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_197
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 922
+        width: 164
+        height: 83
+      alignment: 9
+      pivot: {x: 0.49476707, y: 0.08640225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef73f8182d96a94b8b85f36dbf7c69b
+      internalID: -1592345100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_198
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 921
+        width: 164
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49476698, y: 0.09613396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30e61c88f38e794ea0f01fcd8a280cd
+      internalID: 1475782752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_199
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 921
+        width: 178
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10622918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3fee3286e65ab408e3b8c1b683a5d0
+      internalID: 76754548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_200
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 828
+        width: 180
+        height: 84
+      alignment: 9
+      pivot: {x: 0.49523202, y: 0.101544335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b36b131b1efb7042974e653d6dc5b7f
+      internalID: 641056878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_201
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 831
+        width: 180
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49523196, y: 0.136522}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a040304be0da834db88a63cb81897ce
+      internalID: -346525292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_202
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 831
+        width: 180
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5047682, y: 0.10708434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e077a5fc1d40ea46991664348411420
+      internalID: 175633070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_203
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 835
+        width: 180
+        height: 83
+      alignment: 9
+      pivot: {x: 0.50476784, y: 0.076063775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2268d54db87874478d9ecc69d890be0
+      internalID: -2000011813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_204
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 835
+        width: 180
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13219343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2809732c89538f4b8d52c74b3480aa2
+      internalID: -1884230012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_205
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 738
+        width: 148
+        height: 85
+      alignment: 9
+      pivot: {x: 0.48260358, y: 0.11632655}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748bf6f0f7e094f488360029bfb01dea
+      internalID: 2105088535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_206
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 738
+        width: 147
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.12642248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af0d76758acacf42b72f74a5e2b83be
+      internalID: -1396981370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_207
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 738
+        width: 148
+        height: 83
+      alignment: 9
+      pivot: {x: 0.4999998, y: 0.08640298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47cf7ee0710d384eb03c8b2f94dba96
+      internalID: -1855139040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_208
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 739
+        width: 148
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.10229194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5a60b57d8afa94983d4a5f2abdd8b0
+      internalID: 1088231103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_209
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 739
+        width: 138
+        height: 76
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.116060756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8e1045558ff4947af36098af652f64
+      internalID: -1594634991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_210
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 655
+        width: 180
+        height: 69
+      alignment: 9
+      pivot: {x: 0.49523205, y: 0.12686378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44567325a990996419039e2c4d43673e
+      internalID: 110554511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_211
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 657
+        width: 180
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14827241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae9ffc0c49002b4d8ad580d657bbf76
+      internalID: 1007105674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_212
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 657
+        width: 180
+        height: 51
+      alignment: 9
+      pivot: {x: 0.50476754, y: 0.16344377}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927c87bcc705fdc4fb1eac8adea6ffc8
+      internalID: 368313871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_213
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 657
+        width: 180
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.24253082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd6e15155788ae4e907bc3ed8bec0d8
+      internalID: -2042006714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_214
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 657
+        width: 177
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2547956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8ca8452e1d4bf448c65e121cb26454
+      internalID: -1814009233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_215
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 609
+        width: 175
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35696003}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a3f3aa964fcd44c8456b6f2ab6bfef
+      internalID: 1290682884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_216
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 609
+        width: 170
+        height: 27
+      alignment: 9
+      pivot: {x: 0.5100963, y: 0.30928776}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8b7b2d5f9f47c4ca43f2bcafb063f3
+      internalID: 702551870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_217
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 611
+        width: 167
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.32835448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c8eb9983770e4479175b9800983c45
+      internalID: 1313077070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_218
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 610
+        width: 162
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42293a5466dfbe844b7a7178f2dddf22
+      internalID: -210027383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_219
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 611
+        width: 130
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b23429973740d40b7dac41b75fd428
+      internalID: -939616789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_220
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 611
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6e132c01c6f484e967c013318c13ac
+      internalID: -1393189379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_221
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 569
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f2b6f187be329418d64a87dd075a2b
+      internalID: 1738329241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_222
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 570
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae0a9ae303429845a1c8e18faba62c7
+      internalID: -171662870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_223
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 570
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7792e52f65d89264a8952fa69b09fb2c
+      internalID: 1207517870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_224
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 572
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8aa6c21e628084191aad470bcde222
+      internalID: -517498487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_225
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 570
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c2a64e6e4915642a124f4a0e5e42d0
+      internalID: 1033091601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_226
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 574
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f5d4c411e505746b0d89fb49deb4c7
+      internalID: -361034905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_227
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 572
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22ade1dd682e76458a4745d51849cd5
+      internalID: 191099266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_228
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 576
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50d09e67e5eebd47a53dd8fc0a13118
+      internalID: -1879625537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_229
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 574
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e605c2aa4f5b84f87370b0c0a48e6e
+      internalID: 1091013423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_230
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 576
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821341f6999a69e47998d3e6904a0917
+      internalID: -1692762677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_231
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 576
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7f10f9e34644c4294298416dd14958
+      internalID: -443727089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_232
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 577
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9813857a8e6142e43ac787ccf8b66e76
+      internalID: -2115504227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_233
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 577
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0540a01c64284f9ff38c86686bcdc
+      internalID: 2123284863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_234
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 577
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793f52a8d2619004a8af654ca6b16d0a
+      internalID: -162431330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_235
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 562
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65193fd4e33ce1d4ca60594354f4280f
+      internalID: -716841063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_236
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 562
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7865c405cfcf74eb69c2d273e41f13
+      internalID: 1208465277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_237
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 562
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164c230f4f75d1946b1ba6290b941885
+      internalID: 1467771495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_238
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 562
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930974581657566459e2f8c93bd3f96f
+      internalID: -644814050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_239
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 562
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a40e3e093b0b64fb4574ebcd0d535c
+      internalID: 2012625866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_240
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 562
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5230ab01ebd2b564e8fce81b243696f2
+      internalID: 1539332731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_241
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 565
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ee7dbefd690df4b966d826b170d44f
+      internalID: 1965965041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_242
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 570
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52dc34f99695b649974a2b7baea24d7
+      internalID: -189253911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_243
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 572
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaecba01e5c6ea49a43d413c845c19a
+      internalID: -549574086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_244
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 548
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cb79c90ad1fab43b3c9c1b0450d427
+      internalID: -1345316393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_245
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 549
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6dcba78695e264e8d9781cfd6b736c
+      internalID: -1682960638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_246
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 546
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe4f5d9978765e44a35cae369cc00a0
+      internalID: 2130025972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_247
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 549
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96394e0b2861bf84fb116e84d3306fd0
+      internalID: -1283851911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_248
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 544
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6622470f4f86514da75053e1e718d18
+      internalID: -1133384215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_249
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 547
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933ff2359b2e85d4388f4495cabfba49
+      internalID: 1557456591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_250
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 544
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa669493a8afb045bc3eea9a07d08ee
+      internalID: -1577955902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_251
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 546
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d1fad8c3345604784bec3dd9553cff
+      internalID: -142000611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_252
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 540
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba01cb45dfbc274182d2ba0c16988cb
+      internalID: 597119653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_253
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 542
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1deef1395551e4aa7b1b8701a92fa7
+      internalID: -1408684783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_254
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 540
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c015b097ac42343ac7e6371731e73d
+      internalID: 2049789144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_255
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 542
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f22e584d4c2cc4c845e30bd60d9cb9
+      internalID: -1542896944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_256
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 537
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f21a21c00166214f8e19bf6c637a296
+      internalID: 727791923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_257
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 540
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0bc234d50eb524f89c5a673270b156
+      internalID: 471687818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_258
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 505
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4422ba0a3eb4a40bb157dfd2aada12
+      internalID: -329583754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_259
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 507
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5b22bfe42f7f4ab2f5620f42f7b95
+      internalID: -1033136180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_260
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 509
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4d339b45745a47834c28503c46e61
+      internalID: 809808191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_261
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 505
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a378be61a022049bd5fcdeab9b51dc
+      internalID: -662615038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_262
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 507
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2630b48c2f296744860773506301f09
+      internalID: 1904547818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_263
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 505
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748381c1aa3d9e34da6d7a635acb25be
+      internalID: -307720395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_264
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 507
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a28aa5eec6138f40832e6427e95bc9e
+      internalID: -1286485049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_265
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 475
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff5d70553af574695aadbdfdaf7dd3
+      internalID: -813894313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_266
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 505
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a46a8e475221584fb554921f360dd7c
+      internalID: -1425901412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_267
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 519
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2f2d8d8e110f40881cb93edf76de2
+      internalID: -925700151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_268
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 519
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334e0583c293e2344b360c9787bd9d2a
+      internalID: -915526729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_269
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 517
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52efad476ecfe364cad6428029ae59f4
+      internalID: 1800788633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_270
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 514
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db168101cc8014e43bacdded09f26d2b
+      internalID: 307893226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_271
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 509
+        width: 85
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9063681fddbc9c46988787ed7e44752
+      internalID: 946806975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_272
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 507
+        width: 59
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65987fbf75e0aab4ba55ce897a745d06
+      internalID: -557440415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_273
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 473
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af46dd711d49594c90c3966896cd756
+      internalID: 1094980388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_274
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 475
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23388aab488bde41a5a18745b513efd
+      internalID: -1697548598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_275
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 475
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6c298a88a52b247b85a39f910d12aa
+      internalID: 2096515605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_276
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 475
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5915d863786a81489f039d56ce11d38
+      internalID: -1601688905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_277
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 475
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8777b1f1bcab7c5458aeb1bafd9c5bae
+      internalID: -507187755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_278
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 473
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc83994f766a0c4cacf0b164a5b0eb0
+      internalID: 1614080124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_279
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 473
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3059f6498c04645babe565f46637c2
+      internalID: 1689973842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_280
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 473
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efad517f6bf28f84ab0750f56253632c
+      internalID: 640131716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_281
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 475
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad4411f48b624419d41bd31a64531e
+      internalID: -1007904907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_282
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 475
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d553553ce5ecc9e45acca98c57143dad
+      internalID: 1426376179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_283
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 475
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b504b6a4159d1e04e90871a774d47719
+      internalID: 658710543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_284
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 475
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f285c95d6522d474793ab0646fadf375
+      internalID: 1198583064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_285
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 477
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ff19fb551fc174ba43f7dc7339cd4c
+      internalID: 1484454687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_286
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 475
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf00bea6eb660934485bf14eb6f04f68
+      internalID: 1815303837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_287
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 387
+        width: 89
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd14028b68480b54dbf58eb9cd5f066b
+      internalID: 1067380420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_288
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 387
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526b3e6b42231774abc25e4f1dea5c2b
+      internalID: -944779474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_289
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 387
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993c1e77283a11448b965e95cc2eb502
+      internalID: 1899656843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_290
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 387
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fe8f1d0edda1b4383a1a004e5784cc
+      internalID: 645440294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_291
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 387
+        width: 93
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75abd00a10cd03b488cc066f356efa43
+      internalID: -1481504719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_292
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 445
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173949c5f78e2e54bb1e7fa29578b934
+      internalID: -1965428044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_293
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 387
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7ab22b3c01844bae47649d5291bd6
+      internalID: 248759600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_294
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 458
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95814b52135229b42b9cc3408f6fc82f
+      internalID: 1380420326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_295
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 440
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6aa6f286d99ad48928cfd44c615a0a
+      internalID: -183432670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_296
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 387
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9723fcea65deb5418c13e79cb9a030c
+      internalID: 491497529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_297
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 387
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977e433389c793b449491b07c9b487de
+      internalID: -664915019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_298
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 387
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da90b73800b0d349aa51333a0092644
+      internalID: -553637033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_299
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 387
+        width: 75
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264227867e5044d498e884884b19add6
+      internalID: 519837700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_300
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 387
+        width: 79
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac96e66a3d1ca5741b2a27f24c864864
+      internalID: -1634198344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_301
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 422
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06abb420c6bc2f04da9f9db6adc0b407
+      internalID: 530750887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_302
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 399
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b6850309eeec84fbf716fc1253e9bb
+      internalID: 416196331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_303
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 281
+        width: 517
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcebe39b2ac668347893ce2f650ee18b
+      internalID: -1729804192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_304
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 160
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffe3ed42e7321b46b157c60e9b60813
+      internalID: 1498883314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_305
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 153
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b5c39a827deda438e4447e17ba7671
+      internalID: 1202403978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_306
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 149
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d8a56483bbd344ac28d73c4d23a54
+      internalID: 482665932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_307
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 142
+        width: 108
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895acf5c618cb0a41b6ff08ee23d6d36
+      internalID: 1488173461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_308
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 133
+        width: 117
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f27f29ee2b2dc146928f0d76b601af6
+      internalID: 830995133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_309
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 128
+        width: 121
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d0f82759549f4fbb9cc0918cf1284
+      internalID: 2110060895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_310
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 129
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73fd84ce294bd74c92cfa7ea5a2326d
+      internalID: -1457459049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_311
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 124
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89dea850db6e4b47bdfca587b3daf25
+      internalID: -1385271336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_312
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 184
+        width: 86
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16679c90ede76c84094a2c433ae0dd4d
+      internalID: -1822503048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_313
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 45
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bcc7efdbf2740469af47cbb99f92a1
+      internalID: 307185367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_314
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 91
+        width: 125
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4808d3cff1d2cdc42a63ce698361cb68
+      internalID: -254079855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_315
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 91
+        width: 110
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc9c1df1ab2e042a067eee8784be0f
+      internalID: 1682879583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_316
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 91
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406f061d563f1e343a9b0bae01d9fa84
+      internalID: 1806450742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_317
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 91
+        width: 116
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1ef2850df25c941bf48b4ebf209d6d
+      internalID: 1074166442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_318
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 56
+        width: 130
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e375e841e533c42bcb7e998e1753dc
+      internalID: -2118605494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_319
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 56
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29930868f31895644b0050eb3063760f
+      internalID: -294105182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_320
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3470
+        width: 163
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5053316, y: 0.11147461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393f758cadee5a4384318f1b04d648e
+      internalID: 1876007515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_321
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3470
+        width: 163
+        height: 85
+      alignment: 9
+      pivot: {x: 0.510663, y: 0.08080193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc4645508aa7d64d8f5e314e96dc5d5
+      internalID: -930258000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_322
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3469
+        width: 163
+        height: 85
+      alignment: 9
+      pivot: {x: 0.50533175, y: 0.07057962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b48122fb6650084e8984d285542d81f
+      internalID: 192373372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_323
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3376
+        width: 162
+        height: 85
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.12019474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4953441bac919eb4396aae1f5d727b32
+      internalID: 490713716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_324
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 3375
+        width: 165
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5103201, y: 0.15541004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b62ef29412fe641aad6ee4443354cf
+      internalID: 920494920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_325
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3377
+        width: 165
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5034394, y: 0.114868164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74abd233cc6f3fc459965e32c9ac5d45
+      internalID: 427911546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_55
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3008
+        width: 22
+        height: 23
+      alignment: 9
+      pivot: {x: 0.66081655, y: 0.4658097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6df5e1bf61df24fbe6a7c6ceb8e17f
+      internalID: -1172135563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_80
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2349
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b01cdaec1d9b346be3c9ada7251d36
+      internalID: -58303723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_326
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2348
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7b240b435533b44ae26b6bacbab1c6
+      internalID: -742413141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_327
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2347
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5277935, y: 0.55051494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab92f5b0ed03d4fad1cdbed47a309d
+      internalID: 507612607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_328
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2348
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5277935, y: 0.55051494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b277702d924a4aade254e5f277b12
+      internalID: -279294981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_329
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2347
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5277935, y: 0.55051494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df11809672c92b040ae37ed1dcac9837
+      internalID: 1438997443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_330
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2284
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1646a9a9106a604aa7f4973bb5f578c
+      internalID: -1360672476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_331
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2281
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a163b715da3ce4fb182849c5bcbb29
+      internalID: 935962516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_332
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2226
+        width: 22
+        height: 22
+      alignment: 9
+      pivot: {x: 0.46647194, y: 0.46647504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d30c449d58c42468408f436ec4c570
+      internalID: -1289922340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_333
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2219
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f5d3573a070c34c8d1b4baab1b300e
+      internalID: -762306644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_334
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2222
+        width: 20
+        height: 39
+      alignment: 9
+      pivot: {x: 0.45389843, y: 0.37706164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb1cff09ffb093448d5b78fcd687453
+      internalID: -410755129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_0: 383000470
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_1: -526542649
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_10: -927306628
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_100: 841595943
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_101: 690320430
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_102: 1062260627
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_103: -1009231165
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_104: 1816109568
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_105: 502727803
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_106: 1036346671
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_107: 1925237858
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_108: -982049159
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_109: 1814152764
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_11: -1189314651
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_110: 1948629910
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_111: 1950960602
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_112: -1552118661
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_113: 702101735
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_114: 1139034802
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_115: -1379507910
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_116: 628134728
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_117: 1606652010
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_118: 861420820
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_119: -949897395
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_12: 1774996179
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_120: 1498988967
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_121: 1011395499
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_122: 187067290
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_123: 2122456227
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_124: -1133118990
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_125: -745960863
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_126: -1002095223
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_127: 1778212345
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_128: 1963935857
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_129: 904591208
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_13: 1111005634
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_130: -1860793515
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_131: 1421371573
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_132: -2075056689
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_133: -1616724371
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_134: 703280963
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_135: -1309976947
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_136: 433294436
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_137: -848919826
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_138: -1994998104
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_139: -1917338090
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_14: 90208054
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_140: 730831193
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_141: 1146120408
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_142: 691009394
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_143: -380820787
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_144: 1244853535
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_145: 548257064
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_146: -970957817
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_147: 1776069702
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_148: 1572906716
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_149: -1952962830
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_15: 1256383518
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_150: -168585948
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_151: 1463991758
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_152: -1145999318
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_153: 1847951410
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_154: -1770133339
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_155: -1181189835
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_156: -1773023063
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_157: -1257327157
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_158: 757727277
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_159: -1558097160
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_16: 2013203090
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_160: 1538689202
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_161: -1033853142
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_162: 972638697
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_163: -359119167
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_164: -371190985
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_165: 1986987022
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_166: -1143373575
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_167: 127703703
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_168: -1065614390
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_169: 2073667876
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_17: -1824976502
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_170: 1907623713
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_171: 1898055854
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_172: -1243701445
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_173: 651234051
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_174: 341788865
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_175: 647657696
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_176: -1733087652
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_177: -203351187
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_178: 1427391591
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_179: 1695679749
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_18: -344475144
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_180: 639011129
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_181: 1459469809
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_182: 1837363960
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_183: -1765529965
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_184: -1487186052
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_185: -1047615146
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_186: -130304877
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_187: -605655832
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_188: 878063976
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_189: 640348395
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_19: 1300165581
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_190: 834163139
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_191: -1384895545
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_192: -1434680136
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_193: 1530891337
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_194: 760538129
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_195: 1291804033
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_196: -1940913443
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_197: -1592345100
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_198: 1475782752
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_199: 76754548
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_2: 2039113195
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_20: 1375626540
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_200: 641056878
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_201: -346525292
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_202: 175633070
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_203: -2000011813
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_204: -1884230012
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_205: 2105088535
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_206: -1396981370
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_207: -1855139040
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_208: 1088231103
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_209: -1594634991
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_21: -401671615
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_210: 110554511
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_211: 1007105674
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_212: 368313871
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_213: -2042006714
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_214: -1814009233
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_215: 1290682884
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_216: 702551870
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_217: 1313077070
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_218: -210027383
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_219: -939616789
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_22: -478321053
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_220: -1393189379
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_221: 1738329241
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_222: -171662870
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_223: 1207517870
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_224: -517498487
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_225: 1033091601
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_226: -361034905
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_227: 191099266
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_228: -1879625537
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_229: 1091013423
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_23: 146312817
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_230: -1692762677
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_231: -443727089
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_232: -2115504227
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_233: 2123284863
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_234: -162431330
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_235: -716841063
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_236: 1208465277
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_237: 1467771495
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_238: -644814050
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_239: 2012625866
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_24: -493954081
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_240: 1539332731
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_241: 1965965041
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_242: -189253911
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_243: -549574086
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_244: -1345316393
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_245: -1682960638
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_246: 2130025972
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_247: -1283851911
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_248: -1133384215
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_249: 1557456591
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_25: 720791297
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_250: -1577955902
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_251: -142000611
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_252: 597119653
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_253: -1408684783
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_254: 2049789144
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_255: -1542896944
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_256: 727791923
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_257: 471687818
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_258: -329583754
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_259: -1033136180
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_26: 308276790
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_260: 809808191
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_261: -662615038
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_262: 1904547818
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_263: -307720395
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_264: -1286485049
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_265: -813894313
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_266: -1425901412
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_267: -925700151
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_268: -915526729
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_269: 1800788633
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_27: 467082466
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_270: 307893226
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_271: 946806975
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_272: -557440415
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_273: 1094980388
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_274: -1697548598
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_275: 2096515605
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_276: -1601688905
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_277: -507187755
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_278: 1614080124
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_279: 1689973842
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_28: -1865346211
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_280: 640131716
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_281: -1007904907
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_282: 1426376179
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_283: 658710543
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_284: 1198583064
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_285: 1484454687
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_286: 1815303837
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_287: 1067380420
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_288: -944779474
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_289: 1899656843
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_29: 1045162699
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_290: 645440294
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_291: -1481504719
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_292: -1965428044
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_293: 248759600
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_294: 1380420326
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_295: -183432670
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_296: 491497529
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_297: -664915019
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_298: -553637033
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_299: 519837700
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_3: 1991132324
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_30: 2027323947
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_300: -1634198344
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_301: 530750887
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_302: 416196331
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_303: -1729804192
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_304: 1498883314
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_305: 1202403978
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_306: 482665932
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_307: 1488173461
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_308: 830995133
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_309: 2110060895
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_31: -1597583126
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_310: -1457459049
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_311: -1385271336
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_312: -1822503048
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_313: 307185367
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_314: -254079855
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_315: 1682879583
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_316: 1806450742
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_317: 1074166442
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_318: -2118605494
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_319: -294105182
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_32: 569859767
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_320: 1876007515
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_321: -930258000
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_322: 192373372
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_323: 490713716
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_324: 920494920
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_325: 427911546
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_326: -742413141
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_327: 507612607
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_328: -279294981
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_329: 1438997443
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_33: -1399363306
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_330: -1360672476
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_331: 935962516
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_332: -1289922340
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_333: -762306644
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_334: -410755129
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_335: -1288798227
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_34: -1141588603
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_35: -1392091135
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_36: -556000087
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_37: 1052089070
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_38: -36389971
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_39: -1005734065
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_4: -934466605
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_40: 1586461802
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_41: 1014148457
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_42: 641412587
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_43: -1725286607
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_44: 1449170689
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_45: 1360965323
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_46: -10984849
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_47: -66011718
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_48: -480006667
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_49: 38842897
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_5: -167153865
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_50: 1065082047
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_51: -1746364428
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_52: -383182145
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_53: -249054449
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_54: 1256549800
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_55: -1172135563
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_56: -440798640
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_57: -13434747
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_58: -1210904229
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_59: 235985342
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_6: -913873241
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_60: 722791689
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_61: 237820654
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_62: -1120506331
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_63: -1742499748
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_64: -1164086918
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_65: -321249852
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_66: 1964256728
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_67: 1837918853
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_68: -859344364
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_69: 1726253229
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_7: -2097639286
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_70: 1958932159
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_71: -2081302875
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_72: 1656224623
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_73: 695380753
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_74: 1531460001
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_75: -721523301
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_76: -432471031
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_77: -1948392704
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_78: 1640069026
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_79: -973517560
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_8: 876501189
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_80: -58303723
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_81: -492241683
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_82: 252087649
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_83: 2053075768
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_84: 24436138
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_85: -1767292458
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_86: -11691415
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_87: 773118328
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_88: -230450013
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_89: 512782083
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_9: 1693631226
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_90: 1509837277
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_91: 437268907
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_92: -1966842195
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_93: 1536904873
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_94: 708309881
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_95: -287482275
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_96: 2036127569
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_97: -1679050192
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_98: 1049147358
+      Neo Geo NGCD - Metal Slug 3 - Giant Caterpillar_99: -1882051548
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

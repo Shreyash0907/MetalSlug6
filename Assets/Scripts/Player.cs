@@ -45,7 +45,7 @@ public class player : MonoBehaviour
     
     private bool isGrounded = true;
     private float minX = -7.806f;
-    private float maxX = 24.781f;
+    private float maxX = 29.781f;
     private bool isLookingUp = false;
     private bool isCrouched = false;
     private bool isLookingLeft = false;
