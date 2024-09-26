@@ -1,0 +1,6243 @@
+fileFormatVersion: 2
+guid: 4fb1d73e8693f5a4a9a25d9e9e853aec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3576
+        width: 88
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d55f96d8123dc49959ef661582bd35
+      internalID: -1038909595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3487
+        width: 158
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c6125022889814e94006efa0252ac1
+      internalID: 1993317682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3487
+        width: 160
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59540dfb7d54540b3f6547ff46b572
+      internalID: -1931541615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3381
+        width: 722
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295bf7edb9f444146bebe5a0254b02f2
+      internalID: 7376989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3279
+        width: 158
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219195a8e372dfb49af2a9aaf91f6639
+      internalID: -1126894442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3279
+        width: 160
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed677538b86a4d14eb87770e513670c6
+      internalID: -1112836866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3193
+        width: 181
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9062e8b17e8e1e46b550379fd69a43f
+      internalID: 1075916508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3176
+        width: 275
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ec3c350191b47459a353031457463e
+      internalID: -1988224968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3223
+        width: 362
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4b1d2218722df4a8509933c6f0f429
+      internalID: -688760152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3211
+        width: 60
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018b008bdfdab8418e36fb66b6d56a7
+      internalID: -294239440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3163
+        width: 53
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9890aa74dde2c4d9605ad5a84a1645
+      internalID: 872388476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3072
+        width: 158
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9197bea17cbb627449820a6539805220
+      internalID: -1050463323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3072
+        width: 160
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d846acf60af054a8af91fad1709327
+      internalID: 337594104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3072
+        width: 158
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b11d1f7de078547ba4b7014a7e74f2
+      internalID: 2084781091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_14
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3072
+        width: 160
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fdd326594626f4182654238f84fad1
+      internalID: 196163159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_15
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 3072
+        width: 158
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bfd2294c8a5814ab86f08fe5819adb
+      internalID: -881151489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_16
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 3072
+        width: 160
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53299b560231be544aa1dd24983ee972
+      internalID: -90054996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_17
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3072
+        width: 158
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff37c6d9e9a6f24aafc0c7447210f07
+      internalID: 1682994974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3009
+        width: 181
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac1cfa7a93509a439c9367b83c58065
+      internalID: 1539269638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3009
+        width: 179
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8217339f5a6f4c449c6d3b6e6cec548
+      internalID: 31060364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2843
+        width: 1086
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f243b43760ed4fb4589bd410c4807520
+      internalID: 727992856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2931
+        width: 1086
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242b49c7a5e233b45aafac951b3a2055
+      internalID: 1340254288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_22
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2743
+        width: 905
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34500dcf2168d8947ada625501e40b79
+      internalID: 837099342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_23
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2631
+        width: 314
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73d2b4da67212346bcf0611dde0c774
+      internalID: -2099789594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2694
+        width: 314
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd313f4bb2d54054a8beb3ba04cadff7
+      internalID: 1939560874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_25
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2694
+        width: 157
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8bdf53b1f013545a088ff93c1a4669
+      internalID: 477290775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_26
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2694
+        width: 157
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9bce8d2438ce64196273b9b793d1a7
+      internalID: -1502726345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_27
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2694
+        width: 157
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8d3532d3530c3488119afbdc504dff
+      internalID: -1510563009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2631
+        width: 314
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0104b81a3c2e5340b567b10b130a4d1
+      internalID: -773968502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2631
+        width: 157
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612b9d31ff075843b9169542bfe8e35
+      internalID: 1953897589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_30
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2631
+        width: 157
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc5aa0f1cc314f42b1243f7e3a739d1
+      internalID: 1412770667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2631
+        width: 157
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdb4cf83fa3da84c82151cbe246ed20
+      internalID: 585848975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2560
+        width: 314
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00b6d6be106a0b43bb42b323c9c9c14
+      internalID: 879714192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2560
+        width: 157
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfb9577199c09b4e94e4cc7c2ce5cf2
+      internalID: -784381116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2513
+        width: 123
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed70b288e43cd8b4187f4ded87563dff
+      internalID: 775511341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2525
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8073be2cb7c9213479f8d628c67121d7
+      internalID: -1357253364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2525
+        width: 185
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a508776e543a2e49984971b0333b51c
+      internalID: 767073579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2525
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7acfa24ea83025448adadb19a4ed508
+      internalID: 99643215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2393
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb8bccf108f90d43bd4b86ddb763957
+      internalID: -1377469137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_39
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2414
+        width: 401
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26dd07fa27da18429545be4f33836e0
+      internalID: 771600392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2355
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a887e6d67e2444baaf7f0305db9697
+      internalID: -1181962571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2355
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b3a33e5c653434991239cc60dc6686
+      internalID: 116599468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_42
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2356
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26466719028db94b8bdc87665d03bef
+      internalID: 666082935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2355
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d5422eb225f03498f86adc6850d67b
+      internalID: -1758932629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2355
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcff745cd496294b867b4da3e8cd3e7
+      internalID: -1682489708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 2353
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0627849104482354a91f4a4fa4b9a4b0
+      internalID: 645841976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_46
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2341
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f08c4a0cf9d14592b156b052302f2
+      internalID: -575936019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_47
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2321
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d12821d9958644b1fd8a4ee63e4e5
+      internalID: -1251544881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2290
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f82e1d0362094942aea319c21d79e93
+      internalID: -1068894869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2304
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9654f0e7e09c4ee4b9672e3243ba19b1
+      internalID: -80384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_50
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2305
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db6bbd5f19c7fb408a19b660a6e5bc3
+      internalID: -1507252642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_51
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2304
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce77bd9ed1dba640945d60210d2c558
+      internalID: -2060309493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_52
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2302
+        width: 77
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9879d374be70e4589b57989ab7cc3d
+      internalID: 1686043820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_53
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2249
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74636c3a8be647642a4c5e475a3f7a69
+      internalID: 828699908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_54
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2249
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade97fa10e169e94a8cc5197d3090cec
+      internalID: 947743229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2249
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a880e67a48a364aa7a0cfc8beca916
+      internalID: 33872785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2249
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381e6d03e4c97ac41a4df830003dd99e
+      internalID: 800538340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2249
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e66a215746646e4bb76b4c804079436
+      internalID: -1616499375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2249
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081b797cf3af4384f8d5dfcb64a10e59
+      internalID: 271591882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2235
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac502caba43e8147aaddbe8d902ffb3
+      internalID: 1577367385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_60
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2175
+        width: 225
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429b99f7fb500d740a88242cf713dc60
+      internalID: 748602876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_61
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2175
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b79ec29f8d8124ca9d171d40af381f
+      internalID: -1048867420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_62
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2174
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a75d39a315390e42a4a9d713d49eda0
+      internalID: -1253083215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_63
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2174
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ea48a161bb5594989fc96d0827cf8a
+      internalID: -1728027887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_64
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2174
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c30036fec753d3489e7336198b4470a
+      internalID: -1302872009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_65
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2177
+        width: 67
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec93237bc82f0f548a52eff66fedef3d
+      internalID: -1188445532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_66
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2177
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7ddc62c91ced144a52ce3af5fb4e85
+      internalID: -1865873045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_67
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2177
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91dbc1f903181489ea444fc656ee69
+      internalID: -1383791900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_68
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 2177
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d41e11aa9e85e64d85e3980ef030fb1
+      internalID: -1317074469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_69
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2182
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad0fa9741757f946b8ced587575e4e0
+      internalID: 351685417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_70
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2182
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeb0724764a8ca4a964c5613f963926
+      internalID: -1465186065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_71
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 2189
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaddae668f177644a57e2969ef8c121
+      internalID: 1543432002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_72
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2191
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cb108805ba9584a88fdb02df15216a
+      internalID: -1099928728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_73
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2191
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04050af0425ee5441a70a91dcf093849
+      internalID: -739922355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2105
+        width: 82
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e3b09470d1cc64ab3091eafc76de62
+      internalID: -1257432061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_75
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2158
+        width: 54
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c643e9e4d09ee8e4c93ddcf2d3a2a653
+      internalID: 1168753040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_76
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2105
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c077dd940aa5055418632465baab173f
+      internalID: -1711871486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_77
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2101
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874582742861ce847b670b991ebe5367
+      internalID: -1423067328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_78
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2101
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5c8bf469277a24995a822f5f26a254
+      internalID: -1861318761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2070
+        width: 112
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2777097bd71c8244b5ce8ae2247bbd4
+      internalID: 12667105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2068
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb83a011f12ec3b418b3163c4d1a7806
+      internalID: 1590213056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_81
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2068
+        width: 60
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8db18b1eea5da4c9143fd2fd40a113
+      internalID: -1454130394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_82
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2043
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c275ce430981b934e846f7129ad207ad
+      internalID: -1485215965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_83
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2042
+        width: 63
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9902463d104a65947bb68a6f8a07db09
+      internalID: -1453436977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2036
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e121260e61fad2340bff8d3eed719f9a
+      internalID: 1771387838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_85
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2036
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428341b7e939364ab74089b7a630916
+      internalID: 203588397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_86
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2012
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bf2d5d7d8b1b645aa1c42178cc1890
+      internalID: 1849623082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_87
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2008
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d46807ede3f5b49b692fcaa127d9f7
+      internalID: -1980257244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_88
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1996
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab10d36328ed31c42b277eeb6b5960ed
+      internalID: 611138348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_89
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1996
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c2b1ba7fe8c384ca3af4183b226eb0
+      internalID: -1502891318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1973
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a36d93f70b27c409be27ae0604f76d
+      internalID: -164044081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1968
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6501d517d30be49459329b06fc55adb1
+      internalID: 741422373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1952
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4714dd0b1e0d114194580675cdb78d7
+      internalID: 1657989191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_93
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1952
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced9d9c326a2ce0448ee5188a162aab1
+      internalID: -1160652160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1931
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83362f36e349a1640a4863662408e826
+      internalID: -413888780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_95
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1922
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc3448e5819c2d4db3f4dc2462eab95
+      internalID: 1598845675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1903
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773f296c36d0cf64a9978f2e8ae84fdc
+      internalID: -849602174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_97
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1903
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a828a183de634418602bafa64a0697
+      internalID: 476361137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_98
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1884
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add7c773ab399d945a95a109fc5fda43
+      internalID: 689697542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_99
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1873
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31e632b75e03e4dab6fa5ba88474bb
+      internalID: -770564649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_100
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1850
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc6bff8f4a9df84c91dc26441c9cf32
+      internalID: 895245557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_101
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1850
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4cb8372139cad49a97fc732998e66d
+      internalID: 1523517370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1833
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09595d340aa35e94e9bf133d2c766498
+      internalID: 655626516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_103
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1820
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b002f851f993f014e8da8c5ae782ad54
+      internalID: -345140680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1741
+        width: 53
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99a7de752e4a74389e4d904b232b23
+      internalID: 1308814298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_105
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1623
+        width: 100
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6735b8870f87e1a4bb1f89017a235ae5
+      internalID: -86389362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_106
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1550
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ad761c5c5b6546872582f87f4a6ea
+      internalID: 669621343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_107
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1550
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4907277fa946e4ba3e3c16604a5c41
+      internalID: -1731176209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_108
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1550
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436013028190b87418b9af7b360c79eb
+      internalID: 2054661450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1527
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73fd0436f5c6be4ebb248adadf32792
+      internalID: 508446293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1475
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565c20df8f582940a06c4b9e289a20a
+      internalID: -116462529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_111
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1469
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95851161ded08884c93de52622912eea
+      internalID: -502383002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_112
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1467
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cca23d0682b0f3468b860f85bc3f8d4
+      internalID: 976146758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_113
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1465
+        width: 39
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efea2a6b973ab6041988ef49e57eea02
+      internalID: -737467836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1465
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba1a977e6762c247950f1194b673c82
+      internalID: 26819173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_115
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1460
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c7558f1c8642649b5c3ad55310d1dd
+      internalID: 1712667988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_116
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1460
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d548096c5ece09c4dafe5084da641f49
+      internalID: -695462752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_117
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1461
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e3c6d3304ef564a844669a2174c373
+      internalID: -1442562795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_118
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1462
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4873e7811cdf5b441b75cb1d23f5d0f6
+      internalID: 576435954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_119
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1460
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bbabb1ecc373144abb0ad4043d3b6d
+      internalID: -1336711270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_120
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1470
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eab19d6f7890944ac8f2bb5df7d2e3
+      internalID: 270051704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_121
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1472
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae36054f20bc364182789a2fe0ebc90
+      internalID: 1149251785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_122
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1470
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57b3aaa4f05f5140a76eab4c3a17cf8
+      internalID: 1110538787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1467
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359b1401dd94c2045921b476db17289b
+      internalID: -25577290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_124
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1465
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8bd6d391caa2f46be44e1272647231
+      internalID: -565119334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_125
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1458
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de9a452146f5347815c5a64e6de875
+      internalID: -1784275274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_126
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1463
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c49f7275f079e49a2771172d819e97
+      internalID: -1532321291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_127
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1461
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db496c6f044e0ce4d9b9b23991d9fb99
+      internalID: -1347572063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_128
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1460
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ababe41aa0a66469d90d60abeb8b97
+      internalID: -84289376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_129
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1460
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6c80a3a32a08e439af0581c81dee86
+      internalID: -980561390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_130
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1458
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336f62c2c0d3f954c947294962772bed
+      internalID: 767182785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_131
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1458
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2429d76bda6467f409c5e48aa4191ad1
+      internalID: -713085931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_132
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1460
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b11d684d02289468e87f48ce07459e
+      internalID: -1692235750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_133
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1446
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c27a5571aa6494f923ff6bb155876d
+      internalID: -513177961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_134
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1372
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e013f8f39a28bcc48ba8812e7a106081
+      internalID: 1373211272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_135
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1370
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa908b149a6ae46b71a91dcf55024e
+      internalID: -1416042894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_136
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1370
+        width: 90
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a77577f47dda7e45908d8638d3ef192
+      internalID: 829917704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_137
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1368
+        width: 97
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef028ee84fad5c4faa935dc94834e8b
+      internalID: -1635188794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_138
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1368
+        width: 202
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce911e31b0883d245be8f0c4a6e57c78
+      internalID: -1079949364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_139
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1368
+        width: 111
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b7e78ead4885240b7850c95092724f
+      internalID: -2100516318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_140
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1370
+        width: 111
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2ac12e22f452c4ab66bd1ff24940d8
+      internalID: 983650997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_141
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1363
+        width: 114
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2324cf2502672854582f25effb448399
+      internalID: 272588484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_142
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1361
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ae4c1139e637741ac89222c4a1d74c
+      internalID: -1683029491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_143
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1363
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269ea396c0673644ca9bff58787b396e
+      internalID: 442135597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1261
+        width: 169
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f093f29642a34bf4c9a7bd9468fceb0f
+      internalID: 105441533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_145
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1277
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab49b6f9d152864db148f21e7673ec2
+      internalID: 2065707801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_146
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1277
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2e8027f48d42f479d1d52b066ea37e
+      internalID: 322319183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_147
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1280
+        width: 69
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab975e8114412245bcc6949ac4e4778
+      internalID: -1172850536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_148
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1281
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4900e80166e4563478aaeeb23bbf8cad
+      internalID: 1458174186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_149
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1332
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dba941e01e204c4da9ef991d99e86d1
+      internalID: -1878800087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_150
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1335
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc71b19f6378e24ba174be372d5442f
+      internalID: -936714222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1335
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f992badb3f21601469d14fae1ae27a3e
+      internalID: -146176929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_152
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1326
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6a5dd5233edd94096fbdc2fadd6307
+      internalID: 275961565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_153
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1326
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69cd689c55810e4ea6de941699028c6
+      internalID: 1494838654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_154
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1318
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9d1f3f89138a459df36d4593b2498
+      internalID: -1680726307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_155
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1298
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3807636d9ef1643468512173d17f2ef0
+      internalID: 1338570029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1282
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ebfaeeef8731e41a5c62635a5e7532
+      internalID: -335663012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_157
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1172
+        width: 112
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73606ef4a209759478e35a724beaa075
+      internalID: 2037239638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_158
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1173
+        width: 122
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587b6977554ed824bbe0c855bf58e8a2
+      internalID: -1099947064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_159
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1165
+        width: 115
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7694fdc4cd77df14c9889e7e56b45000
+      internalID: 2072320286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_160
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1168
+        width: 114
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a684ba71f1de4144980167c30d7574c9
+      internalID: -1401834048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_161
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1170
+        width: 115
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191e13276b5274749ace639e6bdf85f7
+      internalID: -1913945032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_162
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1170
+        width: 120
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ac894a95d3a884f84f59fcd3023cf2
+      internalID: 857039363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_163
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1166
+        width: 118
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afc47e1ef0d2a848b74d252a636c507
+      internalID: 1322464553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_164
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1172
+        width: 114
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e30eaa864de294885a652880cd7fc9
+      internalID: 943621656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_165
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1174
+        width: 113
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5038ffaf24e9fd84cbc9bd2f252abee6
+      internalID: 544590093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_166
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1078
+        width: 121
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb7ab1c3a5cb134e859bf89b82a8d35
+      internalID: -1151115633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_167
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1071
+        width: 234
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d24408e55cbbc4d8a8883ba0396aec
+      internalID: -2005316485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_168
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1077
+        width: 232
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98358fb61b975247955717a8d18d87e
+      internalID: 1141312518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_169
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1071
+        width: 116
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bdeeecd3343e14d9c9fc3e67753216
+      internalID: 1772267451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_170
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1075
+        width: 113
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38da18e55d8c4db4081c257dcc1cb2b2
+      internalID: -676007282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_171
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 998
+        width: 153
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4770f593c72784bb11f940a5ca7e85
+      internalID: 1941328453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_172
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 998
+        width: 68
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b432cbe998d69e42a10a021a72fa71c
+      internalID: 428382341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_173
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 998
+        width: 67
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fee6c2a7c594b46a7a5a125f9a0aa3
+      internalID: 1028871612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_174
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 998
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38745480c2610f943a1a683c3756642a
+      internalID: 472846287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_175
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 998
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb9bc5f9362a9d4697241e6d36058d1
+      internalID: 1665175313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_176
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 998
+        width: 78
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ed85d0023c384ea6ac8e085349ae5
+      internalID: 1005587958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_177
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 906
+        width: 133
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c02d2a9dc8f35b4c9b2a6b6421ca78e
+      internalID: 1918288411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_178
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 947
+        width: 171
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599358038155fbb42989137fec7c9255
+      internalID: 110667381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_179
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 947
+        width: 95
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2f518e7ef2a2d4293552913de448a5
+      internalID: -1079915721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_180
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 945
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2379606c3d83d094dac8a101798c63f7
+      internalID: 815094303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_181
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 945
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2906842037c75db4fa4f0e4a447247aa
+      internalID: -646358234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_182
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 947
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8471241baf8b040925da49787bd354
+      internalID: -370818629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_183
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 947
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbaebda1e5ebe04bb0202aff0d65385
+      internalID: 878312366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_184
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 954
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509719d1f92d7304ca67d462ffd726ac
+      internalID: 1356188829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_185
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 906
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ac2d128174c084e80d7de58db95d0c
+      internalID: -1265436573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_186
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 904
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0758adcd240c38847ab0a0c0a5049f89
+      internalID: -917750317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_187
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 903
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26311880ec8058c498b7a351cd0b1582
+      internalID: 1758844437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_188
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 903
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21327ac66d50cc24ebff996b2161922a
+      internalID: 1668176152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_189
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 903
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc1a60f9e6f3e14c82761d21be8bba1
+      internalID: -665167010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_190
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 878
+        width: 82
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a2d5dd870c11a479857ddaf86c0166
+      internalID: -37169805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_191
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 878
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9d332600962084c8ee740c8d2d309a
+      internalID: -243708335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_192
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 878
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b84ddebe107b2498edaf546f3a58be
+      internalID: -986353778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_193
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 878
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568292a71a8a75d4ebd1a2556324f91e
+      internalID: -161844848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_194
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 852
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bfe03edacdb6a4db60fbdd536677bc
+      internalID: -439368769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_195
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 839
+        width: 123
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89122e5529d24984c9be53dec8385de4
+      internalID: 117368874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_196
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 852
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4566e3513ebc9244c8f8c7642bb408f7
+      internalID: 1939727673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_197
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 852
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f888e25eb5b14374aa98c89bf4ad1584
+      internalID: -1171084891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_198
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 852
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dbf8a0d9bc9b0468ffec1bbccd27cd
+      internalID: 93020397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_199
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 853
+        width: 128
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3ba907e80c91f45b78854aaad3abf9
+      internalID: 464888117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_200
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 748
+        width: 158
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9942a6643f9152640a4928982faec3f0
+      internalID: -1184814604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_201
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 744
+        width: 341
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e5a39c699ef44ebfa4531b5a1ecab
+      internalID: -1472469688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_202
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 744
+        width: 135
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fecd6f50959bf24497ac9c1b516f542
+      internalID: 1419141483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_203
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 771
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158a4cd3eca05af4abb81f2c22a9d624
+      internalID: 294921739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_204
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 732
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248c72c8907041340a29e1afdbebae44
+      internalID: -719036394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_205
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 702
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e5fc71dc196ef49b1159d7664e3bb2
+      internalID: 1699171318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_206
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 702
+        width: 71
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590497d67dc0bce42aa3f0757c433e26
+      internalID: -287754629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_207
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 702
+        width: 49
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e92b5c204d48948836da27a983a37d
+      internalID: 1604079809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_208
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 702
+        width: 287
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1343a50a28fcab42914d858bfe01445
+      internalID: 1550540951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_209
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 701
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb2d16e7b192b408ad97050a5ab271
+      internalID: 376898128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_210
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 664
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992dbc6408dd4154ab126e5c29963721
+      internalID: 2005363949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_211
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 664
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933c57d240d5014484ff12e710fbac2
+      internalID: 1056951507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_212
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 664
+        width: 128
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995d2e79fcd8d8844b4cdb38a83642a1
+      internalID: -1601549132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_213
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 664
+        width: 69
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d28e973103fcc489800158bd3e70bc
+      internalID: 487087698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_214
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 664
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c42b885dcee140a405f7b52efee45
+      internalID: 1990813946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_215
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 664
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedb22bdc9f9a4d41909e7e9fad6528f
+      internalID: 730482709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_216
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 664
+        width: 72
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c46e252e47c2b9428f784fb1cbc7181
+      internalID: -1709414159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_217
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 664
+        width: 73
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb2633110cb47347800525506d2536a
+      internalID: -1909990858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_218
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 664
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab6de3379accaf47a9622a81a852822
+      internalID: 47974621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_219
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 641
+        width: 68
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0506c3ac5085db24c91ffa737eed6cd0
+      internalID: -2088883250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_220
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 593
+        width: 68
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be4c2842fd9724e95a9840e3289177
+      internalID: 358036674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_221
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 558
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff8254acbf6124da069357cbbbd497
+      internalID: -1883821737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_222
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 558
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc71069c6aabd0479769e189d803db7
+      internalID: -1304730416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_223
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 558
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a536a01b2bb11ad4ba49f4d5e1402c87
+      internalID: -2103566575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_224
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 558
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051113fdce101d347b933fb1c89d2459
+      internalID: -554368973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_225
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 544
+        width: 75
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faba9b2496a8c464a970fca9fdd0f63d
+      internalID: -272448281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_226
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 458
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc899d54205b60646952e5c3346ca806
+      internalID: -203935386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_227
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 470
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7c8a6bcbabf7442a6f3caaa950df7d
+      internalID: 1978069364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_228
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 498
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b6ddee1b71a5947906bf1cafb031ec
+      internalID: 1780857011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_229
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 498
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e53541d1c1f5af4f9703179caf86d8e
+      internalID: -645305487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_230
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 498
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fae569f7a6fc21468aaf4501e5196d9
+      internalID: -30841459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_231
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 498
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d9cf79fdca4b44a6bbb593d8d12d3
+      internalID: -114049696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_232
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 498
+        width: 65
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90df4d28a37707b4b81f8b620b964edc
+      internalID: 1759222872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_233
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 498
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c366ea407635d044a3ad0ac63b27b3b
+      internalID: -2036116500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_234
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 498
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e0e1b5c5a5bbc4497d60308da822d1
+      internalID: -62712949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_235
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 498
+        width: 132
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b876020117c278d4f919e3c5d6d7bb64
+      internalID: 1530600648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_236
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 498
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25d93fb12978b2499c6d9bb532028b4
+      internalID: 565881256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_237
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 498
+        width: 133
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7da2dc7d08aeb47bd8750e8dee50e6
+      internalID: 1142633788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_238
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 498
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b829c3360ba0145b32a90539ed8958
+      internalID: 1168043876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_239
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 498
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6037181cba9fb4691c7d6fcc525f3a
+      internalID: -1701585742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_240
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 432
+        width: 56
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab7017a8cf0b9548902b623b315e99b
+      internalID: -381073168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_241
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 432
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19184f756f38bf64aa8cf8d3c6c7ed16
+      internalID: 1144302509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_242
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 432
+        width: 57
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edfb9658ef1bd74cbf3a1f3166a0943
+      internalID: 903482381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_243
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 428
+        width: 56
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebca29990542c84989c9821148652a2
+      internalID: -1427333044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_244
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 398
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc046fbd40cd4ec4abc6cf18e210832e
+      internalID: -1704526279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_245
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 398
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8095560624134824ca1c7e090261b8ec
+      internalID: 302148118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_246
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 398
+        width: 89
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda77d4dccfc3e34fb525a12ad7deeb0
+      internalID: 796987570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_247
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 367
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d884a59579edc4b8f5baf49d209ea1
+      internalID: 2145096865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_248
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 367
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0889d0506708794794cba0414d1de48
+      internalID: -1644772741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_249
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 367
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c48becd41d971341b646943fb9aae0f
+      internalID: 353284469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_250
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 367
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542195057ce87854cabde8d822e264ae
+      internalID: 128769560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_251
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 291
+        width: 146
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a003b1a95929346b64ba1f7a4c44e0
+      internalID: -1388865485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_252
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 242
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632a97d4f84a5a94ea11055d658b9644
+      internalID: 1592755681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_253
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 222
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cb14fc0be0b69499e525b2bf726da3
+      internalID: -2071393820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_254
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9042dbe4e36684388682b0455e93fb
+      internalID: 363116833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_255
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 222
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5097adae3c8a03479825eddce293b43
+      internalID: -1559008957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_256
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 222
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6c4cd49f4a77342af92530b9f54c84
+      internalID: 751538249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_257
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 222
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e752c1ce4ba14894492ffcd8b2f15124
+      internalID: -1784366579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_258
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0cfe729757caa4b88ca2c59524b308
+      internalID: -1755591146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_259
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 222
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d92ec0be1d0eff429ffa1eb41c5e4cc
+      internalID: 1576658249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_260
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 222
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b30a128a188a4aad15bf532ca417e
+      internalID: 1753017383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_261
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 222
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6929a120c1564dc41a9151c7c9343881
+      internalID: -1443772445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_262
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e502e10e971627246af404cc065a0852
+      internalID: -1263741071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_263
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 222
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9988f6f95ad814496878eab42caeb1
+      internalID: -1051316655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_264
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 205
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de125e783b54b7e47ad26cce32bc0367
+      internalID: 1818857970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_265
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 205
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1469998b324e0439aaa1c2cedea543
+      internalID: -1882186251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_266
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 205
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fa6c33f7bd6464e9a422ccdbff3edd
+      internalID: 1204939509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_267
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76abc12dd5d6e884e9fe08f888acf91b
+      internalID: -1379641352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_268
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba243a262d1f0b498782051c565cc02
+      internalID: -1478211784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_269
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 205
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376215265b21c144c9557be3a305d28f
+      internalID: -584536684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_270
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 205
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e60ec8beb52d604f9714a140944d984
+      internalID: 1486796797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_271
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 205
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241d2f107daa5304a8373bb8bedead56
+      internalID: 77418412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_272
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 187
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c80da9aa70cb6408c81e354048c65b
+      internalID: -1675894703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_273
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 173
+        width: 75
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e516322af9cb7743972fb4023eb17dc
+      internalID: -942875559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_274
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 362
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04337e0530ecea41abed0a5917ee41a
+      internalID: -1673581906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_275
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 8
+        width: 181
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b10ef3a9acfbc4986086c9204ec3e3
+      internalID: 152917028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_276
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 8
+        width: 181
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ecbaba033111849ad312e3a3625f34
+      internalID: 380983698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Neo Geo NGCD - Metal Slug - Iron Nokana_277
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 8
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece86f4f227dc54caeaa15d3f6ed24d
+      internalID: -1826896828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Neo Geo NGCD - Metal Slug - Iron Nokana_0: -1038909595
+      Neo Geo NGCD - Metal Slug - Iron Nokana_1: 1993317682
+      Neo Geo NGCD - Metal Slug - Iron Nokana_10: 872388476
+      Neo Geo NGCD - Metal Slug - Iron Nokana_100: 895245557
+      Neo Geo NGCD - Metal Slug - Iron Nokana_101: 1523517370
+      Neo Geo NGCD - Metal Slug - Iron Nokana_102: 655626516
+      Neo Geo NGCD - Metal Slug - Iron Nokana_103: -345140680
+      Neo Geo NGCD - Metal Slug - Iron Nokana_104: 1308814298
+      Neo Geo NGCD - Metal Slug - Iron Nokana_105: -86389362
+      Neo Geo NGCD - Metal Slug - Iron Nokana_106: 669621343
+      Neo Geo NGCD - Metal Slug - Iron Nokana_107: -1731176209
+      Neo Geo NGCD - Metal Slug - Iron Nokana_108: 2054661450
+      Neo Geo NGCD - Metal Slug - Iron Nokana_109: 508446293
+      Neo Geo NGCD - Metal Slug - Iron Nokana_11: -1050463323
+      Neo Geo NGCD - Metal Slug - Iron Nokana_110: -116462529
+      Neo Geo NGCD - Metal Slug - Iron Nokana_111: -502383002
+      Neo Geo NGCD - Metal Slug - Iron Nokana_112: 976146758
+      Neo Geo NGCD - Metal Slug - Iron Nokana_113: -737467836
+      Neo Geo NGCD - Metal Slug - Iron Nokana_114: 26819173
+      Neo Geo NGCD - Metal Slug - Iron Nokana_115: 1712667988
+      Neo Geo NGCD - Metal Slug - Iron Nokana_116: -695462752
+      Neo Geo NGCD - Metal Slug - Iron Nokana_117: -1442562795
+      Neo Geo NGCD - Metal Slug - Iron Nokana_118: 576435954
+      Neo Geo NGCD - Metal Slug - Iron Nokana_119: -1336711270
+      Neo Geo NGCD - Metal Slug - Iron Nokana_12: 337594104
+      Neo Geo NGCD - Metal Slug - Iron Nokana_120: 270051704
+      Neo Geo NGCD - Metal Slug - Iron Nokana_121: 1149251785
+      Neo Geo NGCD - Metal Slug - Iron Nokana_122: 1110538787
+      Neo Geo NGCD - Metal Slug - Iron Nokana_123: -25577290
+      Neo Geo NGCD - Metal Slug - Iron Nokana_124: -565119334
+      Neo Geo NGCD - Metal Slug - Iron Nokana_125: -1784275274
+      Neo Geo NGCD - Metal Slug - Iron Nokana_126: -1532321291
+      Neo Geo NGCD - Metal Slug - Iron Nokana_127: -1347572063
+      Neo Geo NGCD - Metal Slug - Iron Nokana_128: -84289376
+      Neo Geo NGCD - Metal Slug - Iron Nokana_129: -980561390
+      Neo Geo NGCD - Metal Slug - Iron Nokana_13: 2084781091
+      Neo Geo NGCD - Metal Slug - Iron Nokana_130: 767182785
+      Neo Geo NGCD - Metal Slug - Iron Nokana_131: -713085931
+      Neo Geo NGCD - Metal Slug - Iron Nokana_132: -1692235750
+      Neo Geo NGCD - Metal Slug - Iron Nokana_133: -513177961
+      Neo Geo NGCD - Metal Slug - Iron Nokana_134: 1373211272
+      Neo Geo NGCD - Metal Slug - Iron Nokana_135: -1416042894
+      Neo Geo NGCD - Metal Slug - Iron Nokana_136: 829917704
+      Neo Geo NGCD - Metal Slug - Iron Nokana_137: -1635188794
+      Neo Geo NGCD - Metal Slug - Iron Nokana_138: -1079949364
+      Neo Geo NGCD - Metal Slug - Iron Nokana_139: -2100516318
+      Neo Geo NGCD - Metal Slug - Iron Nokana_14: 196163159
+      Neo Geo NGCD - Metal Slug - Iron Nokana_140: 983650997
+      Neo Geo NGCD - Metal Slug - Iron Nokana_141: 272588484
+      Neo Geo NGCD - Metal Slug - Iron Nokana_142: -1683029491
+      Neo Geo NGCD - Metal Slug - Iron Nokana_143: 442135597
+      Neo Geo NGCD - Metal Slug - Iron Nokana_144: 105441533
+      Neo Geo NGCD - Metal Slug - Iron Nokana_145: 2065707801
+      Neo Geo NGCD - Metal Slug - Iron Nokana_146: 322319183
+      Neo Geo NGCD - Metal Slug - Iron Nokana_147: -1172850536
+      Neo Geo NGCD - Metal Slug - Iron Nokana_148: 1458174186
+      Neo Geo NGCD - Metal Slug - Iron Nokana_149: -1878800087
+      Neo Geo NGCD - Metal Slug - Iron Nokana_15: -881151489
+      Neo Geo NGCD - Metal Slug - Iron Nokana_150: -936714222
+      Neo Geo NGCD - Metal Slug - Iron Nokana_151: -146176929
+      Neo Geo NGCD - Metal Slug - Iron Nokana_152: 275961565
+      Neo Geo NGCD - Metal Slug - Iron Nokana_153: 1494838654
+      Neo Geo NGCD - Metal Slug - Iron Nokana_154: -1680726307
+      Neo Geo NGCD - Metal Slug - Iron Nokana_155: 1338570029
+      Neo Geo NGCD - Metal Slug - Iron Nokana_156: -335663012
+      Neo Geo NGCD - Metal Slug - Iron Nokana_157: 2037239638
+      Neo Geo NGCD - Metal Slug - Iron Nokana_158: -1099947064
+      Neo Geo NGCD - Metal Slug - Iron Nokana_159: 2072320286
+      Neo Geo NGCD - Metal Slug - Iron Nokana_16: -90054996
+      Neo Geo NGCD - Metal Slug - Iron Nokana_160: -1401834048
+      Neo Geo NGCD - Metal Slug - Iron Nokana_161: -1913945032
+      Neo Geo NGCD - Metal Slug - Iron Nokana_162: 857039363
+      Neo Geo NGCD - Metal Slug - Iron Nokana_163: 1322464553
+      Neo Geo NGCD - Metal Slug - Iron Nokana_164: 943621656
+      Neo Geo NGCD - Metal Slug - Iron Nokana_165: 544590093
+      Neo Geo NGCD - Metal Slug - Iron Nokana_166: -1151115633
+      Neo Geo NGCD - Metal Slug - Iron Nokana_167: -2005316485
+      Neo Geo NGCD - Metal Slug - Iron Nokana_168: 1141312518
+      Neo Geo NGCD - Metal Slug - Iron Nokana_169: 1772267451
+      Neo Geo NGCD - Metal Slug - Iron Nokana_17: 1682994974
+      Neo Geo NGCD - Metal Slug - Iron Nokana_170: -676007282
+      Neo Geo NGCD - Metal Slug - Iron Nokana_171: 1941328453
+      Neo Geo NGCD - Metal Slug - Iron Nokana_172: 428382341
+      Neo Geo NGCD - Metal Slug - Iron Nokana_173: 1028871612
+      Neo Geo NGCD - Metal Slug - Iron Nokana_174: 472846287
+      Neo Geo NGCD - Metal Slug - Iron Nokana_175: 1665175313
+      Neo Geo NGCD - Metal Slug - Iron Nokana_176: 1005587958
+      Neo Geo NGCD - Metal Slug - Iron Nokana_177: 1918288411
+      Neo Geo NGCD - Metal Slug - Iron Nokana_178: 110667381
+      Neo Geo NGCD - Metal Slug - Iron Nokana_179: -1079915721
+      Neo Geo NGCD - Metal Slug - Iron Nokana_18: 1539269638
+      Neo Geo NGCD - Metal Slug - Iron Nokana_180: 815094303
+      Neo Geo NGCD - Metal Slug - Iron Nokana_181: -646358234
+      Neo Geo NGCD - Metal Slug - Iron Nokana_182: -370818629
+      Neo Geo NGCD - Metal Slug - Iron Nokana_183: 878312366
+      Neo Geo NGCD - Metal Slug - Iron Nokana_184: 1356188829
+      Neo Geo NGCD - Metal Slug - Iron Nokana_185: -1265436573
+      Neo Geo NGCD - Metal Slug - Iron Nokana_186: -917750317
+      Neo Geo NGCD - Metal Slug - Iron Nokana_187: 1758844437
+      Neo Geo NGCD - Metal Slug - Iron Nokana_188: 1668176152
+      Neo Geo NGCD - Metal Slug - Iron Nokana_189: -665167010
+      Neo Geo NGCD - Metal Slug - Iron Nokana_19: 31060364
+      Neo Geo NGCD - Metal Slug - Iron Nokana_190: -37169805
+      Neo Geo NGCD - Metal Slug - Iron Nokana_191: -243708335
+      Neo Geo NGCD - Metal Slug - Iron Nokana_192: -986353778
+      Neo Geo NGCD - Metal Slug - Iron Nokana_193: -161844848
+      Neo Geo NGCD - Metal Slug - Iron Nokana_194: -439368769
+      Neo Geo NGCD - Metal Slug - Iron Nokana_195: 117368874
+      Neo Geo NGCD - Metal Slug - Iron Nokana_196: 1939727673
+      Neo Geo NGCD - Metal Slug - Iron Nokana_197: -1171084891
+      Neo Geo NGCD - Metal Slug - Iron Nokana_198: 93020397
+      Neo Geo NGCD - Metal Slug - Iron Nokana_199: 464888117
+      Neo Geo NGCD - Metal Slug - Iron Nokana_2: -1931541615
+      Neo Geo NGCD - Metal Slug - Iron Nokana_20: 727992856
+      Neo Geo NGCD - Metal Slug - Iron Nokana_200: -1184814604
+      Neo Geo NGCD - Metal Slug - Iron Nokana_201: -1472469688
+      Neo Geo NGCD - Metal Slug - Iron Nokana_202: 1419141483
+      Neo Geo NGCD - Metal Slug - Iron Nokana_203: 294921739
+      Neo Geo NGCD - Metal Slug - Iron Nokana_204: -719036394
+      Neo Geo NGCD - Metal Slug - Iron Nokana_205: 1699171318
+      Neo Geo NGCD - Metal Slug - Iron Nokana_206: -287754629
+      Neo Geo NGCD - Metal Slug - Iron Nokana_207: 1604079809
+      Neo Geo NGCD - Metal Slug - Iron Nokana_208: 1550540951
+      Neo Geo NGCD - Metal Slug - Iron Nokana_209: 376898128
+      Neo Geo NGCD - Metal Slug - Iron Nokana_21: 1340254288
+      Neo Geo NGCD - Metal Slug - Iron Nokana_210: 2005363949
+      Neo Geo NGCD - Metal Slug - Iron Nokana_211: 1056951507
+      Neo Geo NGCD - Metal Slug - Iron Nokana_212: -1601549132
+      Neo Geo NGCD - Metal Slug - Iron Nokana_213: 487087698
+      Neo Geo NGCD - Metal Slug - Iron Nokana_214: 1990813946
+      Neo Geo NGCD - Metal Slug - Iron Nokana_215: 730482709
+      Neo Geo NGCD - Metal Slug - Iron Nokana_216: -1709414159
+      Neo Geo NGCD - Metal Slug - Iron Nokana_217: -1909990858
+      Neo Geo NGCD - Metal Slug - Iron Nokana_218: 47974621
+      Neo Geo NGCD - Metal Slug - Iron Nokana_219: -2088883250
+      Neo Geo NGCD - Metal Slug - Iron Nokana_22: 837099342
+      Neo Geo NGCD - Metal Slug - Iron Nokana_220: 358036674
+      Neo Geo NGCD - Metal Slug - Iron Nokana_221: -1883821737
+      Neo Geo NGCD - Metal Slug - Iron Nokana_222: -1304730416
+      Neo Geo NGCD - Metal Slug - Iron Nokana_223: -2103566575
+      Neo Geo NGCD - Metal Slug - Iron Nokana_224: -554368973
+      Neo Geo NGCD - Metal Slug - Iron Nokana_225: -272448281
+      Neo Geo NGCD - Metal Slug - Iron Nokana_226: -203935386
+      Neo Geo NGCD - Metal Slug - Iron Nokana_227: 1978069364
+      Neo Geo NGCD - Metal Slug - Iron Nokana_228: 1780857011
+      Neo Geo NGCD - Metal Slug - Iron Nokana_229: -645305487
+      Neo Geo NGCD - Metal Slug - Iron Nokana_23: -2099789594
+      Neo Geo NGCD - Metal Slug - Iron Nokana_230: -30841459
+      Neo Geo NGCD - Metal Slug - Iron Nokana_231: -114049696
+      Neo Geo NGCD - Metal Slug - Iron Nokana_232: 1759222872
+      Neo Geo NGCD - Metal Slug - Iron Nokana_233: -2036116500
+      Neo Geo NGCD - Metal Slug - Iron Nokana_234: -62712949
+      Neo Geo NGCD - Metal Slug - Iron Nokana_235: 1530600648
+      Neo Geo NGCD - Metal Slug - Iron Nokana_236: 565881256
+      Neo Geo NGCD - Metal Slug - Iron Nokana_237: 1142633788
+      Neo Geo NGCD - Metal Slug - Iron Nokana_238: 1168043876
+      Neo Geo NGCD - Metal Slug - Iron Nokana_239: -1701585742
+      Neo Geo NGCD - Metal Slug - Iron Nokana_24: 1939560874
+      Neo Geo NGCD - Metal Slug - Iron Nokana_240: -381073168
+      Neo Geo NGCD - Metal Slug - Iron Nokana_241: 1144302509
+      Neo Geo NGCD - Metal Slug - Iron Nokana_242: 903482381
+      Neo Geo NGCD - Metal Slug - Iron Nokana_243: -1427333044
+      Neo Geo NGCD - Metal Slug - Iron Nokana_244: -1704526279
+      Neo Geo NGCD - Metal Slug - Iron Nokana_245: 302148118
+      Neo Geo NGCD - Metal Slug - Iron Nokana_246: 796987570
+      Neo Geo NGCD - Metal Slug - Iron Nokana_247: 2145096865
+      Neo Geo NGCD - Metal Slug - Iron Nokana_248: -1644772741
+      Neo Geo NGCD - Metal Slug - Iron Nokana_249: 353284469
+      Neo Geo NGCD - Metal Slug - Iron Nokana_25: 477290775
+      Neo Geo NGCD - Metal Slug - Iron Nokana_250: 128769560
+      Neo Geo NGCD - Metal Slug - Iron Nokana_251: -1388865485
+      Neo Geo NGCD - Metal Slug - Iron Nokana_252: 1592755681
+      Neo Geo NGCD - Metal Slug - Iron Nokana_253: -2071393820
+      Neo Geo NGCD - Metal Slug - Iron Nokana_254: 363116833
+      Neo Geo NGCD - Metal Slug - Iron Nokana_255: -1559008957
+      Neo Geo NGCD - Metal Slug - Iron Nokana_256: 751538249
+      Neo Geo NGCD - Metal Slug - Iron Nokana_257: -1784366579
+      Neo Geo NGCD - Metal Slug - Iron Nokana_258: -1755591146
+      Neo Geo NGCD - Metal Slug - Iron Nokana_259: 1576658249
+      Neo Geo NGCD - Metal Slug - Iron Nokana_26: -1502726345
+      Neo Geo NGCD - Metal Slug - Iron Nokana_260: 1753017383
+      Neo Geo NGCD - Metal Slug - Iron Nokana_261: -1443772445
+      Neo Geo NGCD - Metal Slug - Iron Nokana_262: -1263741071
+      Neo Geo NGCD - Metal Slug - Iron Nokana_263: -1051316655
+      Neo Geo NGCD - Metal Slug - Iron Nokana_264: 1818857970
+      Neo Geo NGCD - Metal Slug - Iron Nokana_265: -1882186251
+      Neo Geo NGCD - Metal Slug - Iron Nokana_266: 1204939509
+      Neo Geo NGCD - Metal Slug - Iron Nokana_267: -1379641352
+      Neo Geo NGCD - Metal Slug - Iron Nokana_268: -1478211784
+      Neo Geo NGCD - Metal Slug - Iron Nokana_269: -584536684
+      Neo Geo NGCD - Metal Slug - Iron Nokana_27: -1510563009
+      Neo Geo NGCD - Metal Slug - Iron Nokana_270: 1486796797
+      Neo Geo NGCD - Metal Slug - Iron Nokana_271: 77418412
+      Neo Geo NGCD - Metal Slug - Iron Nokana_272: -1675894703
+      Neo Geo NGCD - Metal Slug - Iron Nokana_273: -942875559
+      Neo Geo NGCD - Metal Slug - Iron Nokana_274: -1673581906
+      Neo Geo NGCD - Metal Slug - Iron Nokana_275: 152917028
+      Neo Geo NGCD - Metal Slug - Iron Nokana_276: 380983698
+      Neo Geo NGCD - Metal Slug - Iron Nokana_277: -1826896828
+      Neo Geo NGCD - Metal Slug - Iron Nokana_28: -773968502
+      Neo Geo NGCD - Metal Slug - Iron Nokana_29: 1953897589
+      Neo Geo NGCD - Metal Slug - Iron Nokana_3: 7376989
+      Neo Geo NGCD - Metal Slug - Iron Nokana_30: 1412770667
+      Neo Geo NGCD - Metal Slug - Iron Nokana_31: 585848975
+      Neo Geo NGCD - Metal Slug - Iron Nokana_32: 879714192
+      Neo Geo NGCD - Metal Slug - Iron Nokana_33: -784381116
+      Neo Geo NGCD - Metal Slug - Iron Nokana_34: 775511341
+      Neo Geo NGCD - Metal Slug - Iron Nokana_35: -1357253364
+      Neo Geo NGCD - Metal Slug - Iron Nokana_36: 767073579
+      Neo Geo NGCD - Metal Slug - Iron Nokana_37: 99643215
+      Neo Geo NGCD - Metal Slug - Iron Nokana_38: -1377469137
+      Neo Geo NGCD - Metal Slug - Iron Nokana_39: 771600392
+      Neo Geo NGCD - Metal Slug - Iron Nokana_4: -1126894442
+      Neo Geo NGCD - Metal Slug - Iron Nokana_40: -1181962571
+      Neo Geo NGCD - Metal Slug - Iron Nokana_41: 116599468
+      Neo Geo NGCD - Metal Slug - Iron Nokana_42: 666082935
+      Neo Geo NGCD - Metal Slug - Iron Nokana_43: -1758932629
+      Neo Geo NGCD - Metal Slug - Iron Nokana_44: -1682489708
+      Neo Geo NGCD - Metal Slug - Iron Nokana_45: 645841976
+      Neo Geo NGCD - Metal Slug - Iron Nokana_46: -575936019
+      Neo Geo NGCD - Metal Slug - Iron Nokana_47: -1251544881
+      Neo Geo NGCD - Metal Slug - Iron Nokana_48: -1068894869
+      Neo Geo NGCD - Metal Slug - Iron Nokana_49: -80384
+      Neo Geo NGCD - Metal Slug - Iron Nokana_5: -1112836866
+      Neo Geo NGCD - Metal Slug - Iron Nokana_50: -1507252642
+      Neo Geo NGCD - Metal Slug - Iron Nokana_51: -2060309493
+      Neo Geo NGCD - Metal Slug - Iron Nokana_52: 1686043820
+      Neo Geo NGCD - Metal Slug - Iron Nokana_53: 828699908
+      Neo Geo NGCD - Metal Slug - Iron Nokana_54: 947743229
+      Neo Geo NGCD - Metal Slug - Iron Nokana_55: 33872785
+      Neo Geo NGCD - Metal Slug - Iron Nokana_56: 800538340
+      Neo Geo NGCD - Metal Slug - Iron Nokana_57: -1616499375
+      Neo Geo NGCD - Metal Slug - Iron Nokana_58: 271591882
+      Neo Geo NGCD - Metal Slug - Iron Nokana_59: 1577367385
+      Neo Geo NGCD - Metal Slug - Iron Nokana_6: 1075916508
+      Neo Geo NGCD - Metal Slug - Iron Nokana_60: 748602876
+      Neo Geo NGCD - Metal Slug - Iron Nokana_61: -1048867420
+      Neo Geo NGCD - Metal Slug - Iron Nokana_62: -1253083215
+      Neo Geo NGCD - Metal Slug - Iron Nokana_63: -1728027887
+      Neo Geo NGCD - Metal Slug - Iron Nokana_64: -1302872009
+      Neo Geo NGCD - Metal Slug - Iron Nokana_65: -1188445532
+      Neo Geo NGCD - Metal Slug - Iron Nokana_66: -1865873045
+      Neo Geo NGCD - Metal Slug - Iron Nokana_67: -1383791900
+      Neo Geo NGCD - Metal Slug - Iron Nokana_68: -1317074469
+      Neo Geo NGCD - Metal Slug - Iron Nokana_69: 351685417
+      Neo Geo NGCD - Metal Slug - Iron Nokana_7: -1988224968
+      Neo Geo NGCD - Metal Slug - Iron Nokana_70: -1465186065
+      Neo Geo NGCD - Metal Slug - Iron Nokana_71: 1543432002
+      Neo Geo NGCD - Metal Slug - Iron Nokana_72: -1099928728
+      Neo Geo NGCD - Metal Slug - Iron Nokana_73: -739922355
+      Neo Geo NGCD - Metal Slug - Iron Nokana_74: -1257432061
+      Neo Geo NGCD - Metal Slug - Iron Nokana_75: 1168753040
+      Neo Geo NGCD - Metal Slug - Iron Nokana_76: -1711871486
+      Neo Geo NGCD - Metal Slug - Iron Nokana_77: -1423067328
+      Neo Geo NGCD - Metal Slug - Iron Nokana_78: -1861318761
+      Neo Geo NGCD - Metal Slug - Iron Nokana_79: 12667105
+      Neo Geo NGCD - Metal Slug - Iron Nokana_8: -688760152
+      Neo Geo NGCD - Metal Slug - Iron Nokana_80: 1590213056
+      Neo Geo NGCD - Metal Slug - Iron Nokana_81: -1454130394
+      Neo Geo NGCD - Metal Slug - Iron Nokana_82: -1485215965
+      Neo Geo NGCD - Metal Slug - Iron Nokana_83: -1453436977
+      Neo Geo NGCD - Metal Slug - Iron Nokana_84: 1771387838
+      Neo Geo NGCD - Metal Slug - Iron Nokana_85: 203588397
+      Neo Geo NGCD - Metal Slug - Iron Nokana_86: 1849623082
+      Neo Geo NGCD - Metal Slug - Iron Nokana_87: -1980257244
+      Neo Geo NGCD - Metal Slug - Iron Nokana_88: 611138348
+      Neo Geo NGCD - Metal Slug - Iron Nokana_89: -1502891318
+      Neo Geo NGCD - Metal Slug - Iron Nokana_9: -294239440
+      Neo Geo NGCD - Metal Slug - Iron Nokana_90: -164044081
+      Neo Geo NGCD - Metal Slug - Iron Nokana_91: 741422373
+      Neo Geo NGCD - Metal Slug - Iron Nokana_92: 1657989191
+      Neo Geo NGCD - Metal Slug - Iron Nokana_93: -1160652160
+      Neo Geo NGCD - Metal Slug - Iron Nokana_94: -413888780
+      Neo Geo NGCD - Metal Slug - Iron Nokana_95: 1598845675
+      Neo Geo NGCD - Metal Slug - Iron Nokana_96: -849602174
+      Neo Geo NGCD - Metal Slug - Iron Nokana_97: 476361137
+      Neo Geo NGCD - Metal Slug - Iron Nokana_98: 689697542
+      Neo Geo NGCD - Metal Slug - Iron Nokana_99: -770564649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
