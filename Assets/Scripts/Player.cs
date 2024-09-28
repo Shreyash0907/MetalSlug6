@@ -24,7 +24,6 @@ public class player : MonoBehaviour
     private SpriteRenderer spriteRenderer;
     private string WALK_ANIMATION = "walk";
     private bool isOnSlope = false;
-    public LayerMask groundLayer;  
     private float slopeAngle; 
     private BoxCollider2D boxCollider2D;
 
@@ -52,12 +51,14 @@ public class player : MonoBehaviour
     private float leftConstraint;
     private Camera cam; 
     private Collider2D meeleCollider;
+    private float health;
 
     private void Awake(){
         playerBody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         boxCollider2D = GetComponent<BoxCollider2D>();
+        health = PlayerPrefs.GetFloat("PlayerHealth");
         cam = Camera.main;
         float height = 2f * cam.orthographicSize;
         leftConstraint = height * cam.aspect;
@@ -162,7 +163,7 @@ public class player : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D collision)
     {
         if(collision.gameObject.CompareTag("SoldierBullet")){
-            Debug.Log("soldierbullet");
+            health -= 30;
             Destroy(collision.gameObject);
         }
         
@@ -178,7 +179,25 @@ public class player : MonoBehaviour
         if(collision.gameObject.CompareTag("Soldier")){
             
         }
+        if(collision.gameObject.CompareTag("EnemyMeele")){
+            Debug.Log("EEngmey meeleeeee");
+        }
+        if(collision.gameObject.CompareTag("Bomb")){
+            health -= 80;
+        }
 
+    }
+
+    private void OnTriggerEnter2D(Collider2D collider){
+        if(collider.CompareTag("EnemyMeele")){
+            health -= 20f;
+        }
+        if(collider.CompareTag("Bomb")){
+            health -= 80;
+        }
+        if(collider.CompareTag("BigConga")){
+            health -= 50;
+        }
     }
 
     private void OnCollisionExit2D(Collision2D collision)
@@ -190,6 +209,10 @@ public class player : MonoBehaviour
         if(collision.gameObject.CompareTag("Ground")){
             isGrounded = false;
         }
+    }
+
+    void CalculateHealthBar(){
+
     }
 
     // private IEnumerator Delay(float duration)

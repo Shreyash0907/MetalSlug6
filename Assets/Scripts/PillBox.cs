@@ -35,12 +35,13 @@ public class PillBox : MonoBehaviour
         if (bombPrefab != null && firePoint1 != null)
         {
             GameObject bomb = Instantiate(bombPrefab, firePoint1.position, firePoint1.rotation);
+            bomb.tag = "Bomb";
         }
     }
 
     private void FireBullets(){
         GameObject bullet = Instantiate(bulletPrefab,firePoint2.position, firePoint2.rotation);
-
+        bullet.tag = "SoldierBullet";
         SpriteRenderer bulletSpriteRenderer = bullet.GetComponent<SpriteRenderer>();
         Transform capsule = bullet.transform;
         Transform capsulePosition = capsule.GetChild(0);

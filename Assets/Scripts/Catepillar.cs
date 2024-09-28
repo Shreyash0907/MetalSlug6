@@ -12,7 +12,7 @@ public class Catepillat : MonoBehaviour
     public Transform[] lowerFiringPoints;
     private Vector3 originalPos;
     private Animator animator,tongueAnimator;
-    private float health = 100f;
+    private float health = 600f;
     void Start()
     {
         animator = GetComponent<Animator>();

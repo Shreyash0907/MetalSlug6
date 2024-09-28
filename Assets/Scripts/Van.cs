@@ -8,10 +8,15 @@ public class Van : MonoBehaviour
     public Transform swapningPosition;
     private bool isSwapning = false;
     private float health;
+
+    private Animator animator;
+    private Collider2D colliderBody;
     // Start is called before the first frame update
 
     void Start(){
-        health = 200f;
+        health = 250f;
+        animator = GetComponent<Animator>();
+        colliderBody = GetComponent<PolygonCollider2D>();
     }
     void Update()
     {
@@ -53,5 +58,19 @@ public class Van : MonoBehaviour
         return cameraView.x >= 0 && cameraView.x <= 1 && cameraView.y >= 0 && cameraView.y <= 1 && cameraView.z > 0;
     }
 
+    private void OnCollisionEnter2D(Collision2D collision){
+        colliderBody.enabled = true;
+        if(collision.gameObject.CompareTag("PlayerBullet")){
+            health -= 20;
+        }
+        if(collision.gameObject.CompareTag("Grenade")){
+            health -= 60;
+        }
+        if(health < 0){
+            colliderBody.enabled = false;
+            animator.SetTrigger("Destroy");
+            Destroy(gameObject,1.5f);
+        }
+    }
     
 }

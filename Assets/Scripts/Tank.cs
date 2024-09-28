@@ -40,6 +40,7 @@ public class Tank : MonoBehaviour
             }
             animator.SetTrigger("Fire");
             GameObject bomb = Instantiate(bombPrefab, firePoint.position, firePoint.rotation);
+            bomb.tag = "Bomb";
 
             Rigidbody2D rb = bomb.GetComponent<Rigidbody2D>();
             if(spriteRenderer.flipX == true){

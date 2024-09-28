@@ -1,4 +1,5 @@
 
+using UnityEditor;
 using UnityEngine;
 
 public class bullet : MonoBehaviour
@@ -10,10 +11,13 @@ public class bullet : MonoBehaviour
     private Rigidbody2D body;
     public Transform capsule;
     public SpriteRenderer player;
+    private AudioSource audioSource;
 
     // Start is called before the first frame update
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+        audioSource.Play();
         body = GetComponent<Rigidbody2D>();
         Destroy(gameObject, life);
         

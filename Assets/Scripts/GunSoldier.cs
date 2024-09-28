@@ -52,6 +52,8 @@ public class GunSoldier : MonoBehaviour
     private void Fire(){
         GameObject bullet = Instantiate(bulletPrefab,firingPoint.position, firingPoint.rotation);
         bullet.tag = "SoldierBullet";
+        AudioSource audio = bullet.GetComponent<AudioSource>();
+        audio.volume = 0f;
 
         SpriteRenderer bulletSpriteRenderer = bullet.GetComponent<SpriteRenderer>();
         Transform capsule = bullet.transform;
@@ -79,6 +81,7 @@ public class GunSoldier : MonoBehaviour
             animator.SetBool("BulletHit", true);
             Destroy(collision.gameObject);
             StartCoroutine(HandleDeath());
+            ScoreManager.scoreManagerInstance.UpdateScore(30);
         }
     }
 

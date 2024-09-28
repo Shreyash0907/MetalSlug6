@@ -2322,8 +2322,8 @@ TextureImporter:
         y: 575
         width: 106
         height: 86
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5109535, y: 0.52700096}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2343,8 +2343,8 @@ TextureImporter:
         y: 575
         width: 107
         height: 91
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5108517, y: 0.5510348}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2360,7 +2360,7 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_107
       rect:
         serializedVersion: 2
-        x: 875
+        x: 876
         y: 574
         width: 109
         height: 95
@@ -2444,12 +2444,12 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_117
       rect:
         serializedVersion: 2
-        x: 1125
-        y: 576
-        width: 116
-        height: 75
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 1129
+        y: 577
+        width: 113
+        height: 84
+      alignment: 9
+      pivot: {x: 0.4799848, y: 0.57353646}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2486,12 +2486,12 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_124
       rect:
         serializedVersion: 2
-        x: 1257
+        x: 1256
         y: 576
-        width: 117
-        height: 74
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 118
+        height: 90
+      alignment: 9
+      pivot: {x: 0.500001, y: 0.6548055}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2507,10 +2507,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_143
       rect:
         serializedVersion: 2
-        x: 61
+        x: 58
         y: 461
-        width: 119
-        height: 68
+        width: 122
+        height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2528,10 +2528,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_149
       rect:
         serializedVersion: 2
-        x: 473
+        x: 470
         y: 461
-        width: 120
-        height: 79
+        width: 123
+        height: 103
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2549,10 +2549,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_151
       rect:
         serializedVersion: 2
-        x: 198
+        x: 194
         y: 462
-        width: 121
-        height: 54
+        width: 125
+        height: 98
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2570,10 +2570,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_153
       rect:
         serializedVersion: 2
-        x: 332
+        x: 331
         y: 461
-        width: 122
-        height: 59
+        width: 123
+        height: 103
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2591,10 +2591,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_154
       rect:
         serializedVersion: 2
-        x: 605
+        x: 603
         y: 461
-        width: 121
-        height: 50
+        width: 123
+        height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2612,10 +2612,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_155
       rect:
         serializedVersion: 2
-        x: 741
+        x: 736
         y: 462
-        width: 122
-        height: 49
+        width: 127
+        height: 109
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2633,10 +2633,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_156
       rect:
         serializedVersion: 2
-        x: 870
+        x: 865
         y: 463
-        width: 123
-        height: 45
+        width: 128
+        height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2654,10 +2654,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_157
       rect:
         serializedVersion: 2
-        x: 996
+        x: 995
         y: 463
-        width: 124
-        height: 43
+        width: 125
+        height: 104
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2675,10 +2675,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_158
       rect:
         serializedVersion: 2
-        x: 1123
+        x: 1119
         y: 463
-        width: 124
-        height: 40
+        width: 128
+        height: 100
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2696,10 +2696,10 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_159
       rect:
         serializedVersion: 2
-        x: 1250
+        x: 1248
         y: 463
-        width: 126
-        height: 37
+        width: 128
+        height: 97
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2717,12 +2717,12 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_160
       rect:
         serializedVersion: 2
-        x: 65
+        x: 66
         y: 410
-        width: 126
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 125
+        height: 50
+      alignment: 9
+      pivot: {x: 0.49071148, y: 1.0340766}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2738,12 +2738,12 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_161
       rect:
         serializedVersion: 2
-        x: 194
+        x: 197
         y: 410
-        width: 126
-        height: 29
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 123
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5188787, y: 0.89431477}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2759,12 +2759,12 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_162
       rect:
         serializedVersion: 2
-        x: 329
-        y: 384
-        width: 136
-        height: 51
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 334
+        y: 406
+        width: 121
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48254165, y: 0.8337978}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2780,12 +2780,12 @@ TextureImporter:
       name: Neo Geo NGCD - Metal Slug 3 - Ohumein Conga_163
       rect:
         serializedVersion: 2
-        x: 458
+        x: 456
         y: 410
-        width: 124
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 126
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.7409685}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2803,10 +2803,10 @@ TextureImporter:
         serializedVersion: 2
         x: 585
         y: 410
-        width: 122
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 129
+        height: 54
+      alignment: 9
+      pivot: {x: 0.48171997, y: 0.78790504}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2824,10 +2824,10 @@ TextureImporter:
         serializedVersion: 2
         x: 710
         y: 410
-        width: 118
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 124
+        height: 49
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9230434}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

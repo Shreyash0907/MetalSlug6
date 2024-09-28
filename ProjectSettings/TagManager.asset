@@ -12,6 +12,10 @@ TagManager:
   - PlayerBullet
   - Grenade
   - Meele
+  - EnemyMeele
+  - Rocket
+  - Bomb
+  - BigConga
   layers:
   - Default
   - TransparentFX

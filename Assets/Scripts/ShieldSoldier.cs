@@ -63,6 +63,7 @@ public class ShieldSoldier : MonoBehaviour
         {
             animator.SetBool("bulletHit", true);
         }
+        ScoreManager.scoreManagerInstance.UpdateScore(25);
         StartCoroutine(HandleDeath());
     }
 
@@ -80,7 +81,7 @@ public class ShieldSoldier : MonoBehaviour
             // StartCoroutine(HandleDeath());
             Destroy(collision.gameObject);
         }
-        if(collision.gameObject.CompareTag("Grenade"))
+        if(collision.gameObject.CompareTag("Grenade") || collision.gameObject.CompareTag("Meele"))
         {
             animator.SetBool("bulletHit", true);
             StartCoroutine(HandleDeath());

@@ -67,12 +67,14 @@ public class Soldier : MonoBehaviour
     {
         Debug.Log(collision.gameObject.tag);
         if(collision.gameObject.CompareTag("Meele")){
+            ScoreManager.scoreManagerInstance.UpdateScore(20);
             Die();
         }
         if(collision.gameObject.CompareTag("PlayerBullet") || collision.gameObject.CompareTag("Grenade"))
         {
             colliderbody.enabled = false;
             moveSpeed = 0f;
+            ScoreManager.scoreManagerInstance.UpdateScore(20);
             Die();
             Destroy(collision.gameObject);
         }
