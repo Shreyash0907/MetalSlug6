@@ -10,9 +10,12 @@ public class Car : MonoBehaviour
     public float waitTime =1f;
     private Animator animator;
     private SpriteRenderer spriteRenderer;
+    private float health;
+    private Coroutine moveCar;
     private void Start()
     {
-        StartCoroutine(MoveCar());
+        health = 200f;
+        moveCar = StartCoroutine(MoveCar());
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
@@ -25,7 +28,7 @@ public class Car : MonoBehaviour
             // StartCoroutine(ChangeSide(1));
             animator.SetTrigger("turn");
             yield return new WaitForSeconds(waitTime);
-            spriteRenderer.flipX = true;
+            spriteRenderer.flipX = !spriteRenderer.flipX;
             
             // animator.SetTrigger("turn");
             
@@ -33,7 +36,7 @@ public class Car : MonoBehaviour
             // StartCoroutine(ChangeSide(0));
             animator.SetTrigger("turn");
             yield return new WaitForSeconds(waitTime);
-            spriteRenderer.flipX = false;
+            spriteRenderer.flipX = !spriteRenderer.flipX;
             // animator.SetTrigger("turn");
             
 
@@ -61,4 +64,24 @@ public class Car : MonoBehaviour
             yield return null;
         }
     }
+
+    void OnTriggerEnter2D(Collider2D collider){
+        if(collider.CompareTag("PlayerBullet")){
+            health -= 15;
+            Destroy(collider.gameObject);
+        }
+        if(collider.CompareTag("Grenade")){
+            health -= 50;
+            Destroy(collider.gameObject);
+        }
+
+        if(health <= 0){
+            // StopCoroutine(moveCar);
+            // moveCar = null;
+            ScoreManager.scoreManagerInstance.UpdateScore(150);
+            animator.SetTrigger("destroy");
+            Destroy(gameObject, 1.7f);
+        }
+    }
+
 }

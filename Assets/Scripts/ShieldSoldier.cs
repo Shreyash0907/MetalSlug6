@@ -75,18 +75,23 @@ public class ShieldSoldier : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        Debug.Log("Shield "+collision.tag);
         if(collision.gameObject.CompareTag("PlayerBullet"))
         {
             // animator.SetBool("bulletHit", true);
             // StartCoroutine(HandleDeath());
             Destroy(collision.gameObject);
         }
-        if(collision.gameObject.CompareTag("Grenade") || collision.gameObject.CompareTag("Meele"))
+        if(collision.gameObject.CompareTag("Grenade"))
         {
             animator.SetBool("bulletHit", true);
             StartCoroutine(HandleDeath());
             Destroy(collision.gameObject);
             // Destroy(gameObject);
+        }
+        if(collision.gameObject.CompareTag("Meele")){
+            animator.SetBool("bulletHit", true);
+            StartCoroutine(HandleDeath());
         }
         if (collision.CompareTag("Player"))
         {

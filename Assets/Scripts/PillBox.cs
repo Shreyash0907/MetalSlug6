@@ -62,6 +62,7 @@ public class PillBox : MonoBehaviour
         }
         if(health <= 0){
             colliderbody.enabled = false;
+            ScoreManager.scoreManagerInstance.UpdateScore(150);
             animator.SetTrigger("Destroyed");
             Destroy(gameObject, 1f);
         }

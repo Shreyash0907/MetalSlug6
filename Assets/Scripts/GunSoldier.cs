@@ -80,7 +80,8 @@ public class GunSoldier : MonoBehaviour
             colliderBody.enabled = false;
             animator.SetBool("BulletHit", true);
             Destroy(collision.gameObject);
-            StartCoroutine(HandleDeath());
+            // StartCoroutine(HandleDeath());
+            Destroy(gameObject,0.5f);
             ScoreManager.scoreManagerInstance.UpdateScore(30);
         }
     }
@@ -88,7 +89,7 @@ public class GunSoldier : MonoBehaviour
     private IEnumerator HandleDeath()
     {
         yield return new WaitForSeconds(0.5f);
-        Destroy(gameObject);
+        
     }
 
     private bool IsInCameraView()

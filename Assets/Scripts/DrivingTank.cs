@@ -67,6 +67,8 @@ public class DrivingTank : MonoBehaviour
         }
         if(health <= 0){
             colliderBody.enabled = false;
+            ScoreManager.scoreManagerInstance.UpdateScore(200);
+
             animator.SetTrigger("destroy");
             Destroy(gameObject,1.5f);
         }

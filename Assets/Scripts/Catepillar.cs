@@ -8,8 +8,8 @@ public class Catepillat : MonoBehaviour
 {
     public GameObject spit;
     private Transform tongue;
-    public Transform[] upperFiringPoints;
-    public Transform[] lowerFiringPoints;
+    private Transform[] upperFiringPoints;
+    private Transform[] lowerFiringPoints;
     private Vector3 originalPos;
     private Animator animator,tongueAnimator;
     private float health = 600f;
@@ -125,16 +125,16 @@ public class Catepillat : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collider){
         if(collider.gameObject.CompareTag("PlayerBullet")){
             health -= 25;
-            Destroy(collider);
+            Destroy(collider.gameObject);
         }
         if(collider.gameObject.CompareTag("Grenade")){
-            health -= 150;
-            Destroy(collider,0.1f);
+            health -= 100;
+            Destroy(collider.gameObject,0.1f);
         }
         if(health <= 0){
             animator.SetTrigger("dead");
             tongueAnimator.SetTrigger("dead");
-            
+            ScoreManager.scoreManagerInstance.UpdateScore(250);
             Destroy(gameObject,1.5f);
         }
     }

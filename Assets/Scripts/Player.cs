@@ -1,11 +1,19 @@
-using System.Collections;
-using System.Collections.Generic;
-using System.Runtime.InteropServices.WindowsRuntime;
-using Unity.VisualScripting;
+// using System.Collections;
+// using System.Collections.Generic;
+// using System.Runtime.InteropServices.WindowsRuntime;
+// using Unity.VisualScripting;
 
 // using System.Numerics;
+// using System.Collections;
+// using System.Diagnostics;
+using System.Collections;
 using UnityEngine;
-using UnityEngine.UIElements;
+using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
+
+
+// using UnityEngine.UIElements;
+using UnityEngine.UI;
 
 public class player : MonoBehaviour
 {
@@ -18,7 +26,7 @@ public class player : MonoBehaviour
 
     private float moveX, moveY;
 
-    private float horizontalMovement;
+    // private float horizontalMovement;
     private Rigidbody2D playerBody;
     private Animator animator;
     private SpriteRenderer spriteRenderer;
@@ -43,22 +51,26 @@ public class player : MonoBehaviour
     private bool isWalking = false;
     
     private bool isGrounded = true;
-    private float minX = -7.806f;
+    // private float minX = -7.806f;
     private float maxX = 29.781f;
     private bool isLookingUp = false;
     private bool isCrouched = false;
     private bool isLookingLeft = false;
     private float leftConstraint;
     private Camera cam; 
-    private Collider2D meeleCollider;
+
     private float health;
+    private Transform swapntransform;
+    [SerializeField] private Image healthBar;
+
 
     private void Awake(){
         playerBody = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         boxCollider2D = GetComponent<BoxCollider2D>();
-        health = PlayerPrefs.GetFloat("PlayerHealth");
+        health = PlayerPrefs.GetFloat("PlayerHealth",800f);
+        // ScoreManager.scoreManagerInstance.GetScoreNextLevel();
         cam = Camera.main;
         float height = 2f * cam.orthographicSize;
         leftConstraint = height * cam.aspect;
@@ -68,11 +80,6 @@ public class player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Transform childTransform = transform.Find("Meele");
-        if (childTransform != null)
-        {
-            meeleCollider = childTransform.GetComponent<EdgeCollider2D>();
-        }
     }
 
 
@@ -97,6 +104,8 @@ public class player : MonoBehaviour
         if(Input.GetMouseButtonDown(0)){
             Shoot();
         }
+
+        swapntransform = transform;
 
     }
 
@@ -185,6 +194,11 @@ public class player : MonoBehaviour
         if(collision.gameObject.CompareTag("Bomb")){
             health -= 80;
         }
+        if(collision.gameObject.CompareTag("Rocket")){
+            health -= 80;
+        }
+        CheckDying();
+        CalculateHealthBar();
 
     }
 
@@ -193,13 +207,63 @@ public class player : MonoBehaviour
             health -= 20f;
         }
         if(collider.CompareTag("Bomb")){
-            health -= 80;
+            health -= 60;
         }
         if(collider.CompareTag("BigConga")){
             health -= 50;
         }
+        if(collider.CompareTag("Car")){
+            health -= 40;
+        }
+        if(collider.CompareTag("Fire")){
+            health -= 10;
+        }
+        CheckDying();
+        CalculateHealthBar();
     }
 
+    IEnumerator HandleDeath(){
+        yield return new WaitForSeconds(4f);
+        SceneManager.LoadScene("GameOver");
+    }
+
+    private void CheckDying(){
+        if(health <= 0){
+            animator.SetTrigger("die");
+            
+            if(ScoreManager.scoreManagerInstance.lives > 0){
+                ScoreManager.scoreManagerInstance.lives--;
+                boxCollider2D.enabled = false;
+                playerBody.isKinematic = true;
+                StartCoroutine(ReSwapn());
+                PlayerPrefs.SetFloat("PlayerHealth", 800f);
+                PlayerPrefs.Save();
+            }else{
+                StartCoroutine(HandleDeath());
+            }
+
+        }
+
+    }
+
+    IEnumerator ReSwapn(){
+        yield return new WaitForSeconds(3f);
+        // swapntransform = transform;
+        // Destroy(gameObject, 3f);
+        // StartCoroutine(HandleSwapn());
+        health = 800f;
+        CalculateHealthBar();
+        animator.SetTrigger("swapn");
+        Vector3 postion = new Vector3(transform.position.x, transform.position.y + 0.6f, transform.position.z);
+        transform.position = postion;
+        boxCollider2D.enabled = true;
+        playerBody.isKinematic = false;
+    }
+
+    // IEnumerator HandleSwapn(){
+    //     yield return new WaitForSeconds(2f);
+    //     Instantiate(gameObject, swapntransform.position, swapntransform.rotation);
+    // }
     private void OnCollisionExit2D(Collision2D collision)
     {
         if (collision.gameObject.CompareTag("Slope"))
@@ -212,7 +276,7 @@ public class player : MonoBehaviour
     }
 
     void CalculateHealthBar(){
-
+        healthBar.fillAmount = health / 800;
     }
 
     // private IEnumerator Delay(float duration)

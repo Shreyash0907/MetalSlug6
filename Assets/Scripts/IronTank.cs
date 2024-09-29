@@ -13,19 +13,24 @@ public class IronTank : MonoBehaviour
     private Animator animator, flameAnimator;
     private bool isTrasformed = false;
     private Collider2D colliderbody;
+    private GameObject flame,upperbody;
     void Start()
     {
         health = 500;
         animator = GetComponent<Animator>();
-        GameObject childObject = transform.Find("FlameFiringPoint")?.gameObject;
-        flameAnimator = childObject.GetComponent<Animator>();
+        flame = transform.Find("FlameFiringPoint")?.gameObject;
+        upperbody = transform.Find("1_0")?.gameObject;
+        flameAnimator = flame.GetComponent<Animator>();
         colliderbody = GetComponent<PolygonCollider2D>();
         InvokeRepeating("FireBomb", 0f,2f);
     }
 
     private IEnumerator Flames(){
         yield return new WaitForSeconds(2f);
-        flameAnimator.SetBool("flame",false);
+        if(flameAnimator != null){
+            flameAnimator.SetBool("flame",false);
+        }
+        
     }
 
     private void FlameThrower(){
@@ -41,6 +46,7 @@ public class IronTank : MonoBehaviour
             {
                 Vector2 force = new Vector2(-5,1) ;
                 bombRigidbody.AddForce(force, ForceMode2D.Impulse);
+                bomb.tag = "Bomb";
             }
         }
         
@@ -59,6 +65,10 @@ public class IronTank : MonoBehaviour
             if(health <= 0){
                 animator.SetTrigger("destroy");
                 flameAnimator.SetTrigger("destroyed");
+                Destroy(flame);
+                Destroy(upperbody);
+                Destroy(gameObject,2f);
+                ScoreManager.scoreManagerInstance.UpdateScore(300);
                 colliderbody.enabled = false;
                 CancelInvoke(nameof(FireBomb));
                 CancelInvoke(nameof(FlameThrower));

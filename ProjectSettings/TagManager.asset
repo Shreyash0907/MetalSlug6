@@ -16,6 +16,8 @@ TagManager:
   - Rocket
   - Bomb
   - BigConga
+  - Car
+  - Fire
   layers:
   - Default
   - TransparentFX

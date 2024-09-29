@@ -444,7 +444,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 434229110}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1883676264}
+        m_TargetAssemblyTypeName: mainMenu, Assembly-CSharp
+        m_MethodName: Exit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &434229110
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -862,10 +874,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1883676259}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0e312471a09274049863ec7e0497b53b, type: 3}
+  m_Script: {fileID: 11500000, guid: 8f28f93420fb5a5468677e076c5983f3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelButtons: []
 --- !u!224 &1906656367 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 6834571540660601259, guid: c6d880e56b729294b9e15f23665f569c, type: 3}
@@ -1238,11 +1249,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1550605847450111466, guid: c6d880e56b729294b9e15f23665f569c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: LoadLevelMenu
+      value: LoadLevels
       objectReference: {fileID: 0}
     - target: {fileID: 1550605847450111466, guid: c6d880e56b729294b9e15f23665f569c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: OpenLevel, Assembly-CSharp
+      value: mainMenu, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 1550605847450111466, guid: c6d880e56b729294b9e15f23665f569c, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName

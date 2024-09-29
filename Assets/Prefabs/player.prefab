@@ -25,7 +25,7 @@ Transform:
   m_GameObject: {fileID: 524348998225632014}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.15, y: 0.06, z: 0}
+  m_LocalPosition: {x: 0.198, y: 0.068, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -183,9 +183,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveForce: 1
   jumpForce: 4
-  groundLayer:
-    serializedVersion: 2
-    m_Bits: 0
   bulletPrefab: {fileID: 8715052828339213274, guid: 5383ad1487605df428f74ffccbd15eac, type: 3}
   grenadePrefab: {fileID: 8608246461801326332, guid: fe825e905151be24295723a933834401, type: 3}
   firingPoint: {fileID: 2740525284036022373}
@@ -195,6 +192,7 @@ MonoBehaviour:
   crouchingOffset: {x: -0.08033, y: 0}
   crouchFiring: {x: 0.15, y: -0.1, z: 0}
   standingFiring: {x: 0.15, y: 0.06, z: 0}
+  healthBar: {fileID: 0}
 --- !u!61 &8518049611316869873
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -227,7 +225,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.03228209, y: -0.0015799701}
+  m_Offset: {x: -0.03228209, y: -0.031710617}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -238,7 +236,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.13323069, y: 0.5110237}
+  m_Size: {x: 0.13323069, y: 0.4507624}
   m_EdgeRadius: 0
 --- !u!1 &7616071453787216980
 GameObject:

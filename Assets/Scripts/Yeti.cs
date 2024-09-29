@@ -22,27 +22,15 @@ public class Yeti : MonoBehaviour
     // Update is called once per frame
     void Update(){
         float xDistance = Mathf.Abs(player.position.x - transform.position.x);
-        if(xDistance <= 0.5f){
+        if(xDistance <= 1f){
             animator.SetTrigger("Attack");
-            MoveTowardsPlayer();
         }
-        else if (xDistance <= distance)
-        {
-            MoveTowardsPlayer();
-            animator.SetBool("walk", true);
-        }
+        
         if(player.position.x > transform.position.x){
             spriteRenderer.flipX = true;
         }else{
             spriteRenderer.flipX = false;
         }
-    }
-
-    void MoveTowardsPlayer()
-    {
-        Vector3 direction = (player.position - transform.position).normalized;
-        direction.y = 0;
-        transform.position += direction * moveSpeed * Time.deltaTime;
     }
 
     private IEnumerator HandleDeath()
@@ -69,6 +57,7 @@ public class Yeti : MonoBehaviour
         {
             colliderbody.enabled = false;
             moveSpeed = 0f;
+            ScoreManager.scoreManagerInstance.UpdateScore(50);
             Die();
             Destroy(collision.gameObject);
         }

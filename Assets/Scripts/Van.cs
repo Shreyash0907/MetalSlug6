@@ -68,6 +68,7 @@ public class Van : MonoBehaviour
         }
         if(health < 0){
             colliderBody.enabled = false;
+            ScoreManager.scoreManagerInstance.UpdateScore(150);
             animator.SetTrigger("Destroy");
             Destroy(gameObject,1.5f);
         }

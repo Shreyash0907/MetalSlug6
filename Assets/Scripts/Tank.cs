@@ -62,7 +62,8 @@ public class Tank : MonoBehaviour
             health -= 10f;
         }
         if(health <= 0){
-            animator.SetTrigger("Destroyed");
+            animator.SetTrigger("TankDestroyed");
+            ScoreManager.scoreManagerInstance.UpdateScore(100);
             spriteRenderer.sortingOrder = 3;
             Destroy(gameObject, 4f);
         }
